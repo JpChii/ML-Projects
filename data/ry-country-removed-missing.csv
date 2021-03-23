@@ -1,0 +1,7281 @@
+,release_year,country
+0,2020,Brazil
+1,2016,Mexico
+2,2011,Singapore
+3,2009,United States
+4,2008,United States
+5,2016,Turkey
+6,2019,Egypt
+7,1997,United States
+8,2019,India
+9,2008,India
+10,2017,United States
+11,2018,"Poland, United States"
+12,2019,Mexico
+13,2018,Thailand
+14,2019,United States
+15,2014,Nigeria
+17,2018,"Norway, Iceland, United States"
+18,2019,India
+19,2017,United Kingdom
+20,2018,India
+21,2018,India
+22,2017,India
+23,2017,India
+24,2020,Japan
+25,2015,United States
+26,2020,United States
+27,2020,South Korea
+28,2019,Italy
+29,2020,United States
+30,2020,Canada
+31,2018,Indonesia
+32,2020,Indonesia
+33,2017,United States
+34,2018,Canada
+35,2016,United States
+36,2014,Romania
+37,2016,Romania
+39,2019,Spain
+40,2015,Turkey
+41,2017,Iceland
+42,2010,Turkey
+43,2020,Nigeria
+44,2005,United States
+45,2013,Turkey
+46,2014,United States
+47,2017,United States
+48,2017,"South Africa, Nigeria"
+49,2012,France
+50,2008,"United States, South Africa"
+51,2018,South Korea
+52,2018,Spain
+53,2020,United States
+54,2016,"Portugal, Spain"
+55,2014,United States
+56,2016,United States
+57,2020,Indonesia
+58,2017,United Kingdom
+59,2014,India
+60,2017,United States
+61,2014,South Korea
+62,2015,United States
+63,2020,United States
+64,2019,United States
+65,2014,United States
+66,2016,United States
+68,2010,"Hong Kong, China, Singapore"
+69,2018,United States
+70,2016,United States
+71,2006,"United States, Germany"
+72,2009,United States
+73,2020,Italy
+74,2016,Spain
+75,2019,United States
+76,2018,United States
+77,2008,France
+78,2014,India
+79,2013,United States
+80,2013,Turkey
+81,2015,South Korea
+82,2018,United Kingdom
+83,2016,United States
+84,2013,United States
+85,2019,United Kingdom
+86,2018,India
+87,2017,Canada
+88,2016,United States
+89,2017,"South Africa, China, United States"
+90,2016,India
+91,2012,South Korea
+92,2018,Argentina
+93,2017,United Kingdom
+94,2000,United States
+95,2016,South Korea
+96,2014,"United States, France, Serbia"
+98,2015,United States
+99,2016,Indonesia
+100,2009,India
+101,2018,Canada
+102,2015,Germany
+103,2016,Egypt
+104,2011,United States
+105,1989,"Denmark, France, Poland"
+106,2020,Poland
+107,2020,Japan
+108,2019,United States
+109,2019,Kenya
+110,2017,United States
+111,2018,Italy
+112,2019,Spain
+113,2017,Canada
+114,2019,Spain
+115,2015,United States
+116,2019,Nigeria
+118,2014,United States
+119,2018,Italy
+120,2014,United States
+121,2004,United States
+122,2011,United States
+123,2012,Indonesia
+124,2019,Romania
+125,2018,United States
+126,2017,"New Zealand, United Kingdom"
+127,2019,United States
+128,2015,United States
+129,2014,India
+130,2019,United States
+131,2017,United States
+132,2019,India
+133,2016,Spain
+134,2018,United States
+135,2018,Pakistan
+136,2011,India
+137,2016,Australia
+138,2018,Australia
+139,2017,"Australia, United States"
+140,2016,Australia
+142,2016,United States
+143,2019,India
+144,2016,Nigeria
+145,2011,Australia
+146,2019,"Mexico, United States"
+147,2020,United States
+148,2017,"United States, China"
+149,2011,"China, Hong Kong"
+150,2016,India
+151,2016,United States
+152,2017,Taiwan
+153,1977,"United States, United Kingdom"
+154,2020,United States
+155,2018,United States
+156,2016,Turkey
+157,2020,Taiwan
+158,2018,Canada
+159,2017,United States
+160,2019,United States
+161,2018,United States
+162,2016,"France, South Korea, Japan"
+163,2004,"United States, Canada"
+164,2019,United States
+165,1971,"United Kingdom, United States"
+166,1993,United States
+167,2014,United States
+168,2020,United States
+169,2015,"Netherlands, Denmark, South Africa"
+170,2016,"Canada, United States"
+171,2019,United States
+172,2016,India
+173,2018,Denmark
+174,2018,United States
+175,2017,United States
+176,2012,United States
+177,2020,United States
+180,2013,Taiwan
+181,2015,United Kingdom
+182,2017,United States
+183,2013,United States
+184,2019,United States
+185,2015,Germany
+186,2011,United States
+187,2019,Hong Kong
+188,2017,Taiwan
+189,2019,"United States, China"
+190,2016,United States
+191,2017,South Korea
+192,2019,"France, Netherlands, Singapore"
+193,2018,United States
+194,2020,Argentina
+195,2006,United States
+196,2014,United Kingdom
+197,2018,United States
+198,2019,China
+199,2020,South Korea
+200,2020,United States
+201,2007,Philippines
+202,2010,South Korea
+203,2016,France
+205,2016,"United Kingdom, Spain, United States"
+206,2014,"United Arab Emirates, United States"
+207,2014,United States
+208,2017,Brazil
+209,2020,United States
+210,1998,United States
+211,2015,Netherlands
+212,2015,United Kingdom
+213,2020,Germany
+214,2012,United States
+215,2013,United States
+216,2016,"United Kingdom, Hong Kong"
+217,2011,United States
+218,2020,Brazil
+219,2019,Spain
+220,2011,Canada
+221,2016,India
+222,2015,Philippines
+223,2020,United States
+224,2011,"Iran, France"
+225,2019,United States
+226,2009,"United States, United Kingdom, France"
+227,2020,"United Kingdom, France, Belgium, United States, China"
+228,2016,Japan
+229,2009,United States
+230,2017,"Argentina, Brazil, France, Poland, Germany, Denmark"
+231,2015,United States
+232,1988,United States
+233,2017,United States
+234,2019,Taiwan
+235,2018,Taiwan
+236,2015,"Israel, United States"
+237,2019,"United States, Mexico"
+238,1996,United States
+239,2019,Taiwan
+240,2012,United States
+241,2016,Taiwan
+243,2016,Nigeria
+244,2020,India
+245,2018,"Uruguay, Argentina, Spain"
+246,2017,"United States, Canada"
+247,2015,United States
+248,2018,France
+249,2008,Philippines
+250,2002,United States
+251,2008,India
+252,2017,United States
+253,2020,Japan
+254,2017,Canada
+255,2018,United States
+256,2015,United States
+257,2016,"Singapore, France"
+258,2013,United Kingdom
+259,2015,United States
+260,2018,Japan
+261,2019,Canada
+262,2018,United States
+263,2011,Turkey
+264,2017,India
+265,2009,India
+266,2013,India
+267,1988,India
+268,2018,India
+269,2008,India
+270,2018,India
+271,2011,India
+272,2010,India
+273,1993,India
+274,2010,India
+275,2019,India
+276,2019,"United States, Canada"
+277,2015,India
+278,2015,India
+279,2013,India
+280,2012,Egypt
+281,2017,United States
+282,2016,Pakistan
+283,2016,India
+284,2017,South Korea
+285,2012,United States
+286,2002,"United Kingdom, United States, France, Germany"
+287,2013,United Kingdom
+288,2019,United States
+289,2020,United States
+290,2019,South Korea
+291,2015,Argentina
+292,2016,Mexico
+293,2009,Hong Kong
+294,2018,China
+295,2013,United States
+296,2015,Canada
+297,2007,"United States, United Kingdom"
+298,2012,United States
+299,2010,"Turkey, United States"
+300,2010,India
+301,2017,"Bulgaria, United States"
+302,2018,Canada
+303,2018,France
+304,2020,Spain
+305,2019,United States
+306,2018,United States
+307,2018,United States
+308,1986,United States
+309,2014,France
+310,2018,United States
+311,2018,India
+312,2017,India
+313,2013,"Australia, France"
+314,2018,"Hong Kong, Iceland, United States"
+315,2017,India
+316,2015,United States
+317,2018,"Canada, United States"
+318,2016,United Arab Emirates
+319,2018,United States
+320,2020,Brazil
+321,2013,United Kingdom
+322,2017,Brazil
+323,2019,United States
+324,2020,United Kingdom
+325,2019,United States
+326,2012,United States
+327,2018,United States
+328,2019,"United States, Mexico"
+329,2020,United States
+330,2017,"United Kingdom, United States"
+331,2008,United States
+332,2012,"United States, Chile"
+333,2014,Singapore
+334,2018,United Kingdom
+335,2017,United Kingdom
+337,2018,Taiwan
+338,2017,"Germany, France, Russia"
+339,2019,"Mauritius, South Africa"
+340,2015,India
+341,2020,Japan
+342,2018,Japan
+343,1990,India
+344,2018,Argentina
+345,2009,India
+346,2006,India
+347,2012,United States
+348,2019,Japan
+349,2018,Japan
+350,2014,United Kingdom
+351,2020,"United States, Japan"
+352,2020,United States
+353,2015,India
+354,2004,India
+355,2018,India
+356,2012,India
+357,2020,United States
+358,2009,India
+360,2016,Japan
+361,2017,India
+362,2020,India
+363,2014,Japan
+364,2019,India
+367,2017,Lebanon
+368,2020,India
+370,2017,Mexico
+371,2017,Egypt
+372,2017,United States
+373,2019,India
+374,2016,"United States, Bulgaria"
+375,2018,Colombia
+376,2018,Spain
+377,2019,"Uruguay, Argentina"
+378,2020,Mexico
+379,2018,United States
+380,2020,United States
+381,1979,"Egypt, Algeria"
+382,1989,"France, Egypt"
+383,2019,Uruguay
+384,2019,United Arab Emirates
+385,2015,Turkey
+386,2016,United States
+387,2018,United States
+388,2018,Australia
+389,2017,Canada
+391,1980,"Soviet Union, India"
+392,1974,United States
+393,2020,Japan
+394,2019,Brazil
+395,2017,United States
+397,2019,United States
+398,2020,United Kingdom
+399,2020,United States
+400,2018,United States
+401,2016,"Sweden, United States"
+402,2017,South Africa
+403,2018,United States
+404,2018,United States
+405,2019,United States
+406,2020,Malaysia
+407,2020,United States
+408,1989,"Ireland, United Kingdom, United States"
+409,2020,Colombia
+410,2019,"Spain, Italy"
+411,2017,United States
+413,2016,United States
+414,2019,United States
+415,2018,United States
+416,2017,Philippines
+417,2006,United States
+418,2020,United States
+419,2018,United Kingdom
+420,2020,Mexico
+421,2017,Brazil
+422,2020,United States
+423,2009,Hong Kong
+424,2019,Germany
+425,2017,United States
+426,2020,Argentina
+427,2020,United States
+429,2016,"United Kingdom, France, Germany"
+430,2019,Philippines
+431,2001,"United States, Germany, Canada"
+432,2013,United States
+433,2014,"United States, India"
+434,2014,United Kingdom
+435,2017,United States
+437,2020,United States
+438,2020,"Japan, United States"
+439,2019,United States
+440,2019,Colombia
+441,2016,Philippines
+442,2016,"Denmark, United States"
+443,2002,"South Africa, United States"
+444,2017,Spain
+445,2015,United Kingdom
+446,1977,India
+447,2011,Egypt
+448,2018,United States
+449,2018,United Kingdom
+450,2017,United Kingdom
+451,2014,United States
+452,2013,United States
+453,2016,United States
+454,2017,United States
+455,1999,United States
+456,2017,United States
+457,2017,United States
+458,2016,United States
+459,2017,United States
+460,2018,United States
+461,2018,United States
+462,2019,United States
+463,2019,United States
+464,2019,Canada
+465,2014,"Canada, Luxembourg"
+466,1998,United States
+467,2016,"United Kingdom, United States"
+468,2019,United States
+469,2018,United States
+470,2020,United States
+471,2015,United States
+472,2020,United States
+473,2000,"United States, Canada"
+474,2019,United States
+475,2018,United States
+476,2019,United States
+477,2019,India
+478,2017,Philippines
+479,2017,Turkey
+480,1966,India
+481,2015,United Kingdom
+482,2019,United States
+483,2017,United States
+484,2013,India
+485,1986,United States
+486,1991,United States
+487,1999,United States
+488,2000,United States
+489,2019,France
+490,1982,Egypt
+491,2018,"United Kingdom, United States"
+492,2012,Egypt
+493,2017,United States
+494,2012,Taiwan
+495,2018,United States
+496,2017,"Serbia, United States"
+497,2020,Colombia
+498,2014,Egypt
+499,2018,Brazil
+500,2014,India
+501,2017,India
+502,2017,Spain
+503,2010,"Canada, Nigeria"
+504,2018,United States
+505,2018,"Iceland, Sweden, Belgium"
+506,2008,Egypt
+507,1994,India
+508,2018,India
+510,2020,India
+511,2020,Singapore
+512,2020,France
+513,2015,United States
+514,2017,India
+515,2014,Taiwan
+516,2010,Japan
+517,2001,United States
+518,2019,United States
+519,2018,"Ireland, Canada"
+520,2020,United States
+521,2009,"United States, Italy"
+522,2003,United States
+523,2018,Finland
+524,2015,"India, Germany"
+526,2018,India
+527,2019,United Kingdom
+528,2020,"China, Spain, South Korea, United States"
+529,2018,China
+530,2018,"Spain, Belgium"
+531,2020,Brazil
+532,2014,India
+533,2018,India
+534,2018,India
+535,2015,United States
+536,2013,India
+537,2013,India
+538,2016,United States
+539,2019,Canada
+540,2011,Japan
+541,2018,"United Kingdom, Canada, United States, Germany"
+542,2016,"Brazil, Netherlands, United States, Colombia, Austria, Germany"
+543,2019,United States
+544,2016,South Korea
+546,2018,United States
+547,2017,Egypt
+549,2018,United States
+550,2019,United States
+551,2015,United States
+552,2006,India
+553,2018,United States
+555,2007,India
+556,2012,Japan
+557,2017,United States
+558,2019,Argentina
+559,2016,Spain
+560,2005,India
+561,2016,United States
+562,2011,"United States, Canada"
+563,2018,"United Kingdom, United States"
+564,2015,"France, Canada, Belgium"
+565,2016,United States
+566,2016,France
+567,2015,United States
+568,2018,Colombia
+569,2019,Japan
+571,2019,"India, United Kingdom, China, Canada, Japan, South Korea, United States"
+572,2016,"France, Belgium"
+573,2018,Egypt
+574,2014,United States
+575,2020,Netherlands
+576,2017,South Korea
+577,2020,Iceland
+578,2017,United States
+579,2020,United States
+580,2011,Indonesia
+581,2011,India
+582,2016,"Canada, United States"
+583,2019,United States
+584,2019,United States
+585,2019,United States
+586,2019,South Korea
+587,2011,United States
+588,2011,"United Kingdom, United States"
+589,2019,India
+590,2018,"Indonesia, South Korea, Singapore"
+591,2014,United States
+592,1997,United States
+593,2018,India
+594,2018,India
+595,2018,United States
+596,2018,China
+597,2017,Australia
+598,2019,United States
+599,2001,India
+600,2016,United States
+601,2020,Norway
+602,2019,United States
+603,2019,United States
+604,2015,Peru
+605,2020,India
+606,2016,South Korea
+607,2016,United States
+608,2018,Canada
+609,2003,Taiwan
+610,2015,Japan
+611,2020,United States
+612,2019,"France, Senegal, Belgium"
+613,2012,United States
+614,2012,"United States, Canada"
+615,2016,"Canada, France"
+616,2013,Japan
+617,2014,United Kingdom
+618,2016,Chile
+619,2019,United States
+620,2016,United States
+621,2020,Australia
+622,2010,"Romania, France, Switzerland, Germany"
+623,1994,United Kingdom
+624,2016,Australia
+625,2002,United States
+626,1997,United States
+627,1999,United States
+628,2016,India
+629,2014,"Bulgaria, United States, Spain, Canada"
+630,2009,Taiwan
+631,2020,United States
+632,2007,United States
+633,2018,Indonesia
+634,2019,United Kingdom
+635,2018,United States
+636,2017,"Sweden, Netherlands"
+637,2018,United Kingdom
+638,2019,United States
+639,2019,United States
+640,2020,United States
+642,2018,India
+643,2020,India
+644,2017,India
+645,2018,Mexico
+646,2018,Ghana
+647,2016,India
+648,2015,United States
+649,2013,United States
+650,2019,United States
+651,2018,Japan
+652,2013,India
+653,2017,India
+654,2017,India
+655,2016,India
+656,2017,India
+660,2015,India
+663,2018,India
+664,2005,Turkey
+665,2018,Turkey
+666,2006,"France, United States, Mexico"
+667,2020,United States
+668,2020,Italy
+669,2018,United Kingdom
+670,2019,India
+671,2018,South Africa
+672,2020,Germany
+673,2016,India
+674,2016,Brazil
+675,2019,Australia
+676,2018,Japan
+677,2016,Taiwan
+679,2015,Thailand
+681,2014,Canada
+682,2019,United States
+683,2019,United States
+684,2015,"Australia, United Kingdom, United Arab Emirates, Canada"
+685,2019,Canada
+686,2020,India
+687,1995,United States
+688,2003,United States
+689,2017,United Kingdom
+690,2014,United Kingdom
+691,2017,Thailand
+692,2014,United States
+693,2014,South Korea
+694,2018,South Korea
+695,2017,"Singapore, United States"
+696,2016,"United States, Canada"
+697,2018,"France, Belgium"
+698,2013,India
+699,2006,India
+700,2019,India
+701,2019,United States
+703,2020,Japan
+705,2018,"Japan, Canada, United States"
+707,2016,Chile
+708,1995,United States
+709,2001,United States
+710,2004,United States
+711,2017,Pakistan
+712,2015,Turkey
+713,2017,Nigeria
+714,2020,United States
+715,2017,United States
+716,2015,United States
+717,1978,India
+718,2010,Thailand
+719,2015,India
+721,2019,Thailand
+722,2002,Thailand
+724,2018,Thailand
+725,2019,Thailand
+726,2019,Thailand
+727,2009,Thailand
+728,2015,Spain
+729,2009,India
+730,2016,Saudi Arabia
+731,2020,Germany
+732,2017,"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay"
+733,2013,United States
+734,2017,"United States, Canada"
+735,2018,"United States, Canada"
+737,2010,United States
+738,2015,United States
+739,2015,United States
+740,2012,"United States, Canada"
+741,2020,United States
+742,2016,United States
+743,2010,United States
+744,2011,"United States, Canada"
+745,2016,"United States, Canada"
+746,2012,United States
+747,2017,United States
+748,2017,United States
+749,2016,Philippines
+750,2019,India
+751,2017,India
+752,2015,United States
+753,2012,India
+754,2013,Chile
+755,2016,United States
+756,1995,India
+757,1998,United States
+758,1992,"United States, France"
+759,2019,United States
+760,2016,Italy
+761,2017,United States
+762,2016,India
+763,2018,United States
+764,2016,United States
+765,2018,"Norway, Denmark, Netherlands, Sweden"
+766,2015,United States
+767,2018,United States
+768,2016,United Kingdom
+770,1972,India
+771,2019,Namibia
+772,2019,"Mexico, Finland"
+773,1982,India
+774,2011,India
+775,2015,"United States, Australia"
+776,2016,United States
+777,2015,Taiwan
+778,2015,Taiwan
+779,2018,Russia
+780,2013,Germany
+781,1997,"United Kingdom, United States"
+782,2013,United States
+783,2010,Canada
+784,2019,Japan
+785,2015,United States
+786,2018,"Australia, Canada"
+787,2017,"Australia, Canada"
+788,2015,South Korea
+789,2019,United States
+790,2016,Mexico
+791,2016,Canada
+792,2015,Philippines
+794,1996,United States
+795,1992,United States
+796,2008,Indonesia
+797,2017,South Korea
+798,2016,Egypt
+799,2020,United States
+800,2018,Mexico
+801,2007,"United Kingdom, Ireland"
+802,2008,United States
+803,2007,"United States, Australia"
+805,2015,Nigeria
+806,2017,United States
+807,2016,United States
+808,2016,United States
+809,2016,Egypt
+810,2015,"Japan, United States"
+811,2001,United States
+812,2017,United States
+813,2018,United States
+815,2010,Turkey
+816,2016,India
+817,2015,United Kingdom
+818,2011,United States
+819,2016,United States
+820,2014,Nigeria
+821,2018,United States
+822,1975,Lebanon
+823,2016,"Belgium, France"
+824,2015,New Zealand
+825,2015,United States
+826,2018,"Uruguay, Spain, Mexico"
+827,2016,Canada
+828,2009,United Kingdom
+829,2016,United States
+830,2020,United States
+831,2019,United States
+832,2017,United States
+833,2019,United States
+834,2018,"United Arab Emirates, United States"
+835,2004,United States
+836,1978,United States
+837,2019,United States
+838,2008,Germany
+839,2012,Turkey
+840,2017,Australia
+841,2020,Germany
+842,2019,Germany
+843,2012,Japan
+844,2012,Japan
+845,2013,Japan
+846,2020,United States
+848,2016,United States
+849,2020,United States
+850,2016,"South Korea, China"
+853,2020,Canada
+854,2016,United States
+855,2018,United States
+856,2020,India
+857,2019,United States
+858,2018,United States
+859,2019,Russia
+860,2017,United States
+861,2018,United States
+862,2016,Canada
+863,2019,Philippines
+864,2019,United States
+865,2018,Spain
+866,2005,India
+867,2010,Egypt
+868,2016,Japan
+870,2019,Japan
+872,2009,Japan
+873,2006,Turkey
+874,2013,"United States, India"
+875,2017,"United States, Canada, Indonesia, United Kingdom, China, Singapore"
+876,2017,United States
+878,2018,"India, Iran"
+879,2013,India
+880,2020,India
+881,2015,India
+882,2006,India
+883,2019,India
+884,2019,India
+885,2013,India
+886,2019,India
+887,2017,India
+888,2018,India
+890,2020,India
+891,2007,India
+892,2003,India
+893,2017,India
+894,2014,Germany
+895,2014,Germany
+896,2016,Germany
+897,2017,Germany
+899,1997,"United States, France, Japan"
+900,2017,United States
+901,1999,United States
+902,2017,United Kingdom
+903,2002,"United States, Germany"
+904,2018,United States
+905,2012,"United States, United Kingdom"
+906,2020,United States
+907,2014,United States
+908,2017,Denmark
+909,2012,"United States, Canada"
+910,2020,France
+911,2017,United States
+912,2002,United Kingdom
+913,2019,United States
+914,2014,United States
+915,2010,United States
+916,2019,"United States, United Kingdom"
+917,2017,United States
+918,2012,United States
+919,1991,United Kingdom
+921,1992,United Kingdom
+922,1993,United Kingdom
+923,1989,United States
+924,2018,United States
+925,2017,United States
+926,2009,India
+927,2000,"United Kingdom, France"
+928,2018,United States
+929,2016,United States
+930,2017,India
+931,2020,Germany
+932,2015,India
+933,2016,"Turkey, India"
+934,2018,United States
+935,2019,"United States, Mexico"
+936,2016,"Philippines, Qatar"
+937,2018,Canada
+938,2017,United States
+939,2016,Vietnam
+940,2016,Canada
+941,2018,Spain
+942,2010,Egypt
+943,2012,India
+944,2015,India
+945,2018,"Ireland, Luxembourg, Belgium"
+946,2019,United States
+947,2010,Japan
+948,2017,"Saudi Arabia, Syria, Egypt, Lebanon, Kuwait"
+949,2018,United Kingdom
+950,2004,India
+951,2001,"United States, United Kingdom"
+952,2014,Turkey
+953,2014,United States
+954,2019,United States
+955,2015,Spain
+956,2019,United Kingdom
+957,2018,United States
+958,2014,Turkey
+959,2018,United States
+960,2014,"Russia, United States"
+961,2015,"United Kingdom, Russia, United States"
+962,2017,United States
+963,2007,United States
+964,2017,"Argentina, Spain"
+965,2019,"France, Belgium"
+966,2019,"Canada, United States"
+967,2013,United States
+968,2020,United States
+969,2015,United States
+970,2017,Japan
+971,2018,United States
+972,2017,Japan
+973,2006,Japan
+974,2008,Japan
+975,2010,Japan
+976,2016,United States
+977,2016,"Germany, Jordan, Netherlands"
+978,2015,France
+979,2013,"Hong Kong, China"
+981,2015,"Australia, United States"
+982,2013,South Africa
+983,2017,France
+984,2016,Thailand
+985,2020,South Africa
+986,2016,France
+987,2012,India
+988,2020,United States
+989,2018,Brazil
+990,2019,"Argentina, United States"
+991,2017,United States
+992,2020,Norway
+993,2001,United States
+994,2019,Canada
+995,2017,Japan
+996,2013,"France, Belgium, Spain"
+997,2013,United States
+998,2016,United States
+999,2016,United States
+1000,2017,United Kingdom
+1001,2013,"United States, France"
+1002,1999,"Germany, United States"
+1003,2010,United States
+1004,2005,India
+1005,2017,Canada
+1006,2020,Japan
+1007,2018,Thailand
+1008,2016,United States
+1009,2013,United States
+1010,2007,Canada
+1011,2018,United States
+1013,2015,Canada
+1014,2017,"Denmark, Sweden, Israel, United States"
+1015,2020,United States
+1016,1973,India
+1017,2014,India
+1019,2018,United Kingdom
+1020,2016,"Ireland, United Kingdom"
+1022,2011,India
+1023,2018,India
+1024,2018,Spain
+1025,2020,United States
+1026,2014,United States
+1027,2017,"United States, Iceland"
+1028,2019,Colombia
+1029,2001,India
+1030,2008,United States
+1031,2017,Spain
+1032,2018,"United Arab Emirates, United Kingdom, India"
+1033,2013,India
+1034,2016,New Zealand
+1035,2017,United States
+1036,2015,Netherlands
+1037,2017,Canada
+1038,2006,Canada
+1039,2016,Australia
+1040,2019,United States
+1041,1967,United States
+1042,2019,Sweden
+1043,2019,Russia
+1044,2020,United States
+1045,2003,India
+1047,2018,Canada
+1048,2017,United Kingdom
+1049,2017,"Norway, Germany, Sweden"
+1050,2019,"Finland, France"
+1051,2012,Denmark
+1052,2018,Brazil
+1053,2019,Philippines
+1054,2014,Spain
+1055,2016,"Denmark, Spain"
+1056,2018,New Zealand
+1057,2017,United States
+1058,2016,"United Kingdom, Russia"
+1059,2013,India
+1060,2005,Lebanon
+1061,2013,United Kingdom
+1062,2017,"United States, United Kingdom, Australia"
+1063,2017,"Canada, United States"
+1064,2011,Singapore
+1065,2008,Egypt
+1066,2013,Brazil
+1067,2016,United States
+1068,2016,Spain
+1069,2016,"Bulgaria, United States"
+1070,2009,South Korea
+1071,2017,United States
+1072,2016,"India, United Kingdom"
+1073,2016,United States
+1074,2016,"United States, Canada, Ireland"
+1076,2018,United States
+1077,2007,United States
+1078,2020,"Canada, United Kingdom"
+1079,2013,"United States, Israel, Italy, South Africa"
+1080,2016,United States
+1081,2018,Canada
+1082,2014,United States
+1084,2018,"France, Belgium"
+1086,2010,India
+1087,2014,Hong Kong
+1088,2019,United States
+1089,2013,United States
+1090,2015,India
+1091,2014,United Kingdom
+1093,2018,Australia
+1095,2020,United States
+1096,2017,United States
+1097,2005,United States
+1098,2014,Philippines
+1099,2019,Indonesia
+1100,2020,United States
+1101,2016,United Kingdom
+1102,2017,United States
+1104,2018,India
+1105,2016,South Korea
+1106,2017,United States
+1108,2017,United Kingdom
+1109,2019,United States
+1110,2015,Taiwan
+1111,2009,United States
+1112,2019,France
+1113,2019,Turkey
+1114,2006,United States
+1115,2019,Brazil
+1116,2017,China
+1117,2015,"India, United States"
+1118,2016,United States
+1119,2016,Canada
+1120,2017,Canada
+1121,2017,Canada
+1122,2018,India
+1123,2018,"France, Belgium"
+1125,2020,"United Kingdom, China"
+1126,2012,Brazil
+1127,2017,United States
+1128,2017,United States
+1129,2016,India
+1130,2018,"Indonesia, Singapore"
+1131,2016,"Netherlands, Denmark, France, Germany"
+1132,2020,India
+1133,2018,India
+1134,2017,"Bulgaria, United States"
+1135,2020,United States
+1136,2018,United States
+1137,2012,United States
+1138,2018,United States
+1139,2020,United States
+1141,2010,United States
+1142,2017,United States
+1143,2017,"France, Belgium"
+1144,2005,Turkey
+1145,2018,"South Korea, Japan"
+1146,2019,United States
+1147,2017,United States
+1148,2012,United Kingdom
+1149,2017,United States
+1150,2019,South Korea
+1151,2016,United States
+1152,1960,United States
+1153,2018,Philippines
+1154,2012,"Philippines, Canada, United Kingdom, United States"
+1155,2015,"France, Malta, United States"
+1156,1981,Kuwait
+1157,2017,Turkey
+1158,2019,India
+1159,2008,India
+1160,2016,"Belgium, France"
+1161,2016,United States
+1162,2017,United Kingdom
+1163,2019,Spain
+1164,2020,Norway
+1165,2020,Japan
+1166,2014,Indonesia
+1167,2016,Argentina
+1168,2009,South Korea
+1169,1958,Egypt
+1170,2018,"United Kingdom, Pakistan"
+1171,2015,India
+1172,2018,United Kingdom
+1178,2020,Sweden
+1179,2016,Italy
+1180,2018,France
+1181,2020,United Kingdom
+1182,2019,United States
+1183,2018,United States
+1185,2018,Spain
+1186,2014,"Mexico, United States"
+1187,2016,United States
+1188,2017,United States
+1189,2014,Canada
+1190,2014,United States
+1191,2012,South Korea
+1192,2020,Canada
+1193,2018,Ireland
+1194,1998,United States
+1195,2017,Philippines
+1196,2007,Egypt
+1197,2018,United States
+1198,2019,Taiwan
+1199,2017,India
+1200,1992,"United States, United Kingdom"
+1201,2016,France
+1202,2019,"United States, Japan"
+1203,2020,United States
+1204,2019,"France, New Zealand"
+1205,2017,India
+1206,2020,United States
+1207,2020,United States
+1208,2016,United Kingdom
+1210,2017,"France, Belgium"
+1211,2016,Ireland
+1212,1999,Japan
+1213,2016,United States
+1214,2012,United States
+1215,2018,India
+1216,2008,Philippines
+1217,2020,India
+1218,2019,United States
+1219,2016,Mexico
+1220,2018,Mexico
+1221,2020,Argentina
+1222,2021,United States
+1223,2020,"Canada, United States"
+1224,2015,"United Kingdom, United States, Australia"
+1225,2019,Japan
+1226,1976,United States
+1227,2016,United States
+1228,2009,United States
+1229,2012,"United States, Mexico"
+1230,2016,France
+1231,2015,Iceland
+1232,2009,"United States, Canada"
+1233,2015,Japan
+1234,2006,"United Kingdom, Czech Republic, United States, Germany, Bahamas"
+1235,1992,Hong Kong
+1236,1992,Hong Kong
+1237,2017,"United States, Australia, China"
+1238,2018,Nigeria
+1240,2020,United States
+1241,1958,United States
+1242,2002,"United States, Canada"
+1243,2018,South Africa
+1244,2015,"China, Germany, India, United States"
+1245,2016,United States
+1246,2017,Spain
+1247,2010,"United States, Australia"
+1248,2018,Canada
+1249,2015,United Kingdom
+1250,2016,Norway
+1251,2016,United States
+1253,2018,Japan
+1254,2012,India
+1255,2018,Indonesia
+1256,2000,United States
+1257,1996,India
+1258,2014,India
+1259,1976,India
+1260,2014,India
+1261,2010,India
+1262,2000,India
+1263,2017,Pakistan
+1264,2020,United States
+1265,2003,India
+1266,2020,India
+1267,1992,India
+1268,2019,United States
+1269,2004,India
+1270,2018,United States
+1271,2010,India
+1272,2010,"Germany, Sri Lanka"
+1273,2018,United States
+1274,2016,Indonesia
+1275,2017,"United States, Sweden"
+1276,2015,"South Africa, United States"
+1277,2017,Germany
+1279,2005,"United Kingdom, United States"
+1280,2000,"United States, Germany"
+1281,2003,United States
+1282,2019,United States
+1283,1973,United States
+1284,2019,United States
+1285,2021,"Canada, United States, Cayman Islands"
+1286,2013,India
+1287,2013,India
+1288,1997,United States
+1289,2016,United States
+1290,2017,United States
+1291,2016,Canada
+1292,2017,"Hong Kong, China"
+1293,2016,United States
+1294,2015,Brazil
+1295,2015,"India, France"
+1296,2016,Australia
+1297,2020,Indonesia
+1298,2020,United States
+1299,2016,United States
+1300,1992,United States
+1301,2016,South Korea
+1302,2014,United States
+1303,2017,South Korea
+1304,2019,United States
+1305,2020,United States
+1307,2017,United States
+1308,2016,United States
+1309,2014,United States
+1310,2014,United States
+1311,2013,India
+1312,2012,United States
+1314,1999,United Kingdom
+1315,2017,United Kingdom
+1316,2019,India
+1317,2012,India
+1322,2019,India
+1323,2017,South Korea
+1324,2017,India
+1325,2005,United States
+1326,2018,United States
+1328,2020,United States
+1329,2018,Nigeria
+1330,2019,South Korea
+1331,1988,United States
+1332,2020,Lebanon
+1333,1994,United Kingdom
+1334,2019,Japan
+1335,2017,Japan
+1337,2011,India
+1338,2020,United States
+1339,2017,China
+1341,2019,"United Kingdom, Canada"
+1342,2020,India
+1343,2012,"United States, India, Bangladesh"
+1344,1968,"United Kingdom, United States"
+1345,2009,"United States, Canada, France"
+1346,2019,South Korea
+1347,2017,United States
+1348,2020,India
+1349,2019,India
+1350,2019,China
+1351,2017,United States
+1352,2015,United States
+1353,2017,United States
+1354,2020,United States
+1356,2018,United States
+1357,2015,United States
+1358,2014,United States
+1359,2018,United States
+1360,2017,United States
+1361,2016,"United Kingdom, United States"
+1362,2019,United States
+1363,2020,Germany
+1364,2012,"Canada, United States"
+1365,2017,United States
+1366,2015,United States
+1367,2017,United States
+1368,2018,United Kingdom
+1369,2017,Canada
+1370,2018,Canada
+1371,2018,Canada
+1372,2004,United States
+1373,2018,United States
+1374,2016,United States
+1375,2006,Argentina
+1377,2019,India
+1382,2017,Malaysia
+1383,2006,India
+1384,2017,Pakistan
+1385,1975,India
+1386,2018,United Kingdom
+1387,2017,India
+1388,2011,Turkey
+1389,2016,South Korea
+1394,2015,United States
+1395,2020,United States
+1396,2009,United States
+1397,2020,Nigeria
+1398,2018,"Taiwan, China, France, United States"
+1399,2016,United Kingdom
+1400,2002,"Brazil, France, Germany"
+1401,2013,Brazil
+1402,2018,"United States,"
+1403,2016,United Kingdom
+1404,2018,United Kingdom
+1405,2016,"Turkey, France, Germany, Poland"
+1406,2008,Japan
+1407,2019,United States
+1408,2010,"United States, United Kingdom, Australia"
+1409,1993,United States
+1410,2020,India
+1411,2018,United States
+1412,2012,India
+1413,2020,Spain
+1414,1973,United States
+1415,2017,"Australia, New Zealand, United States"
+1416,2006,United States
+1417,2017,United Kingdom
+1418,2017,United States
+1419,2017,United States
+1420,2019,"United Kingdom, United States"
+1421,2018,"France, Belgium"
+1422,2016,Taiwan
+1423,2013,"United Kingdom, United States"
+1424,2012,"Germany, United States, Hong Kong, Singapore"
+1425,2014,"France, Germany, Switzerland"
+1426,2009,United States
+1427,2013,United States
+1428,2008,United States
+1429,2018,"Mexico, Argentina"
+1430,2018,United States
+1437,2019,Mexico
+1438,2005,"United States, Germany"
+1439,2018,United States
+1440,2021,United States
+1441,2005,United Kingdom
+1442,2018,Spain
+1443,2018,Mexico
+1444,2020,United States
+1445,2015,United States
+1446,2019,Canada
+1447,2008,Japan
+1448,2007,"France, Belgium"
+1449,2007,United States
+1450,2020,United States
+1451,2017,"Italy, United States, Argentina"
+1452,2017,India
+1453,2017,United States
+1454,2017,United States
+1455,1999,United States
+1456,2019,Nigeria
+1457,2013,South Africa
+1459,2016,United States
+1460,2015,United States
+1461,2016,India
+1462,2018,"United Kingdom, United States"
+1463,2018,India
+1464,2015,"Germany, France, Luxembourg, United Kingdom, United States"
+1465,2018,United States
+1466,2012,South Korea
+1467,2008,India
+1468,2016,"Canada, United States, United Kingdom"
+1469,2018,United States
+1470,2019,United States
+1471,2019,United States
+1472,2016,United States
+1474,2017,United States
+1475,2015,United States
+1476,2019,Mexico
+1477,2002,India
+1478,2016,"United Kingdom, Canada, Italy"
+1479,2018,United States
+1480,2016,"Czech Republic, France"
+1481,2013,United States
+1482,2014,Vietnam
+1483,2020,United Kingdom
+1484,2017,Ireland
+1485,2014,Turkey
+1486,2014,Turkey
+1487,2015,United Kingdom
+1488,2016,United States
+1489,2008,India
+1490,2020,Mexico
+1491,2019,United States
+1493,2017,Zimbabwe
+1494,2016,United States
+1495,2020,United States
+1496,2018,United States
+1497,1967,United States
+1498,2017,Canada
+1499,2015,United States
+1501,2020,United States
+1502,2009,United States
+1503,2020,United States
+1504,2015,Netherlands
+1506,2018,Canada
+1507,2017,United States
+1508,2020,United States
+1509,2016,Nigeria
+1510,2016,Brazil
+1511,2017,Australia
+1512,2016,United States
+1513,2014,United States
+1514,2021,United States
+1515,2018,United States
+1516,2017,United States
+1517,2004,"United States, Germany"
+1518,2019,South Korea
+1519,2016,United Kingdom
+1520,2020,Indonesia
+1521,2015,Philippines
+1522,2020,United Kingdom
+1523,2019,United States
+1524,2018,Nigeria
+1525,2018,Nigeria
+1526,2016,United Kingdom
+1527,2016,India
+1529,2015,Argentina
+1530,2014,United States
+1531,2017,United States
+1532,2019,"United Kingdom, Canada"
+1533,2019,India
+1534,2019,Mexico
+1535,2019,Mexico
+1536,2017,France
+1537,2017,"United States, Canada"
+1539,2019,Germany
+1540,2019,Spain
+1541,2020,"United Kingdom, France, Germany, Spain"
+1542,2020,United States
+1543,2017,United States
+1544,2016,United States
+1545,2018,Malaysia
+1546,2000,"Taiwan, Hong Kong, United States, China"
+1547,2016,"China, United States"
+1548,2017,United States
+1549,2019,United Kingdom
+1550,2019,Philippines
+1551,2017,United States
+1553,2019,"Canada, Brazil"
+1554,2020,Italy
+1555,2020,"United Kingdom, Australia"
+1556,2018,Hungary
+1557,2014,United States
+1558,2013,United States
+1559,2020,France
+1560,2015,"Japan, United States"
+1561,2017,Japan
+1562,2018,India
+1563,2014,United States
+1564,2018,United States
+1567,2013,Turkey
+1568,2015,Turkey
+1569,2020,United States
+1570,2005,Australia
+1571,2015,India
+1572,2014,Turkey
+1573,2015,Turkey
+1574,2013,Turkey
+1575,1989,United States
+1576,2020,Mexico
+1577,1977,United Kingdom
+1578,2003,United States
+1579,2019,United States
+1580,2015,Argentina
+1581,2017,India
+1582,2015,"United States, India"
+1583,2013,United States
+1584,2017,United States
+1585,2016,United States
+1587,2013,Australia
+1588,2017,"Germany, Australia"
+1589,2020,United States
+1592,2016,Germany
+1593,2019,United States
+1594,2016,Mexico
+1595,2016,India
+1596,2016,United Kingdom
+1597,1992,United Kingdom
+1598,2020,United States
+1599,2012,United Kingdom
+1600,2018,United States
+1601,2019,Mexico
+1602,2017,Mexico
+1603,2015,United States
+1604,1997,United States
+1605,2017,Indonesia
+1606,2018,France
+1607,2018,United States
+1608,2019,United States
+1609,2015,Ireland
+1610,2020,"Germany, United States"
+1611,2016,India
+1612,2016,"United Kingdom, Poland, United States"
+1613,2020,Mexico
+1614,2020,Mexico
+1615,2019,United States
+1616,2017,Canada
+1617,2015,"United States, United Kingdom, France"
+1618,2013,United States
+1619,2018,New Zealand
+1620,1956,Egypt
+1621,2003,India
+1622,2015,India
+1623,2016,India
+1624,2020,United States
+1626,2020,Brazil
+1627,2017,United States
+1628,1991,"United Kingdom, United States"
+1629,2017,United States
+1630,2017,United States
+1631,2019,United States
+1632,2020,United States
+1633,2020,"United States, United Kingdom"
+1634,2020,Sweden
+1635,2016,"United Kingdom, United States"
+1636,2016,United States
+1637,2019,Canada
+1639,2017,United States
+1640,2002,United States
+1641,2017,China
+1642,2018,Bulgaria
+1643,2019,United States
+1644,2017,Taiwan
+1645,2017,United States
+1646,2019,United States
+1647,2020,United States
+1648,2018,Netherlands
+1649,2015,United States
+1650,2018,United Kingdom
+1651,2019,"Philippines, United States"
+1652,2008,United Kingdom
+1653,2020,United States
+1654,2019,United States
+1655,2006,India
+1656,2018,United States
+1657,2019,United States
+1658,2020,"Finland, Germany"
+1659,2020,United States
+1660,2016,United States
+1661,2016,India
+1662,2012,United States
+1663,2018,Taiwan
+1664,2016,South Korea
+1665,2011,Canada
+1666,2019,United States
+1667,2016,India
+1668,2010,United States
+1669,2018,United States
+1670,2020,Colombia
+1671,2017,United States
+1672,2017,United States
+1673,2020,"United States, Thailand"
+1674,2017,"United States, Bulgaria"
+1675,2020,United States
+1676,2017,United Kingdom
+1677,2016,Turkey
+1678,2014,India
+1679,2017,"Spain, Belgium, Switzerland, United States, China, United Kingdom"
+1680,2017,United States
+1681,2016,Australia
+1682,2013,India
+1683,2002,India
+1684,2017,United States
+1685,2008,United States
+1686,2016,United States
+1687,2017,Canada
+1688,2017,United States
+1689,2009,India
+1690,2011,India
+1691,2019,India
+1692,2014,Turkey
+1693,2018,Turkey
+1694,2018,United States
+1695,2020,United States
+1696,2015,United States
+1697,2018,United States
+1698,2014,"Denmark, Zimbabwe"
+1700,2015,United States
+1701,2018,United States
+1702,1992,United States
+1703,2017,United Kingdom
+1704,2019,United States
+1705,2017,United States
+1706,2015,United Kingdom
+1707,2018,United Kingdom
+1709,2018,United Kingdom
+1710,2019,United Kingdom
+1711,2019,United States
+1712,2019,South Korea
+1713,2017,Argentina
+1715,2017,United States
+1716,2020,United States
+1717,2017,"Argentina, Spain"
+1718,2019,Spain
+1719,1997,"France, Egypt"
+1720,2020,Taiwan
+1721,2017,Egypt
+1722,2016,"United Kingdom, South Africa"
+1723,2016,United States
+1724,2009,India
+1725,2019,United States
+1726,2016,"Finland, Sweden, Norway, Latvia, Germany"
+1727,2017,Canada
+1728,2018,Japan
+1729,2017,India
+1730,2004,India
+1731,2013,United States
+1732,2007,India
+1733,2007,"United Kingdom, India"
+1734,2015,India
+1735,2015,India
+1736,2014,India
+1737,2017,India
+1738,2015,Malaysia
+1739,2010,India
+1740,2009,India
+1741,2018,"China, Hong Kong"
+1742,2020,Mexico
+1743,2019,United States
+1745,2015,China
+1747,2017,United Kingdom
+1748,2017,United Kingdom
+1749,2015,"France, Belgium"
+1750,2020,United States
+1751,2002,"United Kingdom, United States"
+1752,2015,South Africa
+1753,2016,Germany
+1756,1990,India
+1757,2001,India
+1758,2015,India
+1759,2002,India
+1760,1998,India
+1761,2014,India
+1762,2018,Indonesia
+1763,2019,Indonesia
+1764,2015,India
+1765,2007,United States
+1766,2010,United States
+1767,2020,"United States, Japan"
+1768,2016,Canada
+1769,2008,Japan
+1770,2017,United States
+1772,2018,United States
+1773,2020,United States
+1774,2018,Egypt
+1775,1985,Hong Kong
+1776,2020,United States
+1777,1982,India
+1778,2018,Kenya
+1779,2017,United States
+1780,2021,United States
+1781,2018,United States
+1782,2017,United States
+1783,2009,"South Africa, United States, New Zealand, Canada"
+1785,2016,"France, Qatar"
+1786,2019,Brazil
+1787,2012,United States
+1788,2020,"France, Algeria"
+1789,2020,South Korea
+1790,2010,India
+1791,2009,India
+1792,2017,United Kingdom
+1793,1965,"United States, Italy, United Kingdom, Liechtenstein"
+1794,2019,United States
+1795,2016,United States
+1796,2018,United States
+1797,2018,Germany
+1798,2019,United States
+1799,2019,Lebanon
+1800,2020,India
+1801,2019,United Kingdom
+1802,2019,United States
+1803,2020,United States
+1804,2019,United States
+1805,2014,United States
+1806,2019,"Denmark, France, Belgium, Italy, Netherlands, United States, United Kingdom"
+1807,2006,India
+1808,2011,"India, Germany"
+1809,2015,United States
+1810,2015,United States
+1811,2010,"United States, Australia, Mexico"
+1812,2015,France
+1813,2016,France
+1814,2017,France
+1815,2019,"United Kingdom, United States"
+1816,2011,Hong Kong
+1817,2014,"Hong Kong, China"
+1818,2016,United Kingdom
+1819,2016,United Kingdom
+1820,2016,United States
+1821,2020,Spain
+1822,2012,United States
+1823,1997,United States
+1824,2005,"United Kingdom, Czech Republic, Germany, United States"
+1825,2019,United States
+1826,2013,United States
+1827,2020,India
+1828,2019,United States
+1829,2019,India
+1830,2020,Japan
+1831,2008,"India, United States"
+1832,2020,Brazil
+1833,1999,"United States, Germany, Canada"
+1834,2020,China
+1835,1989,Hong Kong
+1836,2008,United States
+1837,2018,"Russia, Poland, Serbia"
+1838,2017,United States
+1839,2020,United States
+1841,2003,United States
+1842,2018,"France, China, Japan, United States"
+1843,2012,"United States, France"
+1844,2020,United Kingdom
+1845,2018,Japan
+1846,2019,Japan
+1847,2006,"Hong Kong, China"
+1849,1996,United States
+1850,2015,United States
+1851,2000,United States
+1852,2017,United States
+1853,2020,United States
+1855,2014,United States
+1856,2018,United States
+1857,2020,United States
+1858,2020,United States
+1859,2020,United States
+1860,2020,United States
+1861,2016,"United States, South Korea, China"
+1862,2017,United States
+1863,2017,Germany
+1864,2021,United States
+1865,2015,United States
+1866,2005,United States
+1867,2011,United States
+1868,2017,United States
+1869,2011,United States
+1870,2008,United States
+1871,2008,United States
+1872,2009,United States
+1874,2017,"Germany, Belgium"
+1875,2020,Japan
+1876,2016,Hong Kong
+1877,2015,India
+1878,2019,India
+1879,2018,United States
+1880,2019,United States
+1881,2018,United States
+1882,2019,Spain
+1883,2015,United States
+1884,2019,United States
+1885,2018,"Chile, Argentina"
+1886,2018,Japan
+1887,2018,United States
+1888,2018,"China, United States, United Kingdom"
+1889,2018,United States
+1890,2015,"United States, Chile"
+1891,2014,"Pakistan, Norway, United States"
+1892,2003,India
+1893,2003,United States
+1894,2018,United States
+1895,1984,India
+1896,1998,India
+1897,2016,Japan
+1899,2018,Spain
+1900,2019,United States
+1901,2016,United Kingdom
+1902,2014,United States
+1903,2020,"France, Belgium"
+1904,2014,United States
+1905,2014,Brazil
+1906,2015,United Kingdom
+1908,2019,"United Kingdom, Japan, United States"
+1909,2015,United States
+1910,2018,United States
+1911,2019,United States
+1912,2010,United States
+1913,2009,Taiwan
+1914,2010,United States
+1915,2018,India
+1916,2019,United States
+1917,2015,United Kingdom
+1918,1983,United States
+1919,1987,United States
+1921,2018,United States
+1922,1998,United States
+1923,2008,United Kingdom
+1924,2018,Argentina
+1925,2017,Brazil
+1926,2019,Italy
+1927,2018,India
+1928,2018,India
+1929,2019,"Philippines, Singapore"
+1930,2014,United Kingdom
+1931,2019,Indonesia
+1932,2015,India
+1933,2009,France
+1934,2006,Egypt
+1935,2009,India
+1936,2004,India
+1937,1983,India
+1938,2005,India
+1939,2019,India
+1940,2012,India
+1941,2016,Turkey
+1942,2012,"United States, Canada, Belgium, United Kingdom"
+1943,2013,Spain
+1944,2017,United States
+1945,2019,United States
+1946,2008,Colombia
+1947,2010,Colombia
+1948,2018,"Mexico, United States"
+1949,1979,Mexico
+1950,2017,Venezuela
+1951,2010,United States
+1952,2018,Spain
+1953,2018,Mexico
+1955,2020,Mexico
+1956,2017,Mexico
+1957,2017,Spain
+1959,2019,Argentina
+1960,2018,"Argentina, Uruguay, Serbia"
+1962,2013,Chile
+1963,2019,"United States, Mexico, Colombia"
+1964,2019,Colombia
+1965,2017,Mexico
+1966,2018,"Colombia, Peru, United Kingdom"
+1967,2017,United States
+1969,2018,Egypt
+1970,1971,India
+1971,2012,"Brazil, United States"
+1972,2006,Netherlands
+1973,2019,Nigeria
+1974,2020,United States
+1975,2020,United States
+1976,2019,United States
+1977,2019,Spain
+1978,2020,Spain
+1979,2016,United Kingdom
+1980,2019,United States
+1981,2018,United States
+1982,2014,France
+1985,2018,Canada
+1986,2015,United Kingdom
+1987,2016,United States
+1988,2008,India
+1989,2020,Brazil
+1990,2020,United States
+1991,2020,United States
+1992,2016,Indonesia
+1993,2016,Australia
+1994,2017,United States
+1995,2018,"Czech Republic, United States"
+1996,2014,"Canada, France, Italy, Morocco, United States"
+1997,2006,United States
+1999,2002,India
+2000,2016,United Kingdom
+2001,2018,United States
+2002,2012,United States
+2004,2013,"Canada, Spain, France"
+2005,2018,India
+2006,1996,India
+2007,2018,Germany
+2008,2016,United States
+2009,2020,United Kingdom
+2010,2014,South Korea
+2011,2018,Canada
+2012,2019,"United States, Japan"
+2013,1973,"Hong Kong, United States"
+2014,2016,"France, Canada, China, Cambodia"
+2015,2017,"United Kingdom, United States"
+2016,2015,"United States, Indonesia"
+2017,2017,"United States, Canada"
+2018,2002,United States
+2019,2020,"Denmark, United States"
+2020,2016,Japan
+2021,2020,United States
+2022,2012,United States
+2023,2018,"Spain, France"
+2024,2017,United States
+2025,1990,Poland
+2026,2009,Egypt
+2028,1985,Argentina
+2029,2016,Mexico
+2030,2017,China
+2031,2018,India
+2032,2020,Turkey
+2033,2018,Egypt
+2034,2018,Italy
+2036,2020,United States
+2037,2007,United States
+2038,1998,Japan
+2039,2017,Spain
+2040,2019,United Kingdom
+2041,2010,"Spain, Mexico, France"
+2042,2018,India
+2043,1997,"United Kingdom, United States"
+2044,2016,Canada
+2045,2019,United States
+2046,2019,"Spain, France, Italy"
+2047,2015,Philippines
+2048,2014,United Kingdom
+2049,2016,Philippines
+2050,2018,United States
+2051,2019,United States
+2052,2018,United States
+2053,2001,United States
+2054,2019,India
+2055,2015,United Kingdom
+2056,2011,China
+2057,2019,Spain
+2059,1996,United States
+2060,2018,Philippines
+2061,2019,United States
+2062,2013,Norway
+2063,2012,United States
+2064,2001,United States
+2066,2017,Germany
+2067,2014,Japan
+2068,2019,United States
+2069,2019,United States
+2070,2018,United States
+2071,2020,United States
+2072,2020,South Korea
+2073,2006,"United Kingdom, United States"
+2075,2019,United States
+2076,2016,United States
+2077,2019,"Spain, France, United States"
+2078,2010,Turkey
+2079,2011,Turkey
+2080,2014,Turkey
+2081,2009,Turkey
+2083,2020,"United States, France, Canada"
+2084,2017,United States
+2085,2018,United States
+2086,2017,Chile
+2087,2020,India
+2088,2017,United States
+2089,2019,France
+2090,2009,Japan
+2091,2019,United States
+2092,2015,United Kingdom
+2093,2018,Singapore
+2094,2011,India
+2095,2019,United States
+2096,2014,Taiwan
+2097,1998,United States
+2098,2017,Sweden
+2099,2019,United States
+2100,2018,"Mexico, United States"
+2102,2018,South Korea
+2103,2017,Germany
+2104,2018,United States
+2105,2020,France
+2106,2020,United States
+2107,2015,India
+2108,2018,United Arab Emirates
+2109,2019,United States
+2110,2017,Poland
+2111,2014,India
+2112,2016,Canada
+2113,2018,Philippines
+2114,2015,Australia
+2115,2017,Egypt
+2116,2015,Russia
+2117,2020,France
+2118,2018,France
+2119,2008,India
+2120,2020,United States
+2121,2019,United States
+2122,2020,United States
+2123,2020,United States
+2125,2017,Japan
+2126,2018,Japan
+2127,2016,Japan
+2128,2015,Japan
+2129,2012,Japan
+2130,2017,United Kingdom
+2131,2018,United States
+2132,2020,United States
+2133,2012,India
+2134,2020,Israel
+2135,1998,United States
+2136,2020,United States
+2137,2015,India
+2138,2020,Canada
+2139,2020,United Kingdom
+2140,2017,United States
+2141,2020,United States
+2142,2020,United States
+2143,2012,United States
+2144,2017,Brazil
+2145,2020,Germany
+2146,2018,United States
+2147,2018,Colombia
+2148,2018,Argentina
+2149,2012,India
+2150,1986,United States
+2151,2004,India
+2152,1971,United States
+2153,2020,Poland
+2154,2015,Nigeria
+2156,2018,Nigeria
+2157,2008,United Kingdom
+2159,2016,United States
+2160,2015,Turkey
+2161,2017,United States
+2162,2015,Indonesia
+2163,2000,United States
+2164,2003,"United States, Canada"
+2165,2006,"United States, Germany"
+2166,2017,Japan
+2167,2017,Philippines
+2169,2020,Philippines
+2170,2016,"Italy, France"
+2171,2017,United States
+2172,2019,United States
+2173,2012,India
+2174,2019,India
+2175,2013,India
+2176,2018,United Kingdom
+2179,2017,Japan
+2181,2018,United States
+2182,2017,"United Kingdom, Canada, United States"
+2183,2018,Netherlands
+2184,2018,Philippines
+2185,2018,United States
+2186,2018,United States
+2187,2017,"Cambodia, United States"
+2188,2016,United Kingdom
+2189,2019,United Kingdom
+2191,2015,United States
+2192,2018,Brazil
+2194,2016,India
+2195,2019,United Arab Emirates
+2196,2017,United States
+2197,1982,Hong Kong
+2198,2015,United States
+2199,2014,United States
+2200,2000,India
+2201,2017,United States
+2202,2008,"Canada, United States"
+2203,2020,China
+2204,2018,"China, Japan"
+2205,2016,Egypt
+2206,2019,United Kingdom
+2207,2018,United States
+2208,2018,United States
+2209,2020,United States
+2210,2016,South Korea
+2211,2018,United Kingdom
+2212,1978,Hong Kong
+2213,2017,"United Arab Emirates, United States, United Kingdom"
+2214,2018,United States
+2215,2020,Japan
+2216,2017,"Argentina, Italy"
+2217,2016,Japan
+2219,2011,United States
+2220,2015,Spain
+2221,2010,United States
+2222,2015,United States
+2223,2012,Mexico
+2224,2015,"United States, India"
+2225,2019,United Kingdom
+2226,2018,United States
+2227,2018,Philippines
+2228,1977,United States
+2229,2016,"Canada, United States"
+2230,2017,United States
+2231,2017,Spain
+2232,2017,United Kingdom
+2233,1956,United States
+2234,2016,India
+2235,2016,United Kingdom
+2236,2020,India
+2237,2011,United States
+2238,2019,Japan
+2239,2018,Brazil
+2240,2016,"United Kingdom, Israel, Russia"
+2241,2019,United States
+2242,2011,United Kingdom
+2243,2018,"Italy, Switzerland, Albania, Poland"
+2244,2017,South Korea
+2245,2011,United States
+2246,2020,United Kingdom
+2247,2020,United States
+2248,2008,"Germany, United States"
+2249,2016,"Spain, Cuba"
+2250,2013,Philippines
+2251,1994,United Kingdom
+2252,2007,"United States, Germany"
+2253,2019,United States
+2254,2016,"United States, Italy"
+2255,2012,"United States, Brazil"
+2256,2019,Italy
+2257,2019,Mexico
+2258,2018,Mexico
+2259,2016,United States
+2260,2007,United States
+2261,2020,Germany
+2262,2019,United States
+2263,2003,United States
+2264,2017,United States
+2265,2018,United States
+2266,2018,"United States, Canada"
+2267,2020,Germany
+2269,2007,United States
+2270,2016,United Kingdom
+2271,2019,United States
+2273,2019,United States
+2274,2016,United States
+2275,1993,"United States, France, Mexico"
+2277,2018,United Arab Emirates
+2278,2015,"United States, Nicaragua"
+2279,2016,Egypt
+2280,2015,United States
+2281,2015,South Africa
+2282,2016,United States
+2283,2019,United States
+2284,2020,"Austria, Germany"
+2285,2017,United States
+2286,2009,United States
+2287,2016,Germany
+2288,2003,United States
+2289,2019,United States
+2290,1980,India
+2291,2014,"United Arab Emirates, Jordan, Lebanon"
+2292,2016,United States
+2293,2017,Egypt
+2294,2013,United States
+2295,2010,"France, United Kingdom, United States"
+2296,2016,United States
+2297,2018,United States
+2298,2018,Canada
+2299,2011,"United Kingdom, United States, Spain, Germany, Greece, Canada"
+2300,2011,"United Kingdom, United States, Spain, Germany, Greece, Canada"
+2301,2011,"United Kingdom, United States, Spain, Germany, Greece, Canada"
+2302,2008,United States
+2303,2013,United States
+2304,2018,Spain
+2305,2013,India
+2307,2020,India
+2308,2019,United States
+2309,2015,"Canada, United States"
+2310,2020,United States
+2311,2020,United States
+2312,2017,Japan
+2313,2010,Japan
+2314,2017,United States
+2315,2018,"France, Belgium, Luxembourg, Cambodia,"
+2316,2016,United States
+2317,2020,"Canada, United States"
+2318,2019,Vietnam
+2319,2017,"United States, United Kingdom"
+2321,2019,United States
+2322,2017,"Italy, Turkey"
+2323,2009,United States
+2324,2004,Turkey
+2325,2016,Turkey
+2326,2015,India
+2329,2017,"Brazil, France"
+2330,2016,United States
+2331,2018,India
+2332,2018,United States
+2333,2017,France
+2334,2015,India
+2335,2017,United States
+2336,2013,Russia
+2337,2016,United States
+2338,2017,Indonesia
+2339,2011,India
+2340,2020,United States
+2341,2012,Egypt
+2343,2019,"India, Turkey"
+2345,2018,United States
+2346,2009,Taiwan
+2348,2016,France
+2349,2003,India
+2350,2014,India
+2351,2002,"United States, Italy"
+2352,2016,Japan
+2353,2018,India
+2354,2014,"Kenya, United States"
+2355,2007,United States
+2356,2008,"United States, South Korea"
+2357,2009,"South Korea, United States"
+2358,2016,United States
+2359,2013,Japan
+2360,2019,United States
+2361,2009,Indonesia
+2362,2011,Indonesia
+2363,2018,Taiwan
+2364,2015,Nigeria
+2365,2016,"Japan, United States"
+2366,2016,India
+2367,2018,India
+2369,2017,United States
+2370,2017,United States
+2371,2018,United States
+2372,2018,India
+2373,2015,United Kingdom
+2374,2016,United Kingdom
+2375,2020,United States
+2376,2016,Sweden
+2377,2020,United States
+2378,2003,"United States, Australia"
+2379,2017,United States
+2380,2011,"Italy, Canada, France"
+2381,2020,United Kingdom
+2382,2010,United States
+2383,2019,"France, Belgium"
+2384,2017,United States
+2385,2020,United States
+2386,2014,"United Kingdom, United States"
+2387,2017,United States
+2388,2008,United States
+2389,2016,Spain
+2390,2005,United States
+2391,2013,Lebanon
+2392,2013,India
+2393,1990,India
+2394,2017,"Thailand, United States"
+2395,2020,"Japan, United States"
+2396,2017,United States
+2397,2013,Japan
+2398,2016,Canada
+2399,2007,"United States, Australia"
+2400,2020,India
+2401,2014,Japan
+2402,2012,United States
+2403,2013,Japan
+2404,2019,United States
+2405,2020,United Kingdom
+2406,2018,India
+2407,1997,India
+2408,2005,Indonesia
+2409,2019,United States
+2410,1958,United States
+2411,2006,United States
+2412,2016,United States
+2413,2013,United States
+2414,2020,France
+2416,2008,United Kingdom
+2417,2012,"United Kingdom, Denmark, Canada, Croatia"
+2418,2020,India
+2419,2019,United Kingdom
+2420,2018,"Netherlands, Belgium"
+2421,2018,Thailand
+2422,2019,United States
+2423,2013,Philippines
+2424,2020,Taiwan
+2425,2017,United States
+2426,2017,United States
+2427,2007,United States
+2428,2019,United States
+2429,2018,India
+2430,2019,United States
+2431,2012,Japan
+2432,2015,Japan
+2433,2019,"France, Belgium"
+2434,2020,United States
+2435,2015,United States
+2436,2019,Australia
+2437,2020,United States
+2438,2016,Japan
+2439,2017,Japan
+2440,2019,United States
+2441,2020,United Kingdom
+2442,2012,United States
+2444,2018,"United Kingdom, Canada, United States, Cayman Islands"
+2445,2020,Australia
+2446,2020,United States
+2447,2020,United States
+2448,2019,Argentina
+2449,2019,Argentina
+2450,2018,United States
+2451,2015,Japan
+2452,2016,United States
+2453,2017,"China, Hong Kong"
+2454,2014,United States
+2455,2018,United States
+2456,2017,United Kingdom
+2457,2017,United States
+2458,2017,Japan
+2459,2018,Japan
+2460,2018,Japan
+2461,2020,South Korea
+2462,2018,Australia
+2463,1979,India
+2464,2013,Japan
+2465,1995,"United Kingdom, United States"
+2466,2019,United States
+2467,2017,United States
+2468,2016,Australia
+2469,2014,India
+2470,2008,India
+2471,2006,India
+2472,2016,"Italy, Germany"
+2473,2018,United States
+2474,2015,Turkey
+2475,2017,Egypt
+2476,1997,United States
+2477,2018,Turkey
+2478,2019,United States
+2479,2009,United States
+2480,2016,United States
+2481,2014,United States
+2482,2019,United States
+2483,2012,Egypt
+2484,2007,"United States, Canada"
+2485,2017,Japan
+2486,2020,Brazil
+2487,2005,"United States, France, United Kingdom, Japan"
+2488,2014,"United States, United Kingdom, Denmark, Sweden"
+2489,2019,United States
+2490,2017,United States
+2491,2019,"United States, Canada"
+2492,2012,South Korea
+2493,1990,United States
+2495,2017,United States
+2496,2011,"United States, Canada"
+2497,2016,Canada
+2498,1998,Canada
+2499,2018,"United States, United Kingdom"
+2500,2013,India
+2501,2018,"Spain, Italy"
+2502,2001,"United States, United Kingdom, Italy"
+2503,2012,United States
+2504,2019,United States
+2505,2003,"United States, France, Canada, Spain"
+2506,2015,India
+2507,2018,Philippines
+2508,2020,United States
+2509,2020,South Korea
+2510,2008,"Germany, United States"
+2511,2017,Japan
+2512,2020,United States
+2513,2017,United Kingdom
+2514,2013,Spain
+2515,2013,India
+2516,2019,United States
+2517,2012,India
+2518,2014,United Arab Emirates
+2519,2015,United Arab Emirates
+2520,2017,United States
+2522,1978,United States
+2523,2016,United Kingdom
+2524,2017,United States
+2525,2020,Japan
+2526,2017,United Kingdom
+2527,2016,United States
+2528,2019,United Kingdom
+2529,2019,Taiwan
+2530,2019,"United Kingdom, Canada, United States"
+2531,2019,Colombia
+2532,2015,United States
+2533,2016,Nigeria
+2534,2020,United States
+2535,2020,United States
+2536,2018,United Kingdom
+2537,2019,Argentina
+2538,2019,United States
+2539,2015,Canada
+2540,2017,Italy
+2541,2016,United States
+2542,2018,Canada
+2543,2018,France
+2544,2016,United States
+2545,2016,United States
+2546,2019,"Uruguay, Guatemala"
+2547,2020,United States
+2548,2020,Argentina
+2549,2020,India
+2550,1993,India
+2551,2018,"Spain, France"
+2552,2015,Canada
+2553,2019,India
+2554,2020,India
+2555,2008,Japan
+2556,2017,India
+2557,2007,Japan
+2558,2007,India
+2560,2015,United Kingdom
+2561,2010,India
+2562,2017,"United States, United Kingdom"
+2563,2002,France
+2564,2015,Chile
+2565,2013,Turkey
+2566,2013,Turkey
+2567,2009,Australia
+2568,2015,"Germany, Australia, France, China"
+2570,2013,India
+2571,2010,India
+2572,2012,"Indonesia, Singapore"
+2573,2019,Spain
+2574,2014,Turkey
+2575,2014,India
+2576,2015,Japan
+2577,2016,"United States, United Kingdom, Japan"
+2578,2007,"United States, United Kingdom, Canada"
+2579,2018,United Arab Emirates
+2580,2016,United Arab Emirates
+2581,2017,Nigeria
+2582,2005,United States
+2583,2017,India
+2584,2018,India
+2585,2009,"United States, Japan"
+2586,2015,United States
+2587,2017,United States
+2588,2000,India
+2589,1987,United States
+2590,2018,India
+2591,2017,Egypt
+2592,2016,Ireland
+2593,2020,China
+2594,2017,United States
+2596,2017,United States
+2597,2013,United States
+2598,2020,Australia
+2599,2018,Australia
+2600,2015,United States
+2601,2016,United States
+2602,2018,Netherlands
+2603,2017,United Kingdom
+2604,2018,Malaysia
+2605,2018,United States
+2606,2013,Taiwan
+2607,2012,South Korea
+2608,2018,United States
+2609,2018,"Italy, Switzerland, France, Germany"
+2610,2014,India
+2611,2017,United States
+2613,2014,India
+2614,2019,Thailand
+2615,2014,Mexico
+2616,2016,United Kingdom
+2617,2019,United States
+2618,2015,United States
+2619,2020,India
+2620,2015,India
+2621,2020,United States
+2622,1986,United States
+2623,2015,United Kingdom
+2624,2015,"Russia, United States, China"
+2625,2018,Ireland
+2626,2018,United States
+2627,2009,India
+2628,2018,United States
+2630,2008,United States
+2631,2004,"United States, Canada, Germany"
+2632,2015,United States
+2633,2014,United Kingdom
+2634,2010,"United States, Canada"
+2635,2017,Malaysia
+2636,2015,United States
+2637,2016,United States
+2638,2014,United States
+2639,2010,India
+2640,2020,United States
+2642,2014,India
+2643,1999,India
+2644,2015,Israel
+2645,2020,India
+2646,2018,Mexico
+2647,2018,United States
+2648,2017,United States
+2649,2015,Indonesia
+2650,2007,India
+2651,2019,"United States, Czech Republic"
+2653,2017,United States
+2654,2018,United States
+2655,2020,United States
+2657,2017,Australia
+2658,2015,"Canada, United States"
+2659,2016,United States
+2660,2015,India
+2661,2015,Turkey
+2662,2011,"Ireland, United States"
+2663,2003,"India, France"
+2664,2020,Germany
+2665,2016,"France, Belgium"
+2666,2015,"United States, United Arab Emirates"
+2667,2015,Canada
+2668,2018,United States
+2669,2018,United States
+2670,1998,Australia
+2671,2016,Indonesia
+2672,2021,United States
+2673,2011,"France, Belgium"
+2674,2017,United States
+2676,1999,Australia
+2677,2001,United States
+2678,2017,Canada
+2679,2017,United States
+2680,2017,Lebanon
+2681,2011,South Korea
+2682,2018,Canada
+2683,2016,"United States, China"
+2684,2020,"France, Australia, Germany"
+2685,2017,Argentina
+2686,2015,"Hong Kong, China, United States"
+2687,2015,"United States, Canada"
+2688,2015,United States
+2689,2016,"Canada, United Kingdom"
+2690,2016,United States
+2691,2004,United States
+2692,1999,India
+2693,2020,United States
+2694,2019,Philippines
+2695,2017,South Korea
+2696,2019,United States
+2697,2015,United States
+2698,2015,Philippines
+2699,2016,United States
+2700,2013,United States
+2701,2020,Colombia
+2702,2018,United States
+2703,1976,India
+2704,2016,United States
+2705,2018,China
+2706,2014,"Lebanon, United Arab Emirates, France, Switzerland, Germany"
+2707,1997,"Hong Kong, China"
+2709,2016,Spain
+2710,2017,United States
+2711,2012,India
+2712,2018,Denmark
+2713,2017,"United States, South Korea, Japan"
+2714,2020,South Korea
+2715,2019,Japan
+2716,2016,Japan
+2717,2017,United States
+2718,2019,United States
+2719,2015,South Korea
+2720,2018,Egypt
+2721,2010,India
+2722,2016,China
+2723,2016,Japan
+2724,2017,Japan
+2725,2017,Japan
+2726,2016,Japan
+2728,2019,India
+2729,2019,United States
+2730,1988,United States
+2731,2020,United States
+2732,2020,Spain
+2733,2018,South Korea
+2734,2019,"Romania, United States"
+2735,2017,Thailand
+2736,2015,Australia
+2737,2014,India
+2738,2016,Canada
+2739,1988,United States
+2740,2018,Japan
+2741,2021,"United Kingdom, Canada, United States"
+2742,2020,United States
+2743,2013,India
+2744,2016,United Kingdom
+2745,2020,Canada
+2746,2015,United Kingdom
+2747,2020,United Kingdom
+2748,2010,"India, United States"
+2749,2015,Argentina
+2750,2019,United States
+2751,2020,United Kingdom
+2752,2017,India
+2753,2021,United States
+2754,2016,Australia
+2755,2012,United States
+2756,2005,United States
+2757,1977,West Germany
+2758,2017,United Kingdom
+2759,2016,United Kingdom
+2760,2017,France
+2761,2015,Denmark
+2762,2015,Pakistan
+2764,2016,United Kingdom
+2765,2016,United States
+2766,2006,Turkey
+2767,2018,United States
+2768,2015,Australia
+2769,2016,South Africa
+2770,2020,United States
+2771,2020,United States
+2772,2019,United States
+2773,2019,United States
+2774,2019,Germany
+2775,2016,"United States, Ireland"
+2776,2018,United States
+2777,2020,United States
+2778,2017,Spain
+2780,2017,Spain
+2781,2016,United States
+2782,2008,Thailand
+2783,2010,Thailand
+2784,2017,India
+2785,2020,Norway
+2786,2020,United States
+2787,2019,United States
+2788,2018,United States
+2791,2020,"Chile, Italy"
+2792,2018,Canada
+2793,2011,United States
+2794,2018,United States
+2795,2007,India
+2796,2014,United Kingdom
+2797,2018,Hong Kong
+2798,2011,United States
+2799,1991,United States
+2800,2020,United States
+2801,2011,United States
+2802,2018,India
+2803,2020,"Thailand, United States"
+2804,2018,United States
+2805,2017,"United States, South Africa"
+2806,2015,Thailand
+2807,2013,"United States, Canada"
+2808,2019,United Kingdom
+2809,2020,United Kingdom
+2810,2016,United Kingdom
+2811,2013,India
+2812,2020,United States
+2813,2020,South Korea
+2814,2016,"Ireland, United Kingdom, Italy, United States"
+2816,2017,United States
+2817,2016,United States
+2818,2018,United States
+2819,2019,Japan
+2820,2015,United States
+2821,2017,United States
+2822,2016,United Kingdom
+2823,2007,United States
+2824,2017,Turkey
+2825,2017,Belgium
+2826,2009,"Germany, United States"
+2827,1975,"Poland,"
+2828,2017,"United States, Canada"
+2829,2018,United States
+2830,2019,India
+2831,2012,"United States, Canada"
+2832,2018,United States
+2833,2017,United States
+2834,2016,"United States, Canada"
+2835,2016,"Slovenia, Croatia, Germany, Czech Republic, Qatar"
+2836,2019,United States
+2837,2018,United States
+2838,2017,"United States, United Kingdom"
+2839,2000,United States
+2840,2017,"Mexico, United States"
+2841,1997,United States
+2842,2015,"Canada, United Kingdom, Netherlands"
+2843,2020,United States
+2844,2020,United States
+2845,2018,Peru
+2847,1995,United States
+2848,2020,South Africa
+2849,2020,Germany
+2850,2017,United Kingdom
+2851,2014,United States
+2852,2016,United States
+2853,1992,"United Kingdom, Japan, United States"
+2854,2012,India
+2855,2020,United States
+2856,2019,United States
+2857,2011,"United Kingdom, United States, France"
+2858,2009,United States
+2859,1994,India
+2860,1999,India
+2861,2019,United States
+2862,2006,India
+2863,2014,India
+2864,2011,Pakistan
+2865,2014,United Kingdom
+2866,2016,New Zealand
+2867,2010,Canada
+2868,2020,"Indonesia, United Kingdom"
+2869,2013,Japan
+2870,2015,"United States, Spain, Germany"
+2871,2015,India
+2872,2015,United Kingdom
+2873,2011,"United States, Italy"
+2874,2016,United States
+2875,2018,United States
+2876,2012,India
+2877,2016,United States
+2878,2005,United States
+2879,2020,South Korea
+2880,2018,South Korea
+2883,2019,United States
+2884,2016,Argentina
+2885,2010,"India, Japan"
+2886,2020,United Kingdom
+2887,2020,"United Kingdom, United States"
+2888,2016,United Kingdom
+2889,2013,United States
+2890,2017,United States
+2891,2019,France
+2892,2010,India
+2893,2018,United States
+2894,2016,Mexico
+2895,2015,United States
+2896,2019,Australia
+2897,2018,France
+2898,2016,China
+2899,2020,United States
+2900,2017,"Switzerland, France, Belgium, United States"
+2901,2015,"China, South Korea, United States"
+2902,2016,"Canada, United States"
+2903,2018,United Kingdom
+2904,2020,United Kingdom
+2905,2019,Australia
+2906,2016,United States
+2907,2016,"Sweden, United States"
+2908,2017,United States
+2909,2011,United States
+2911,2014,Thailand
+2912,2010,India
+2915,2019,France
+2916,2019,Spain
+2917,2019,United States
+2918,2010,United States
+2919,2016,"United Kingdom, France, Belgium"
+2920,2015,United States
+2921,2016,United States
+2922,2015,United States
+2923,2013,United States
+2924,2019,"United States, Mexico"
+2925,2019,"Mexico, United States"
+2926,2019,United States
+2927,2020,United States
+2928,2019,United States
+2929,2017,South Korea
+2930,2018,United States
+2931,2017,United Kingdom
+2932,2017,United States
+2933,2016,China
+2934,2016,"Canada, Ireland, United States"
+2935,2014,"China, Hong Kong"
+2936,2017,Japan
+2937,2010,India
+2938,2014,United States
+2939,2020,United States
+2940,2018,Spain
+2942,2008,"United States, France"
+2943,2017,India
+2944,2016,United States
+2945,2018,United States
+2947,2019,United States
+2948,2013,United States
+2949,2018,South Korea
+2950,2009,"United States, Germany"
+2951,2018,India
+2952,2020,United States
+2953,1974,France
+2954,2012,South Korea
+2955,2018,Turkey
+2956,2012,Singapore
+2957,2014,United States
+2958,2017,United States
+2959,2016,United States
+2960,2012,Taiwan
+2961,2018,"United Kingdom, United States"
+2962,1990,United States
+2963,2018,Spain
+2964,2018,Thailand
+2966,2017,Nigeria
+2968,2019,Kuwait
+2969,2017,United States
+2970,2019,Kuwait
+2971,2020,United States
+2972,2017,"United Kingdom, United States, Dominican Republic"
+2973,2016,"France, Belgium"
+2974,2019,"United States, Canada"
+2975,2019,"Canada, United States"
+2976,2016,Japan
+2977,2011,Taiwan
+2978,2016,United States
+2979,2010,"United States, United Kingdom"
+2980,2014,Turkey
+2981,2019,"Serbia, United States"
+2982,2017,India
+2983,2017,"United Kingdom, United States"
+2984,2015,"United States, Senegal"
+2985,2018,United States
+2986,2014,India
+2987,2015,United Kingdom
+2988,2017,Canada
+2989,2020,"United States, India"
+2990,2008,United States
+2991,1989,United States
+2992,1981,United States
+2993,1984,United States
+2994,2016,United States
+2995,2013,United States
+2996,2016,United Kingdom
+2997,2009,"Germany, United States"
+2998,2018,Mexico
+2999,2018,Japan
+3000,2013,South Korea
+3001,2019,Thailand
+3002,2020,France
+3003,2005,"China, Hong Kong"
+3004,2012,United States
+3005,2013,India
+3006,2008,"Germany, United Kingdom, United States"
+3007,2017,India
+3008,2017,Turkey
+3009,2005,India
+3010,2019,United States
+3011,2019,United States
+3012,2019,United States
+3013,2018,"United States, Czech Republic"
+3014,2017,United Kingdom
+3015,2015,United States
+3016,2017,Israel
+3018,2021,United Kingdom
+3019,2010,"United States, Canada, United Kingdom"
+3020,2017,"Canada, United States, France"
+3021,2018,United Kingdom
+3022,2019,Australia
+3023,2013,Mexico
+3024,2007,Canada
+3025,2019,United Kingdom
+3026,2016,United States
+3027,2015,India
+3028,2016,Turkey
+3029,2008,United States
+3030,2018,United States
+3031,2015,Canada
+3032,2016,"United Kingdom, Germany, Canada"
+3033,2020,Belgium
+3034,2007,United States
+3035,2020,Argentina
+3036,2001,Japan
+3037,2004,Japan
+3038,2003,Japan
+3039,2001,Japan
+3040,2002,Japan
+3041,2019,"South Korea, United States"
+3042,2009,United States
+3043,2017,"Argentina, France"
+3044,2018,Canada
+3045,2017,"South Africa, Germany, Netherlands, France"
+3046,2019,United States
+3047,2008,"Hong Kong, China"
+3048,2010,"Hong Kong, China"
+3049,2015,"China, Hong Kong"
+3050,2019,"Hong Kong, China"
+3051,2006,India
+3052,2010,India
+3053,2009,South Korea
+3054,2018,United States
+3055,2019,Australia
+3056,2018,Taiwan
+3057,2014,United States
+3058,2011,"Canada, United States, United Kingdom, France, Luxembourg"
+3059,2019,"Finland, Germany, Belgium"
+3060,2018,United States
+3061,2015,Japan
+3062,2018,"India, France"
+3063,2019,Philippines
+3064,2003,India
+3065,2015,India
+3066,2009,India
+3067,2020,Germany
+3068,2018,Indonesia
+3069,2014,United Kingdom
+3070,2017,Nigeria
+3071,2015,South Korea
+3072,2013,India
+3073,2017,United States
+3074,2019,"United States, United Kingdom, Germany"
+3075,2013,Philippines
+3076,1995,United States
+3077,2019,United States
+3079,2016,Nigeria
+3080,2015,Spain
+3081,2020,South Korea
+3082,2017,Egypt
+3083,2020,South Korea
+3084,2017,India
+3085,2014,United States
+3086,2015,Nigeria
+3087,2019,United States
+3088,2020,Australia
+3090,2020,"Taiwan, China"
+3091,1986,India
+3092,2006,India
+3093,2008,India
+3094,2017,India
+3095,2007,India
+3096,2013,"France, Belgium"
+3097,2018,Canada
+3098,2016,"United States, Ireland"
+3099,2017,United Kingdom
+3100,2019,United Kingdom
+3101,2020,United Kingdom
+3102,2020,United Kingdom
+3103,1997,United States
+3104,2017,United Kingdom
+3105,2015,Vietnam
+3106,2019,United States
+3107,2019,India
+3108,2016,Sweden
+3109,2015,Malaysia
+3110,2017,India
+3111,2020,India
+3112,2009,India
+3114,2017,Cambodia
+3116,2013,India
+3117,2012,India
+3118,2018,United Kingdom
+3119,2020,India
+3120,2016,Pakistan
+3121,2016,United Kingdom
+3122,2019,United States
+3123,2018,Chile
+3124,2018,India
+3125,2020,Japan
+3126,2008,Japan
+3127,2019,"Israel, United States"
+3128,2014,India
+3129,2013,India
+3130,2001,United States
+3131,1973,Poland
+3132,2018,"Spain, Portugal"
+3133,2014,United States
+3134,2006,United States
+3135,2019,United States
+3136,2011,United States
+3137,2012,United States
+3138,2017,United States
+3139,2015,United States
+3140,2008,United States
+3141,2016,United States
+3142,2019,United States
+3143,2020,United States
+3144,2015,United States
+3145,2015,United States
+3146,2017,United States
+3147,2017,United States
+3148,2019,United States
+3149,2019,United States
+3150,2016,"Mexico, United States"
+3151,2015,United States
+3152,2008,United States
+3153,2017,United States
+3154,2020,United States
+3155,2002,United States
+3156,1998,United States
+3157,2014,United States
+3158,2016,United States
+3159,2018,"Ireland, United States, France"
+3160,2016,United States
+3161,2019,United States
+3162,2017,United Kingdom
+3163,2003,India
+3164,2009,India
+3165,2017,"Canada, United States"
+3166,2005,United States
+3167,2017,United States
+3168,2009,United States
+3169,2012,United States
+3170,2014,United States
+3171,2014,United States
+3172,2016,United States
+3174,2018,United States
+3175,2017,United States
+3176,1973,United States
+3177,2016,United Kingdom
+3179,2001,United States
+3180,2018,Japan
+3181,2017,India
+3182,2020,United States
+3183,2017,Russia
+3184,2019,Jordan
+3185,2013,"United States, Canada"
+3186,2011,United States
+3188,2019,United States
+3189,2020,United States
+3190,2017,United States
+3191,2018,South Korea
+3192,2017,United States
+3193,2012,United States
+3195,2008,India
+3196,2017,United Kingdom
+3197,2017,United States
+3199,2016,United States
+3200,2005,India
+3201,2018,United Kingdom
+3202,2012,United States
+3203,2013,India
+3204,2020,United States
+3205,2018,United States
+3207,2019,United States
+3208,2018,United States
+3209,2012,United States
+3210,2015,United States
+3211,2020,United States
+3212,2013,"United States, Canada"
+3213,2014,Japan
+3214,2017,Taiwan
+3215,2012,India
+3216,2018,India
+3217,2015,Brazil
+3218,2018,United States
+3219,2015,United Kingdom
+3220,2017,India
+3221,2000,United States
+3222,2017,United States
+3224,2016,France
+3225,2019,Austria
+3226,2020,Japan
+3227,2015,Chile
+3228,2016,Mexico
+3229,2019,United States
+3230,2017,United States
+3231,2017,United States
+3232,2015,India
+3233,1997,India
+3234,2017,India
+3235,2011,United States
+3237,2009,United States
+3238,2020,United States
+3239,2017,United States
+3240,2014,United States
+3241,2019,Kuwait
+3242,2015,South Korea
+3243,2011,United States
+3244,2005,United States
+3245,2015,"United States, Australia"
+3246,2020,United States
+3247,2020,Brazil
+3248,2007,Denmark
+3249,2005,"Germany, United States, Canada"
+3250,2018,Argentina
+3251,2016,Philippines
+3252,2013,Taiwan
+3253,2017,United States
+3255,1992,Hong Kong
+3256,2011,United States
+3257,2016,United States
+3258,2012,Canada
+3260,2019,United States
+3261,2012,Japan
+3262,2002,"United Kingdom, Germany, Canada, United States"
+3263,2010,Japan
+3264,2011,Japan
+3265,2012,South Korea
+3267,2009,Taiwan
+3268,2016,Turkey
+3269,2013,Turkey
+3270,2017,India
+3271,2019,India
+3272,2015,India
+3273,2019,India
+3274,2005,India
+3275,2020,India
+3276,1981,India
+3277,2017,India
+3278,2016,India
+3279,2019,Japan
+3280,2006,India
+3281,1994,India
+3282,2001,India
+3283,2019,India
+3284,2016,India
+3285,2012,India
+3286,2014,"United States, France, Canada, Lebanon, Qatar"
+3287,2013,India
+3288,2010,India
+3290,2003,India
+3291,2012,India
+3292,2016,United Kingdom
+3293,2019,United Arab Emirates
+3294,2019,Philippines
+3295,2017,India
+3296,2016,South Africa
+3297,2009,India
+3298,2017,India
+3299,2019,South Africa
+3300,2017,India
+3301,2020,India
+3302,2017,Japan
+3303,2016,India
+3304,2020,India
+3305,2015,Turkey
+3306,2019,Brazil
+3307,2007,Egypt
+3309,2010,India
+3310,2017,"Indonesia, Netherlands"
+3311,2008,India
+3312,2019,Nigeria
+3314,2001,United States
+3315,2012,Australia
+3316,2007,Australia
+3317,1982,India
+3318,2019,United States
+3319,2017,United Kingdom
+3320,2016,United States
+3321,2007,United States
+3322,2018,United States
+3323,2012,United States
+3324,2006,United States
+3325,2006,United States
+3326,2015,India
+3328,2017,India
+3329,2005,India
+3330,2017,Australia
+3331,2019,India
+3332,2015,United States
+3333,2019,United States
+3334,1990,United States
+3335,2014,United States
+3336,1996,United States
+3337,2019,United States
+3338,2019,"United States, Japan"
+3339,2020,India
+3340,2019,United States
+3341,2009,United States
+3342,2019,United States
+3343,2011,United States
+3344,2013,United States
+3345,2010,United States
+3346,2016,United States
+3347,2020,United States
+3348,2019,United States
+3349,2018,United States
+3350,2001,United States
+3351,2017,United States
+3352,2017,Pakistan
+3353,1993,India
+3354,2018,India
+3355,2013,India
+3356,2018,India
+3357,2014,India
+3358,1973,India
+3359,2006,India
+3360,2011,India
+3361,1980,India
+3362,2003,India
+3363,2018,India
+3364,2017,China
+3365,2017,United States
+3366,2016,United States
+3367,1995,United States
+3369,2015,Philippines
+3370,2016,Russia
+3371,2015,"Netherlands, Belgium, United Kingdom, United States"
+3372,2019,Germany
+3373,2019,Turkey
+3375,2003,"United States, Japan"
+3376,2004,United States
+3377,2016,United Kingdom
+3378,2015,France
+3379,2014,Japan
+3380,2019,Turkey
+3381,2016,United States
+3382,2011,United States
+3383,2014,United States
+3384,2014,India
+3385,2019,United States
+3386,2020,United States
+3387,1988,United States
+3389,2017,United Kingdom
+3390,2010,United States
+3391,2017,United States
+3392,2012,United States
+3393,2016,Hungary
+3394,2014,United Kingdom
+3395,2020,Canada
+3396,2015,United States
+3397,2018,Nigeria
+3398,2018,"China, United States, Australia"
+3399,2005,"United States, Canada"
+3400,2012,China
+3401,2017,United States
+3402,2017,United Kingdom
+3404,1996,United States
+3405,2017,"France, Belgium, China, United States"
+3406,2020,South Africa
+3407,2020,United States
+3408,2015,India
+3409,2009,India
+3410,2008,India
+3411,2017,Canada
+3412,2018,"United Kingdom, United States"
+3413,1997,United States
+3414,2020,United States
+3416,2020,Brazil
+3417,2017,Philippines
+3418,2017,United Kingdom
+3419,2013,Malaysia
+3420,2019,"Spain, United Kingdom"
+3421,2019,United States
+3422,2015,Japan
+3423,2019,United States
+3424,2015,"United States, Chile, Israel"
+3425,1945,United States
+3426,2009,"United States, United Kingdom, Australia"
+3427,2005,Taiwan
+3429,2015,Turkey
+3430,2016,Turkey
+3431,2018,"Canada, United States"
+3432,2006,India
+3433,2016,United Kingdom
+3434,2019,India
+3435,2018,Bangladesh
+3437,2012,"United Kingdom, Norway, Denmark, Germany, Sweden"
+3438,2018,"United States, Japan, Canada"
+3440,2003,Malaysia
+3442,1972,India
+3443,2014,"Norway, Denmark, Sweden"
+3448,2017,India
+3452,2015,United States
+3453,2020,India
+3455,2004,India
+3456,2013,United States
+3457,2019,India
+3458,2017,United States
+3459,2003,India
+3460,1998,India
+3461,2017,India
+3462,2016,United States
+3464,2004,"Hong Kong, China, United States"
+3465,2010,"Mexico, United States"
+3466,2010,United States
+3467,2016,United States
+3468,2017,"China, India, Nepal"
+3469,2018,Indonesia
+3471,2009,India
+3472,2013,Japan
+3473,2016,Japan
+3474,1998,United Kingdom
+3475,2014,Turkey
+3476,2012,Turkey
+3477,2000,India
+3478,2005,India
+3479,2016,India
+3480,2017,United States
+3481,2001,India
+3482,2004,India
+3483,2019,United States
+3485,2016,Argentina
+3486,2017,United States
+3487,1987,United States
+3488,2020,Spain
+3489,2016,Italy
+3490,2016,"United States, Mexico"
+3491,2016,Colombia
+3492,2012,United States
+3495,2016,Taiwan
+3496,2020,Spain
+3497,2017,Mexico
+3498,2017,France
+3499,2016,Colombia
+3500,2020,"United States, Argentina"
+3501,2017,Mexico
+3502,2020,France
+3503,2019,"Mexico, United States, Spain, Colombia"
+3504,2004,Taiwan
+3505,2010,Mexico
+3506,2016,"Colombia, Mexico, United States"
+3507,2016,India
+3508,2018,India
+3509,2011,Thailand
+3510,2018,India
+3511,2019,India
+3512,2017,United States
+3513,2016,Hong Kong
+3514,2019,United States
+3515,2017,United States
+3516,2006,United States
+3517,2019,France
+3518,2018,United States
+3519,2015,Colombia
+3520,2017,Brazil
+3521,2001,India
+3523,2016,India
+3524,2004,India
+3525,1971,India
+3526,2010,India
+3527,2011,United Kingdom
+3528,2015,Singapore
+3529,2018,Nigeria
+3530,2017,"United States, Mexico"
+3532,2020,United States
+3533,2015,Russia
+3535,2018,Colombia
+3536,2015,South Korea
+3537,2019,"United Kingdom, Belgium, Sweden"
+3538,2020,United States
+3539,2019,United States
+3540,2012,"Nigeria, United Kingdom"
+3541,2018,Japan
+3542,2015,"United Kingdom, South Korea"
+3543,2010,"United States, France"
+3544,2020,United Kingdom
+3545,2018,"United States, Taiwan"
+3546,2020,Germany
+3547,2011,United States
+3548,2002,Taiwan
+3549,2012,United States
+3551,2004,United Kingdom
+3552,2016,"Netherlands, Belgium, Germany, Jordan"
+3553,2017,France
+3554,2014,France
+3555,2019,United States
+3556,2018,United States
+3557,2010,"United States, Ireland"
+3558,2016,"France, Canada"
+3559,2003,United States
+3560,2011,United States
+3561,2011,United States
+3564,2018,United Kingdom
+3565,2017,India
+3566,2013,United States
+3567,2014,"United States, Canada"
+3568,2019,United States
+3569,2015,"United Kingdom, France, United States"
+3570,2010,"United States, Australia"
+3571,2017,China
+3572,2017,Mexico
+3573,2019,Mexico
+3574,1982,Hong Kong
+3575,2017,United States
+3576,2016,United States
+3577,2010,United States
+3578,2016,United States
+3579,2014,United States
+3580,2017,United States
+3582,2018,Denmark
+3583,2016,Denmark
+3585,2019,United States
+3586,2018,United States
+3587,2016,United States
+3588,2015,United States
+3589,2018,United States
+3590,2017,United States
+3591,2020,Canada
+3592,2019,"Denmark, Singapore, Canada, United States"
+3593,2016,"Denmark, China"
+3594,2019,"United States, France"
+3595,2013,United States
+3596,2019,India
+3598,2020,United States
+3599,2015,India
+3601,2013,"United States, Italy"
+3602,2016,France
+3603,2012,"United Kingdom, United States"
+3604,2020,United States
+3605,2018,United States
+3606,2017,United States
+3607,2019,United States
+3608,1946,United States
+3609,2006,Egypt
+3610,2015,"Malaysia, Singapore, Hong Kong"
+3611,2013,South Korea
+3612,2019,Japan
+3613,2014,Turkey
+3614,2020,Turkey
+3615,2018,United States
+3616,2015,United States
+3617,2013,India
+3618,2017,"United States, Mexico"
+3619,2014,Canada
+3620,2010,South Africa
+3621,2018,South Korea
+3622,2010,United States
+3623,2014,United States
+3624,2007,India
+3625,2018,United States
+3626,2012,India
+3627,2018,India
+3628,2009,United States
+3629,2019,"Sweden, United States"
+3630,2016,Taiwan
+3631,2018,United States
+3632,2014,United Kingdom
+3633,2006,Egypt
+3634,2018,Canada
+3635,1997,Hong Kong
+3636,2019,Nigeria
+3637,2018,United States
+3638,2018,United States
+3639,1992,Mexico
+3640,2019,United States
+3641,2015,United States
+3642,2018,India
+3643,2014,"Norway, United States"
+3644,2017,India
+3645,2012,United Kingdom
+3646,2012,"United States, India"
+3647,2016,"China, Hong Kong"
+3648,2020,"United States, Philippines"
+3649,2017,Taiwan
+3650,2013,Egypt
+3651,2018,Nigeria
+3652,2019,Brazil
+3653,2017,Lebanon
+3656,2019,United Kingdom
+3657,2016,United States
+3658,1983,Hong Kong
+3659,2017,United States
+3660,2015,Australia
+3661,2016,Australia
+3662,2016,Australia
+3663,2016,"United States, Greece, Brazil"
+3664,2018,United Kingdom
+3665,1989,United States
+3666,2000,United States
+3667,2020,India
+3675,2016,United States
+3676,2019,India
+3677,2017,Japan
+3678,2018,United States
+3679,2017,United States
+3680,2018,South Korea
+3681,2020,Spain
+3682,2017,South Korea
+3683,2019,Nigeria
+3684,2019,United States
+3685,2019,United States
+3686,2014,United States
+3687,2019,United States
+3688,2016,United States
+3689,2018,Mexico
+3690,2017,Spain
+3691,2013,Mexico
+3692,2017,United Kingdom
+3693,2016,India
+3695,1998,United Kingdom
+3696,2013,"United Kingdom, United States"
+3697,2020,"Canada, United States"
+3698,2018,Turkey
+3699,2020,Spain
+3700,2012,"France, United States"
+3701,2017,Mexico
+3702,2014,Russia
+3703,2015,India
+3704,1976,United States
+3705,2019,Philippines
+3706,2016,"South Korea, France"
+3707,1962,"United Kingdom, United States"
+3708,2017,Germany
+3709,2017,United Kingdom
+3710,2020,United States
+3711,2015,United Kingdom
+3712,2017,United States
+3713,2017,Canada
+3714,2017,United States
+3716,2009,Hong Kong
+3717,1990,Hong Kong
+3718,2015,Germany
+3719,2015,India
+3720,2019,Mexico
+3722,2015,Mexico
+3724,2012,Colombia
+3725,2019,United States
+3727,2017,"United States, Australia, Samoa, United Kingdom"
+3728,2016,Canada
+3729,2020,France
+3730,2015,Canada
+3731,2020,United States
+3732,2017,Nigeria
+3733,2019,United States
+3734,2018,Japan
+3736,2017,United States
+3737,2010,United States
+3738,2015,United States
+3739,2018,United States
+3740,2016,Taiwan
+3741,2020,Sweden
+3742,2020,Turkey
+3743,2020,India
+3744,2019,South Korea
+3745,2018,Japan
+3746,2017,Japan
+3747,2017,India
+3748,2013,Taiwan
+3749,2016,United States
+3750,2014,Taiwan
+3751,2015,Taiwan
+3752,2019,United States
+3753,2013,Taiwan
+3754,2018,Indonesia
+3755,2019,Indonesia
+3756,2013,South Korea
+3757,2010,Hong Kong
+3758,2015,Romania
+3759,2019,United States
+3760,2010,United Kingdom
+3761,2019,Nigeria
+3762,2018,"Canada, South Africa"
+3763,1997,United States
+3764,2020,Indonesia
+3765,2015,Turkey
+3766,2012,Taiwan
+3767,2017,India
+3768,2012,Taiwan
+3769,2016,China
+3770,2017,"China, Hong Kong"
+3771,1994,Hong Kong
+3772,2019,Australia
+3773,2018,India
+3774,2012,South Korea
+3776,2018,United States
+3777,2011,Egypt
+3779,2020,"United Kingdom, Italy"
+3780,2017,Philippines
+3781,2015,Indonesia
+3782,2013,United Kingdom
+3783,2014,Japan
+3784,2019,United States
+3785,2020,United States
+3786,2014,"Germany, United Kingdom"
+3787,2017,Turkey
+3788,2017,Brazil
+3790,2016,United States
+3791,2020,South Korea
+3792,2016,United States
+3793,2016,"United Kingdom, United States"
+3794,2006,United States
+3795,2019,Colombia
+3796,1995,Hong Kong
+3797,2010,India
+3798,2017,Japan
+3799,2017,United States
+3800,2020,Brazil
+3802,2019,Brazil
+3803,2019,Brazil
+3804,2016,Argentina
+3805,2018,Argentina
+3806,2017,South Korea
+3807,2020,United States
+3808,2009,India
+3809,2019,India
+3810,2017,India
+3811,2010,China
+3812,2005,India
+3813,2020,India
+3814,2019,Brazil
+3815,2018,Mexico
+3816,2019,India
+3817,2020,Italy
+3818,2017,United States
+3819,2018,"Canada, United States"
+3820,2019,Australia
+3821,2018,"China, United Kingdom"
+3822,2021,United States
+3823,1979,Japan
+3824,2018,India
+3825,2015,"Argentina, Chile, Peru"
+3826,2018,India
+3827,2012,India
+3828,2017,United States
+3829,2017,India
+3830,2020,United States
+3832,2017,"India, France"
+3833,2012,United States
+3834,2014,India
+3835,2013,"United States, Russia"
+3836,2016,Mexico
+3837,1979,"Australia, United States"
+3838,2014,United States
+3839,2008,United States
+3840,1987,United States
+3841,2016,Hong Kong
+3842,2016,India
+3843,2008,United States
+3844,2019,United States
+3845,2017,United States
+3846,2019,India
+3847,2018,United States
+3848,2004,India
+3849,2013,India
+3850,2016,Chile
+3851,2017,Italy
+3852,2016,Japan
+3853,2013,Japan
+3854,2020,United States
+3855,2016,South Korea
+3856,2013,"France, Belgium"
+3857,2019,"Uruguay, Germany"
+3858,2018,France
+3859,2015,India
+3860,1999,United States
+3861,2016,Norway
+3862,2013,India
+3864,2015,India
+3865,2014,India
+3866,2017,United Kingdom
+3867,2010,India
+3868,1981,Hong Kong
+3869,2013,"Turkey, Azerbaijan"
+3870,2010,Japan
+3871,2009,India
+3872,2004,India
+3873,2005,India
+3874,2005,India
+3875,1989,India
+3877,2018,United States
+3878,2020,United States
+3879,2020,Germany
+3880,2016,Australia
+3881,2018,Israel
+3882,2017,India
+3883,2019,India
+3884,2020,India
+3885,2018,Argentina
+3886,2018,United Kingdom
+3887,2019,United States
+3888,2020,United States
+3889,2019,United States
+3890,2018,United States
+3891,2019,India
+3892,2018,Egypt
+3893,2017,United Kingdom
+3894,2020,United Kingdom
+3895,2013,"United States, China, Hong Kong"
+3896,2017,South Korea
+3897,2015,"United Kingdom, France"
+3899,2020,United States
+3900,1983,India
+3901,2017,India
+3902,2014,United States
+3903,2016,United States
+3904,2014,United States
+3905,2017,"China, Hong Kong"
+3907,2018,United States
+3908,2020,India
+3909,2017,India
+3910,2020,United States
+3911,2019,India
+3912,1999,India
+3913,2017,United Kingdom
+3914,2007,India
+3915,1974,India
+3916,1999,United Kingdom
+3917,2015,United States
+3918,2018,India
+3919,2017,India
+3920,2017,India
+3921,2018,India
+3922,2017,India
+3923,2014,"Canada, Germany, France, United States"
+3924,2017,Spain
+3925,2017,United Kingdom
+3926,2020,"Argentina, United States, Mexico"
+3927,2016,"Canada, United States"
+3928,2020,United States
+3929,2013,United States
+3930,2017,United States
+3931,2019,United Kingdom
+3932,2017,Japan
+3933,2018,United States
+3934,2017,Brazil
+3935,2016,United States
+3936,2015,United States
+3937,2019,Philippines
+3938,2017,United States
+3939,2012,United States
+3940,2015,United States
+3941,2019,France
+3944,2018,United States
+3945,2018,United States
+3946,2016,United States
+3947,2016,India
+3948,2018,India
+3949,2019,"United Kingdom, United States"
+3950,2019,United States
+3951,2018,United States
+3952,2018,France
+3953,1986,"Hong Kong, China"
+3954,2002,United States
+3955,2017,United States
+3956,2019,Canada
+3957,2016,India
+3959,2011,"United States, Japan"
+3960,2011,Japan
+3961,2015,United States
+3962,2020,United States
+3963,2018,United States
+3964,2016,United States
+3965,2018,United States
+3966,2013,United States
+3967,2019,United States
+3968,2018,United States
+3969,2017,United States
+3970,2019,United States
+3971,2017,Japan
+3972,2014,India
+3973,2018,"United States, United Kingdom"
+3974,2016,United Kingdom
+3975,2020,India
+3976,2020,Saudi Arabia
+3977,2013,Saudi Arabia
+3978,2016,United States
+3979,2019,Russia
+3980,2012,"United States, Russia"
+3982,2020,India
+3983,1983,India
+3984,2016,South Korea
+3985,2017,United States
+3986,2018,"Hong Kong, China"
+3988,2017,Argentina
+3989,2012,South Africa
+3990,2006,India
+3991,2018,Mexico
+3992,2018,India
+3993,2020,Brazil
+3994,2013,United States
+3995,2018,Indonesia
+3996,2014,Hong Kong
+3997,2017,Egypt
+3998,2016,United States
+3999,1993,"France, United Kingdom, India"
+4000,2019,"China, Taiwan"
+4001,2017,United States
+4003,1988,India
+4004,2016,Mexico
+4005,2017,Mexico
+4006,2016,Canada
+4007,2011,United States
+4008,1973,United States
+4009,2020,United States
+4010,2018,United States
+4011,2020,United States
+4012,2019,"Italy, United Kingdom, France"
+4013,2017,Canada
+4014,1985,"Poland, West Germany"
+4015,2016,United Kingdom
+4016,2017,Nigeria
+4017,2017,United Kingdom
+4018,2013,United Kingdom
+4019,2018,Japan
+4020,2012,Australia
+4021,2017,India
+4022,2019,India
+4023,2017,India
+4025,2003,United States
+4026,2017,South Korea
+4027,2019,Argentina
+4028,2018,South Korea
+4029,2018,"Germany, United States, Sweden"
+4031,1997,United States
+4032,2002,United States
+4033,2020,South Korea
+4034,2008,Saudi Arabia
+4035,2017,United States
+4036,2016,"Canada, Spain"
+4037,2009,Indonesia
+4038,2018,New Zealand
+4039,2016,France
+4040,2018,United States
+4041,2016,United States
+4042,2019,United States
+4044,2019,India
+4045,2018,India
+4046,2015,Spain
+4047,2012,United Kingdom
+4048,2019,United States
+4049,2019,Nigeria
+4050,2018,Nigeria
+4051,2017,India
+4052,2017,"United Kingdom, France, Belgium, United States"
+4053,2020,United States
+4054,2013,United States
+4055,2014,United States
+4056,2018,China
+4057,2016,India
+4058,2016,Mexico
+4059,2016,United States
+4060,2017,"France, Japan"
+4061,2019,Chile
+4062,2018,"Argentina, Spain"
+4063,2009,India
+4064,2015,United Kingdom
+4065,2017,"Netherlands, Germany, Italy, Canada"
+4066,2011,India
+4067,2017,United States
+4068,2016,United States
+4069,2017,"Canada, United States"
+4070,2020,United Kingdom
+4071,2020,United States
+4072,2019,United States
+4073,2009,United States
+4074,2016,"United States, Cambodia"
+4075,2020,United States
+4076,2020,Canada
+4077,2014,Japan
+4078,2019,Japan
+4079,2018,India
+4080,2016,"United States, Greece"
+4081,2020,"United States, Canada"
+4082,2020,Canada
+4084,2019,India
+4085,2020,India
+4086,2021,India
+4088,2010,"United States, Japan"
+4089,2014,India
+4090,2013,United States
+4091,2017,United States
+4092,2019,United States
+4093,2008,United States
+4094,2015,United States
+4095,2019,United States
+4096,2017,"Czech Republic, United States"
+4097,2018,"United States, China, Colombia"
+4098,2020,Indonesia
+4099,2019,United States
+4100,2018,"France, Belgium"
+4101,2008,United States
+4102,2019,Argentina
+4103,2020,United States
+4104,2019,United Kingdom
+4105,2017,Japan
+4106,2015,Singapore
+4107,2017,Austria
+4108,2017,United Kingdom
+4109,2019,United States
+4110,2016,"United States, Spain, Italy"
+4111,2019,United States
+4112,2015,"United States, Sweden"
+4113,2014,France
+4115,2018,South Korea
+4116,2016,United States
+4117,2017,India
+4118,2013,United States
+4119,2004,"Canada, United States"
+4120,2019,Turkey
+4121,2019,"France, South Korea, Japan"
+4122,2018,Spain
+4123,2018,Japan
+4124,2019,United States
+4125,2012,"United States, Canada"
+4126,2016,India
+4127,2014,South Korea
+4128,2019,India
+4129,2017,Netherlands
+4130,2019,Netherlands
+4131,2020,India
+4132,2020,United States
+4134,2015,Mexico
+4135,2015,Japan
+4136,2016,Taiwan
+4137,2020,India
+4138,2014,Singapore
+4139,2014,"Norway, United Kingdom, France, Ireland"
+4140,2017,United States
+4141,2012,South Korea
+4142,2011,United States
+4143,2015,Taiwan
+4144,2015,United States
+4145,2016,United States
+4146,2019,United States
+4147,2014,"United States, Bermuda, Ecuador"
+4148,2017,"United States, United Kingdom"
+4149,2008,India
+4150,2018,"United Kingdom, Poland"
+4151,2014,Malaysia
+4152,2015,United States
+4153,2014,United States
+4154,2018,United States
+4155,2019,United Kingdom
+4156,2018,Japan
+4157,2014,Japan
+4158,2016,Japan
+4159,2018,Japan
+4160,2000,United States
+4161,2016,India
+4162,2019,Egypt
+4163,2017,United States
+4164,2016,India
+4165,2015,United States
+4166,2019,Nigeria
+4167,2015,France
+4168,2017,"China, Canada, United States"
+4169,2017,India
+4170,2014,South Korea
+4171,2018,Nigeria
+4172,2003,United States
+4173,2021,Mexico
+4174,2016,"United States, Spain"
+4176,2020,Spain
+4177,1997,United States
+4178,2019,Turkey
+4180,2014,United Kingdom
+4181,2018,Thailand
+4182,2016,Canada
+4183,2017,Egypt
+4184,2017,"Germany, United Kingdom"
+4185,2013,United States
+4186,2015,United States
+4188,2012,United States
+4189,2014,United States
+4190,2013,United States
+4191,2011,United States
+4192,2014,United States
+4193,2012,United States
+4194,2016,United States
+4195,2015,United States
+4196,2010,United States
+4197,2013,United States
+4198,2013,United States
+4199,2006,United States
+4200,2017,"India, Mexico"
+4201,2012,Canada
+4202,2005,"United States, Germany"
+4203,2014,United Kingdom
+4204,2014,Japan
+4205,2013,United Kingdom
+4206,2011,United Kingdom
+4207,1975,United Kingdom
+4208,2014,United Kingdom
+4210,2014,United Kingdom
+4211,2000,United Kingdom
+4212,1998,United States
+4213,1982,United Kingdom
+4214,2014,United Kingdom
+4215,2009,United Kingdom
+4216,1972,"United Kingdom, West Germany"
+4217,1974,United Kingdom
+4218,1979,United Kingdom
+4219,2005,"United States, United Kingdom"
+4220,2018,Argentina
+4221,2009,"United Kingdom, United States"
+4222,2016,United States
+4223,2015,"France, Belgium"
+4224,2015,"Pakistan, United States"
+4225,2018,Egypt
+4226,2020,Netherlands
+4227,2016,"Germany, United States"
+4228,2019,France
+4229,2013,United States
+4230,2011,India
+4231,2012,United States
+4232,2017,Israel
+4233,2020,Brazil
+4234,2016,Canada
+4235,2020,United States
+4236,2020,Japan
+4237,2016,United States
+4238,2019,India
+4239,2016,India
+4240,2019,"Australia, United States"
+4241,2016,India
+4242,2017,Australia
+4243,2020,United States
+4244,2013,United States
+4245,2018,United States
+4247,2018,"United Kingdom, United States"
+4248,2018,India
+4249,2016,United States
+4250,2002,United States
+4251,2015,"Israel, Sweden, Germany, Netherlands"
+4252,2020,United States
+4253,2014,United States
+4254,2016,Mexico
+4255,2015,United States
+4257,2017,United States
+4258,2018,South Korea
+4259,1984,Hong Kong
+4260,2007,United States
+4261,2013,Canada
+4262,2020,India
+4263,2012,Egypt
+4264,2017,India
+4265,2016,"Chile, United States, France"
+4266,2015,"France, Morocco"
+4267,2020,United States
+4268,2015,Turkey
+4269,2012,United States
+4270,2017,United States
+4271,2012,India
+4272,2019,Chile
+4273,2004,India
+4274,1989,India
+4275,2006,Malaysia
+4276,2012,India
+4277,2014,India
+4278,2003,India
+4279,2008,India
+4280,2018,Malaysia
+4281,2014,India
+4282,2014,France
+4283,2014,United States
+4284,1987,India
+4285,2017,India
+4286,2011,India
+4287,2017,United Kingdom
+4288,2018,United States
+4289,2019,United States
+4290,2007,United States
+4291,2020,United States
+4292,2017,United States
+4293,2015,Taiwan
+4294,2019,India
+4295,2013,Philippines
+4296,2017,United States
+4297,2017,Spain
+4298,2018,"United Kingdom, Germany"
+4299,2020,Mexico
+4300,1962,United States
+4301,2015,India
+4302,2010,Philippines
+4303,2012,Canada
+4304,2010,Canada
+4305,2016,United Kingdom
+4306,2015,Spain
+4307,2018,India
+4308,2005,India
+4309,2019,South Korea
+4310,2017,United States
+4311,2017,Taiwan
+4312,2019,Thailand
+4313,2013,Egypt
+4314,2016,United States
+4315,2017,Philippines
+4316,2015,Canada
+4317,2019,South Korea
+4318,2011,India
+4319,2007,Germany
+4320,1991,United States
+4321,2017,"Georgia, Germany, France"
+4323,2015,Italy
+4324,2012,Egypt
+4325,2017,United Kingdom
+4326,2019,Japan
+4327,2016,"Switzerland, France"
+4329,2016,South Korea
+4330,2018,"United States, Canada"
+4331,2015,"United States, Canada"
+4332,2016,"United States, Canada"
+4333,2014,"United States, Canada"
+4334,2018,"United States, Canada"
+4335,2018,United States
+4336,2018,"United States, Canada"
+4337,2018,South Korea
+4339,2002,Taiwan
+4340,2020,United States
+4342,2020,South Africa
+4343,2017,South Korea
+4345,2015,United States
+4346,2020,Canada
+4347,2018,Canada
+4349,2016,South Korea
+4350,2017,South Korea
+4351,2001,Hong Kong
+4352,2015,United Kingdom
+4353,2017,South Korea
+4354,2017,South Korea
+4355,2009,United States
+4356,2008,Egypt
+4357,2018,"Turkey, South Korea"
+4358,2016,Indonesia
+4359,2019,Indonesia
+4360,2009,United States
+4361,2013,United Kingdom
+4362,2018,United States
+4363,2017,Turkey
+4364,2012,Thailand
+4365,2016,Italy
+4366,2011,"United Kingdom, United States"
+4367,2017,South Africa
+4369,2020,Brazil
+4370,1999,United States
+4371,2018,United States
+4372,1988,United States
+4373,2020,South Korea
+4374,2003,"United States, Australia"
+4375,2014,Singapore
+4376,2017,India
+4377,2019,France
+4378,2017,United Kingdom
+4379,2013,India
+4380,2017,India
+4381,2014,India
+4382,2006,"United States, Mexico"
+4383,2020,United Kingdom
+4384,2016,"Italy, India"
+4385,2014,Japan
+4386,2020,United States
+4387,2019,France
+4388,2020,Germany
+4389,2019,United States
+4390,2021,"Mexico, United States"
+4391,2019,Spain
+4392,2017,Ireland
+4393,2017,United States
+4394,2016,"United States, Botswana"
+4395,1982,India
+4396,2007,India
+4397,2016,United States
+4398,1999,Thailand
+4399,2015,United States
+4400,2018,United States
+4401,2017,"United States, Colombia, Mexico"
+4402,2020,"Mexico, United States"
+4403,2019,United States
+4404,2006,Japan
+4405,2008,Japan
+4406,2009,Japan
+4407,2011,Japan
+4408,2007,Japan
+4409,2010,Japan
+4410,2005,Japan
+4411,2006,Japan
+4412,2004,Japan
+4413,2013,India
+4414,2020,Uruguay
+4415,2018,Chile
+4416,2017,United States
+4417,2020,United States
+4418,2010,United States
+4419,2019,United States
+4420,2018,India
+4421,2016,United States
+4423,2016,United States
+4424,2004,United States
+4425,2016,India
+4426,2016,United States
+4427,2015,United States
+4428,2018,"United Kingdom, United States"
+4429,2016,United States
+4430,2016,United States
+4431,2009,"United States, United Kingdom"
+4432,2009,"United States, United Kingdom"
+4433,2016,United Kingdom
+4434,2015,United Kingdom
+4435,2013,India
+4436,1945,United States
+4437,2016,United States
+4438,2017,United States
+4439,2019,China
+4440,2017,United States
+4442,2016,India
+4443,2018,India
+4444,2018,United States
+4445,1995,Japan
+4446,2016,"Chile, Argentina, France, Spain, United States"
+4447,2009,Turkey
+4448,2016,United States
+4449,2020,United States
+4450,2018,United States
+4451,2018,United States
+4452,2018,Nigeria
+4453,2004,United States
+4454,2017,United States
+4455,2016,United States
+4456,2007,United States
+4457,2018,India
+4458,2018,"China, Canada, United States"
+4459,2020,United States
+4460,2017,India
+4461,2018,"Puerto Rico, United States, Colombia"
+4462,2018,"United States, Nigeria"
+4463,2018,United States
+4464,2013,United States
+4465,2018,Turkey
+4466,2020,United Kingdom
+4467,2020,United Kingdom
+4469,2014,United States
+4470,2018,United States
+4471,2016,South Korea
+4473,2008,"United States, Australia"
+4474,2019,United States
+4475,2016,India
+4476,2019,Nigeria
+4477,2009,"Germany, United States, France"
+4478,1981,Japan
+4479,1997,"Canada, United States"
+4480,2019,Japan
+4481,2020,"Spain, Germany, Denmark, United States"
+4482,2015,Turkey
+4483,2018,India
+4484,2005,"United Kingdom, United States, Japan"
+4485,2005,India
+4486,2018,Chile
+4487,2014,Japan
+4488,2017,Japan
+4489,2019,United States
+4490,1979,Egypt
+4491,2011,India
+4492,2017,Mexico
+4493,2011,Philippines
+4494,2007,United States
+4495,2019,Argentina
+4496,2016,United States
+4497,2016,Norway
+4498,2019,India
+4499,2020,Chile
+4500,2020,Poland
+4501,2017,"Netherlands, United States"
+4502,2019,Brazil
+4503,2016,United States
+4504,2016,"France, United Kingdom, United States"
+4505,2018,United States
+4506,2017,United States
+4507,2020,United States
+4508,2019,"India, United States"
+4509,2019,"United States, India, South Korea, China"
+4510,2016,United States
+4511,2020,Norway
+4512,2004,United Kingdom
+4513,2019,Canada
+4514,2017,United States
+4515,2020,Argentina
+4516,2016,United Kingdom
+4517,2018,"France, Belgium"
+4518,2018,Brazil
+4519,2019,Brazil
+4520,2017,United States
+4521,2018,United States
+4522,2017,United States
+4523,2017,United States
+4524,2017,United States
+4525,2017,United States
+4526,2018,United States
+4527,2017,United States
+4528,2017,United States
+4529,2018,United States
+4530,2017,United States
+4531,2017,United States
+4532,2017,United States
+4533,2017,United States
+4534,2017,United States
+4535,2018,United States
+4536,2017,United States
+4537,2018,United States
+4538,2018,United States
+4539,2012,United States
+4540,2018,France
+4541,2017,United States
+4542,1995,United States
+4543,2016,United States
+4544,2009,"United Kingdom, Canada"
+4545,2019,Taiwan
+4546,2016,Germany
+4548,2019,United Kingdom
+4549,2012,Israel
+4550,2015,Italy
+4551,2011,Japan
+4552,2015,United States
+4553,2016,United Kingdom
+4554,2013,"Denmark, Germany, Belgium, United Kingdom, France"
+4555,2013,"Denmark, Germany, Belgium, United Kingdom, France, Sweden"
+4556,2016,Brazil
+4558,2016,United Kingdom
+4559,2014,United States
+4560,2009,"France, Switzerland, Spain, United States, United Arab Emirates"
+4561,2018,Australia
+4562,2019,"Norway, Sweden"
+4563,1960,United States
+4564,2007,United States
+4565,2004,United States
+4566,2017,Hong Kong
+4567,2020,United States
+4568,2015,"United States, Ireland, United Kingdom, India"
+4569,2020,United Kingdom
+4570,2020,United Kingdom
+4571,2017,"United Kingdom, Singapore"
+4574,2018,India
+4575,2015,United States
+4576,2015,Spain
+4577,2020,"Spain, Germany"
+4578,2011,Taiwan
+4579,2016,United States
+4580,2016,Germany
+4581,2017,Australia
+4582,2017,France
+4583,1995,India
+4584,2015,South Korea
+4585,2011,Thailand
+4586,2012,Thailand
+4588,2012,India
+4589,2014,Canada
+4590,2020,Canada
+4591,2017,United States
+4592,2019,Romania
+4593,2019,India
+4596,2013,Nigeria
+4597,2016,Nigeria
+4598,2017,"South Korea, United States"
+4599,2018,Japan
+4600,2017,United States
+4601,2020,"Germany, Czech Republic"
+4602,2018,Brazil
+4603,2015,United States
+4604,2013,United States
+4605,2018,France
+4606,2014,"Denmark, Brazil, France, Portugal, Sweden"
+4607,2013,United States
+4608,2007,India
+4609,2009,Egypt
+4610,2012,Egypt
+4611,2020,Brazil
+4612,2017,Hungary
+4613,2018,Taiwan
+4614,2020,United States
+4615,2018,Italy
+4616,2017,Nigeria
+4617,1983,Hong Kong
+4618,2017,"Brazil, India, China, United States"
+4619,2016,India
+4620,2010,Hong Kong
+4621,2018,"India, Germany, Austria"
+4622,2018,United States
+4623,2018,United States
+4624,2018,United States
+4625,2018,United States
+4626,2018,United States
+4627,2018,United States
+4628,2018,United States
+4629,2018,United States
+4630,2019,Egypt
+4631,2019,China
+4632,2019,United Kingdom
+4633,2010,India
+4634,2013,India
+4635,1968,"Italy, United States"
+4636,2001,India
+4637,2014,India
+4638,2016,Thailand
+4639,2019,United States
+4640,2020,Indonesia
+4641,2019,India
+4642,2013,United States
+4643,2017,India
+4644,2016,United States
+4645,1998,Canada
+4646,2018,United States
+4647,2017,United States
+4648,2016,South Korea
+4649,2012,Philippines
+4650,2016,India
+4651,2017,United States
+4652,2006,United States
+4653,2002,Japan
+4654,2019,South Korea
+4655,2018,United States
+4656,2020,Thailand
+4657,2015,Japan
+4658,2020,Turkey
+4659,2019,United States
+4660,2013,"Denmark, France, United States, Sweden"
+4661,2018,United States
+4662,2015,"Australia, Iraq"
+4663,2006,United States
+4664,2016,United States
+4665,2015,Brazil
+4666,2020,United States
+4667,2016,South Korea
+4668,2016,United Kingdom
+4669,2016,"China, Hong Kong"
+4671,2012,United Kingdom
+4672,2012,South Korea
+4673,2018,"China, Morocco, Hong Kong"
+4674,2016,United States
+4675,1984,Hong Kong
+4676,2019,United States
+4677,2019,United States
+4678,2017,"Spain, Colombia"
+4680,2016,Philippines
+4681,2016,United States
+4682,2005,Turkey
+4683,2018,United States
+4684,2017,India
+4685,2011,France
+4686,2019,France
+4687,2016,United States
+4688,2019,"United Kingdom, United States"
+4689,2017,"Australia, United Arab Emirates"
+4690,2019,India
+4691,2014,India
+4692,2019,United Kingdom
+4693,2018,"Canada, United States, Germany"
+4694,2011,United States
+4695,2016,Spain
+4696,2019,"United States, United Kingdom"
+4697,2019,United Kingdom
+4698,2017,China
+4699,2017,United States
+4700,2006,Japan
+4701,1991,"France, Belgium, Italy"
+4702,2018,United States
+4704,2015,Australia
+4705,2020,United States
+4706,2017,United States
+4707,2018,"United Kingdom, United States"
+4708,2018,United Kingdom
+4709,2018,United States
+4711,2020,Germany
+4712,2020,"China, United States"
+4713,2017,Turkey
+4714,2017,Thailand
+4715,2008,India
+4716,2020,United States
+4717,2006,"United Kingdom, Thailand"
+4718,2015,India
+4719,2016,United States
+4720,2007,United States
+4721,2010,India
+4723,2017,India
+4724,2020,India
+4725,2017,United Kingdom
+4726,2012,Colombia
+4727,2007,"Venezuela, Colombia"
+4728,2014,"United States, Japan, Canada"
+4730,2019,"France, Luxembourg, Canada"
+4731,2016,Australia
+4732,2017,Peru
+4733,2018,India
+4735,2019,United States
+4736,2013,Philippines
+4737,2019,India
+4738,2005,India
+4739,2018,"India, Nepal"
+4740,2007,Thailand
+4741,2002,United States
+4742,2016,United States
+4743,1988,Hong Kong
+4744,2011,United States
+4746,2004,Argentina
+4747,2015,United Kingdom
+4748,2015,Spain
+4749,2006,"Mexico, Spain"
+4750,2020,United States
+4751,2017,India
+4752,2016,South Korea
+4753,2002,United States
+4754,2019,India
+4755,2017,Lebanon
+4756,2014,Canada
+4757,2000,India
+4758,2018,Canada
+4760,2018,Spain
+4761,2019,France
+4762,2018,Brazil
+4763,2020,United States
+4764,2018,United States
+4765,2016,United Kingdom
+4766,2020,Egypt
+4767,2007,United States
+4768,2018,"United States, France"
+4769,2016,Canada
+4770,2012,United States
+4771,2014,Japan
+4772,2019,Spain
+4773,1997,India
+4774,2017,India
+4775,2018,Pakistan
+4776,1990,United States
+4777,2019,France
+4778,2019,South Korea
+4779,2015,United States
+4780,2018,India
+4781,1989,United Kingdom
+4783,2018,United States
+4784,2003,"Colombia, United States"
+4785,2018,Malaysia
+4786,1992,United States
+4789,2011,India
+4790,2017,United States
+4791,2019,Mexico
+4792,2019,United Kingdom
+4793,2020,United States
+4794,1992,United States
+4795,2014,Turkey
+4796,2017,United States
+4797,2020,United States
+4798,2016,United States
+4799,2009,United States
+4800,2017,United Kingdom
+4801,2016,India
+4802,2010,United States
+4803,2018,Nigeria
+4804,2009,India
+4805,2016,"India, United States"
+4806,2019,United Kingdom
+4807,2018,Lebanon
+4808,2015,Germany
+4809,2013,Thailand
+4810,2016,United States
+4811,1990,United States
+4812,1988,United States
+4813,2010,India
+4814,2019,China
+4815,2014,Turkey
+4816,2016,Malaysia
+4817,2019,India
+4818,2018,"Colombia, Mexico"
+4819,2006,"United Kingdom, United States"
+4821,2016,"Ireland, United Kingdom, United States"
+4822,2018,United Kingdom
+4823,2016,"United States, Spain"
+4824,2018,"Hong Kong, United States"
+4825,2017,Uruguay
+4826,2018,"Argentina, Spain"
+4827,2017,Canada
+4828,2007,United States
+4829,2018,Germany
+4830,2018,United States
+4831,2016,United States
+4832,2019,South Korea
+4833,2016,"France, Germany, Czech Republic, Belgium"
+4834,2020,United States
+4835,2016,United States
+4836,2018,"United States, Australia"
+4837,2020,"Germany, China, United Kingdom"
+4838,2019,India
+4840,2016,Germany
+4842,2015,India
+4843,2015,"France, Belgium"
+4844,1993,United States
+4845,2000,India
+4846,2006,India
+4847,2015,India
+4848,2009,Thailand
+4849,2012,Nigeria
+4850,2016,India
+4851,2017,India
+4852,2018,United States
+4853,2017,Colombia
+4854,2020,"Canada, Hungary, United States"
+4855,2018,United States
+4856,2018,United States
+4857,2018,India
+4859,2017,India
+4860,2018,Australia
+4861,2008,United States
+4862,2016,India
+4864,2019,United States
+4865,2018,"Pakistan, United Arab Emirates"
+4866,1946,United States
+4868,2002,India
+4869,2014,India
+4870,1998,Argentina
+4871,2018,"France, United Kingdom"
+4872,2014,India
+4873,2018,France
+4874,2009,"Spain, United Kingdom, United States"
+4875,2016,United Kingdom
+4876,2006,United Kingdom
+4877,2010,United States
+4878,2016,"France, Belgium"
+4879,1986,"United States, United Kingdom"
+4880,2012,India
+4881,2012,United States
+4882,1980,United States
+4883,2018,"Canada, United States"
+4884,2019,United States
+4886,2018,"United Kingdom, Kenya"
+4887,2017,"Spain, United Kingdom"
+4889,2008,Spain
+4891,2015,United States
+4894,2019,"France, United States"
+4896,2017,Japan
+4897,2018,Japan
+4899,2000,Japan
+4900,2019,Japan
+4901,2019,"United States, Germany"
+4902,2019,"United States, Norway, Canada"
+4903,2020,"Canada, United States, Ireland"
+4904,2018,Canada
+4905,2013,India
+4906,2018,Japan
+4907,2017,South Africa
+4908,2018,"Switzerland, Vatican City, Italy, Germany, France"
+4909,1980,United States
+4910,2016,"United States, France"
+4911,2013,South Korea
+4912,2018,United States
+4913,2016,"Portugal, France, Poland, United States"
+4914,2019,United States
+4915,2006,United States
+4916,2017,Indonesia
+4917,2016,India
+4918,2019,South Korea
+4919,2018,United Kingdom
+4920,2017,India
+4921,2017,Ghana
+4922,2017,United States
+4923,2010,India
+4925,2017,India
+4926,2020,"United States, France"
+4927,2020,United States
+4928,2015,United States
+4930,2004,United States
+4931,1998,"United States, France, Japan"
+4932,2008,United States
+4933,2000,"France, Japan, United States"
+4934,1999,"United States, France, Japan"
+4935,2006,United States
+4936,2018,United States
+4937,2003,"United States, New Zealand"
+4938,2007,"United States, New Zealand, Japan"
+4939,2009,United States
+4940,2005,"United States, New Zealand"
+4941,2011,United States
+4942,2011,United States
+4943,2011,United States
+4944,2011,United States
+4946,2014,United States
+4948,2012,United States
+4949,2012,United States
+4950,2001,United States
+4951,1997,"United States, France, Japan"
+4952,2002,"United States, Netherlands, Japan, France"
+4953,1996,"United States, France, Japan"
+4954,2013,United States
+4955,2013,United States
+4956,2013,United States
+4957,2013,"India, Switzerland"
+4958,2019,India
+4959,2019,United States
+4960,1942,United States
+4961,2015,India
+4962,2013,India
+4963,2015,United States
+4964,2010,South Korea
+4965,2021,United States
+4966,2018,United States
+4968,2012,South Africa
+4969,1996,United States
+4970,1969,India
+4971,1984,Hong Kong
+4973,2019,United States
+4974,2018,United States
+4975,2017,United States
+4976,2014,United States
+4977,2017,South Korea
+4978,2018,United States
+4979,2020,South Korea
+4980,2012,United States
+4981,1962,India
+4982,2018,United States
+4983,2011,United States
+4984,2016,India
+4985,2017,United States
+4986,2018,India
+4987,2020,United States
+4988,2017,Thailand
+4989,2008,"United States, Canada"
+4990,2019,Canada
+4991,2018,"Canada, United States"
+4992,2016,Argentina
+4993,2020,India
+4994,2018,South Korea
+4996,2011,Japan
+4997,2020,Argentina
+4998,2015,United States
+4999,2016,Ireland
+5000,2000,India
+5001,2018,Malaysia
+5002,1994,United States
+5003,2014,"Canada, India"
+5004,2020,United States
+5005,2016,Canada
+5006,2017,Canada
+5007,2018,"Canada, Japan, United States"
+5008,2018,United States
+5009,2017,India
+5010,2012,United Kingdom
+5011,2017,United States
+5012,2011,United States
+5013,2019,China
+5014,2011,India
+5015,2015,India
+5016,2006,India
+5017,2014,India
+5018,1986,India
+5019,2019,United States
+5020,2017,India
+5021,2019,United States
+5022,1998,India
+5023,2012,China
+5024,2018,India
+5025,2020,Netherlands
+5026,2015,United States
+5027,2018,United States
+5028,2008,"United Kingdom, United States"
+5029,2012,United Kingdom
+5030,2014,India
+5031,2009,Taiwan
+5032,2015,"United States, Morocco"
+5033,2018,"United States, Mexico, Spain, Malta"
+5034,2020,South Africa
+5037,2020,United States
+5038,2019,"United States, Japan"
+5039,2018,"Spain, France"
+5040,2019,Sweden
+5041,1988,United States
+5042,1990,"Australia, United States"
+5043,2018,United States
+5045,2019,India
+5046,2008,United States
+5047,2010,India
+5048,2020,India
+5050,2018,France
+5051,2004,Malaysia
+5052,2008,India
+5053,2013,India
+5054,2009,United States
+5055,2008,United States
+5056,2013,Brazil
+5057,2012,United States
+5058,2015,India
+5059,2018,United States
+5060,2017,India
+5062,2018,Brazil
+5063,1980,United States
+5064,2011,India
+5065,2014,India
+5066,2020,"Norway, Denmark"
+5067,2015,India
+5068,2015,United States
+5069,2016,China
+5070,1988,United States
+5071,2018,India
+5072,2016,"South Korea, Canada, United States, China"
+5073,2016,United States
+5074,2019,United States
+5075,2016,Australia
+5076,2002,"France, United States"
+5077,1996,India
+5078,2014,India
+5079,2014,India
+5080,2018,India
+5081,1974,India
+5082,2018,Australia
+5083,2019,India
+5084,2018,United States
+5085,2015,United States
+5086,2015,United States
+5087,2018,United States
+5088,1995,India
+5089,1985,India
+5090,2016,India
+5091,2012,India
+5092,2018,"Singapore, Japan, France"
+5093,2005,India
+5094,2016,Canada
+5095,2018,South Korea
+5096,2010,India
+5097,2006,India
+5098,2011,United States
+5099,2017,India
+5100,2017,Pakistan
+5101,2018,United States
+5102,2020,United States
+5104,2016,United States
+5105,2019,United States
+5106,2017,Canada
+5107,2019,United States
+5109,2015,India
+5110,2017,Japan
+5111,2018,Japan
+5112,2011,Egypt
+5113,2011,India
+5114,2019,Mexico
+5115,2008,United Kingdom
+5116,2010,United Kingdom
+5117,2017,United States
+5118,2011,"United States, India"
+5120,2020,Brazil
+5121,2020,United Kingdom
+5122,1955,United States
+5123,2004,Mexico
+5124,2016,Ireland
+5125,2016,United States
+5126,2018,Canada
+5127,2018,Canada
+5128,2019,"Australia, United States"
+5129,2018,Japan
+5130,2020,South Korea
+5131,2018,United States
+5132,2016,United States
+5133,2016,Australia
+5134,1984,United States
+5135,2017,India
+5136,2017,United Kingdom
+5137,2015,United States
+5138,2013,"United Kingdom, United States"
+5139,2016,Taiwan
+5141,2015,Egypt
+5142,2016,United States
+5143,2017,United Kingdom
+5144,2020,India
+5145,2012,India
+5146,2017,United States
+5147,2012,United States
+5148,2019,United States
+5149,2019,United States
+5151,2019,United States
+5152,2019,United States
+5153,2018,United States
+5155,2018,United States
+5156,2015,Malaysia
+5157,2015,"Canada, Mexico, Germany, South Africa"
+5158,2010,United States
+5159,2017,"United Kingdom, United States, Canada"
+5160,2018,Mexico
+5161,2015,South Korea
+5162,2014,South Korea
+5163,2012,South Korea
+5164,2014,Canada
+5165,2018,United Kingdom
+5166,2010,"Germany, France, United States, Canada, United Kingdom"
+5167,2017,United States
+5168,2020,United States
+5169,2020,Canada
+5170,2016,United States
+5171,2015,United States
+5172,2017,United States
+5173,2018,Turkey
+5174,2017,"Peru, Germany, Norway"
+5175,2016,United Kingdom
+5176,1976,Egypt
+5177,1980,Hong Kong
+5178,2016,India
+5180,2014,"Hong Kong, United States"
+5181,2019,"Singapore, Malaysia"
+5182,2018,South Korea
+5183,2018,United States
+5184,2018,Japan
+5185,2017,United Kingdom
+5186,2017,United Kingdom
+5187,2017,South Korea
+5188,2008,"United States, United Kingdom"
+5189,2012,Mexico
+5191,2020,United States
+5192,2020,United Kingdom
+5193,2019,United States
+5194,2016,United States
+5195,2016,Mexico
+5196,2016,Mexico
+5197,2018,Colombia
+5199,2020,Brazil
+5200,1979,United States
+5201,2015,United States
+5202,2018,United Kingdom
+5203,2020,Australia
+5205,2020,United States
+5206,2018,Germany
+5207,2008,United States
+5208,2019,"Japan, United States"
+5209,2019,United States
+5210,2017,Malaysia
+5211,2015,India
+5213,2017,"Australia, United Arab Emirates"
+5214,2016,Netherlands
+5215,2017,"United Kingdom, Ireland"
+5217,2013,India
+5218,2018,Malaysia
+5219,2010,India
+5220,2020,Germany
+5221,2020,United Kingdom
+5222,2020,Denmark
+5223,2011,India
+5224,2019,Argentina
+5225,2018,Japan
+5226,2019,United States
+5227,2005,"United States, United Kingdom"
+5228,2016,Japan
+5229,2020,Mexico
+5230,2010,India
+5231,2015,Nigeria
+5232,2009,United States
+5233,2020,United States
+5234,2016,Italy
+5235,2018,United Kingdom
+5236,2015,South Korea
+5237,2018,South Korea
+5238,1985,"United States, Japan"
+5239,2018,United Kingdom
+5240,2016,France
+5241,2019,Germany
+5242,2008,India
+5243,2019,United States
+5244,1976,United States
+5245,2016,India
+5246,1979,United States
+5247,1982,United States
+5248,1985,United States
+5249,1990,United States
+5250,2017,United States
+5251,2017,United States
+5252,2017,United States
+5253,2020,France
+5254,2019,United States
+5255,2020,United States
+5256,2014,Egypt
+5257,2018,United States
+5258,2017,United States
+5259,2015,"United States, Uruguay"
+5260,2019,United States
+5261,2018,"Mexico, United States"
+5262,2019,"Canada, United States"
+5263,2020,Japan
+5264,2019,South Korea
+5265,2010,Turkey
+5266,2013,Turkey
+5267,2019,India
+5268,2014,"India, Canada"
+5269,2018,Mexico
+5270,2018,United States
+5271,2018,United States
+5272,2019,United States
+5273,2019,South Korea
+5274,2015,"Ireland, Canada, United Kingdom, United States"
+5275,2020,France
+5276,2017,Canada
+5277,2012,"United Kingdom, Germany"
+5278,2016,Thailand
+5279,2020,India
+5281,2020,United States
+5282,2017,United States
+5283,2018,Mexico
+5284,2020,Italy
+5285,1968,United States
+5286,2020,United States
+5287,2019,United States
+5288,1998,United States
+5289,2012,India
+5290,2018,United States
+5291,2016,United States
+5292,2004,Mexico
+5293,2016,Indonesia
+5294,2020,South Korea
+5295,2000,"Germany, United States"
+5296,2017,India
+5297,2016,Mexico
+5298,1995,Hong Kong
+5299,2005,"United States, Germany, Australia"
+5300,2004,India
+5301,2020,South Korea
+5302,1999,United States
+5303,2018,United States
+5305,2018,United States
+5306,2017,India
+5307,1998,Japan
+5308,2010,Canada
+5310,2017,United Kingdom
+5311,2015,United States
+5312,2013,United States
+5313,2016,United States
+5314,2013,United States
+5315,2019,United States
+5316,2019,United States
+5317,2020,Canada
+5318,2016,India
+5319,2017,United States
+5320,2016,Italy
+5321,2016,"Hong Kong, China"
+5322,2003,United States
+5324,2015,India
+5325,2019,India
+5326,1982,India
+5327,2019,India
+5328,2016,Pakistan
+5329,2017,India
+5330,2018,Indonesia
+5331,2019,"India, United States"
+5332,2013,"Italy, France"
+5333,2017,Spain
+5334,2014,Turkey
+5335,2016,Canada
+5336,1983,India
+5337,2014,Pakistan
+5338,2016,India
+5339,2018,United Kingdom
+5340,2012,United States
+5341,2017,"France, Canada"
+5342,2016,India
+5343,2013,India
+5344,1986,Japan
+5345,2009,Japan
+5346,2016,India
+5347,2019,Philippines
+5348,2007,India
+5349,2019,Senegal
+5350,1975,India
+5351,1963,Egypt
+5352,2018,United States
+5353,2014,Egypt
+5355,2014,United States
+5356,2020,United States
+5357,1987,United States
+5358,1991,United States
+5359,1991,United States
+5360,2016,United States
+5361,2017,India
+5362,2019,Brazil
+5363,2017,India
+5364,2017,United States
+5365,2013,Egypt
+5366,2014,France
+5367,2012,United States
+5368,2018,"South Africa, United States"
+5370,2017,Japan
+5371,1945,United States
+5372,2008,India
+5373,2017,United States
+5374,2016,"Israel, Germany, France"
+5375,2017,United States
+5376,1964,India
+5377,2018,India
+5378,2020,Italy
+5379,2016,India
+5380,2019,United States
+5381,2014,United States
+5382,2019,United States
+5384,2010,"Australia, France, Ireland"
+5385,2020,"South Africa, Angola"
+5386,2018,Colombia
+5387,2018,Spain
+5388,2020,United States
+5389,2017,United States
+5390,2010,France
+5391,2014,"Austria, Czech Republic"
+5392,2015,Canada
+5393,2016,"Australia, India"
+5394,2005,India
+5397,2018,India
+5398,2017,India
+5399,2017,India
+5400,2008,India
+5401,2018,United States
+5403,2012,India
+5404,2017,Indonesia
+5405,1982,India
+5407,2017,United States
+5408,2013,India
+5409,2016,United Kingdom
+5410,2017,United States
+5411,2018,Egypt
+5412,2017,South Korea
+5413,2015,United States
+5414,2019,Italy
+5415,2017,United States
+5416,2013,"United States, United Kingdom, Australia"
+5417,2019,United States
+5418,2018,India
+5419,2020,United States
+5420,2014,United States
+5422,2017,United States
+5423,2019,Japan
+5424,2018,United States
+5425,1955,"Italy, France"
+5426,2011,United States
+5427,2019,Egypt
+5428,2000,United States
+5429,2013,United States
+5430,1993,United States
+5431,2020,"Canada, United States"
+5432,1988,United States
+5433,2019,France
+5434,2016,Germany
+5435,2020,United States
+5436,2020,China
+5437,1998,United States
+5438,2012,United States
+5439,2018,United States
+5440,2010,"United States, United Kingdom, Canada, Japan"
+5441,2019,United States
+5442,1997,United States
+5443,2000,United States
+5444,2018,United States
+5445,2013,Hong Kong
+5446,2018,"Mexico, United States"
+5447,2012,United States
+5448,2014,United States
+5449,1993,United States
+5450,2012,"Sweden, United Kingdom, Finland"
+5451,2011,United States
+5452,2018,Argentina
+5453,2019,United States
+5454,2012,United States
+5455,2016,United States
+5456,2015,South Korea
+5457,2007,"Hong Kong, Taiwan"
+5458,2014,South Korea
+5459,2016,Australia
+5460,2015,"United States, United Kingdom, Spain, South Korea"
+5461,2019,United States
+5463,2016,Egypt
+5464,2017,India
+5465,2019,Argentina
+5466,2018,Taiwan
+5467,2013,United States
+5468,2013,United States
+5469,2016,United Kingdom
+5470,2013,United States
+5471,2014,United Kingdom
+5472,2013,United States
+5473,2013,United Kingdom
+5474,2014,United States
+5475,2020,United States
+5476,2013,United Kingdom
+5477,2014,United Kingdom
+5478,2014,"United States, United Kingdom"
+5479,2017,United States
+5481,2019,United States
+5482,2018,United States
+5483,2018,India
+5484,2019,United States
+5485,2018,India
+5486,2020,"Mexico, United States"
+5487,2020,United States
+5488,2015,United States
+5490,2015,Mexico
+5491,2012,Turkey
+5492,2010,"United Kingdom, France, United States"
+5493,2018,United States
+5494,2016,Canada
+5495,2015,"South Korea, China, United States"
+5496,2016,United States
+5497,2017,Guatemala
+5498,2020,United States
+5499,2018,United Kingdom
+5500,2020,India
+5501,2020,South Africa
+5502,2015,Ukraine
+5503,2018,United States
+5504,2008,China
+5505,2011,United States
+5506,2019,United States
+5507,2018,United States
+5508,2020,India
+5509,2013,India
+5510,2019,India
+5513,2017,France
+5514,2018,United States
+5515,2008,United States
+5516,2018,United States
+5517,2017,Philippines
+5518,2019,Spain
+5519,2014,"United States, United Kingdom, Canada, China"
+5520,2010,United States
+5521,2008,United States
+5522,2016,"United Kingdom, France"
+5523,2008,United States
+5524,2020,United Kingdom
+5525,2020,United States
+5526,1999,Mexico
+5527,2019,United States
+5528,2019,Hong Kong
+5529,2019,United States
+5530,2019,France
+5531,2005,India
+5532,2018,"China, Hong Kong"
+5533,2016,Israel
+5534,2011,India
+5535,2011,India
+5536,1986,"Italy, South Africa, West Germany, Australia, United States"
+5537,2002,India
+5538,2019,United States
+5539,2012,India
+5540,2019,China
+5541,2002,India
+5542,2002,Hong Kong
+5543,2011,United States
+5544,2018,United States
+5545,2016,"United Kingdom, Finland, Germany"
+5546,2020,United Kingdom
+5547,2020,United Kingdom
+5548,2008,India
+5549,2020,United States
+5550,2020,"United Kingdom, United States"
+5551,2020,India
+5552,2019,United States
+5553,2006,Egypt
+5554,2020,United States
+5555,2014,Philippines
+5556,2018,United States
+5557,2010,United States
+5558,2013,Philippines
+5559,2019,United States
+5560,2010,United States
+5561,2016,"South Africa, United States, Germany"
+5562,2017,"United Kingdom, United States"
+5563,2009,"United States, Germany, United Kingdom, Australia"
+5564,1991,"India, Soviet Union"
+5565,2020,India
+5566,2017,"Canada, United States"
+5567,2018,United States
+5568,2020,"Brazil, France"
+5569,2018,"United States, United Kingdom"
+5570,1990,India
+5571,2018,India
+5572,2018,United States
+5573,2007,India
+5574,2014,United States
+5575,2016,United States
+5576,2018,Australia
+5577,2017,Australia
+5578,2011,India
+5579,2016,India
+5580,2013,United States
+5581,2016,India
+5582,2009,"United States, United Arab Emirates"
+5583,2017,United States
+5584,2017,United States
+5585,2016,"United Kingdom, United States"
+5587,2013,United States
+5588,2015,Israel
+5589,2017,India
+5590,2017,"India, United States"
+5591,2004,Thailand
+5592,2018,Indonesia
+5593,2019,Indonesia
+5594,2020,Indonesia
+5595,2018,Colombia
+5596,2017,"Italy, France, Switzerland"
+5597,2018,United Kingdom
+5598,2008,United States
+5599,2014,India
+5600,2018,United States
+5601,2014,India
+5602,2016,South Korea
+5603,2020,Poland
+5604,2018,United States
+5605,2014,United States
+5606,2012,"Canada, France, United States"
+5607,2016,United States
+5608,2019,India
+5609,2016,United States
+5610,2012,United States
+5611,2015,Russia
+5612,2016,France
+5613,2019,United Kingdom
+5614,2012,"United States, France"
+5615,2017,Mexico
+5617,2008,"Colombia, Mexico, United States"
+5618,2018,"United States, Colombia"
+5619,2015,United States
+5620,2018,Bangladesh
+5621,2020,United States
+5622,2020,Germany
+5623,2020,Spain
+5624,1960,"India, Malaysia"
+5625,2019,"Singapore, United States"
+5626,2013,India
+5627,2011,India
+5628,2015,Indonesia
+5630,2018,Australia
+5631,2015,China
+5632,2017,"Switzerland, United States"
+5633,2015,"United States, United Kingdom"
+5634,2017,Peru
+5635,2019,Brazil
+5636,2016,United States
+5637,2018,Japan
+5638,2016,United States
+5639,2015,United States
+5640,1998,United States
+5641,2012,Philippines
+5642,2018,Australia
+5643,2020,"Pakistan, United States"
+5644,2020,Saudi Arabia
+5645,2019,Nigeria
+5646,2020,United States
+5647,2014,"Thailand, Canada, United States"
+5648,2016,United States
+5649,2016,United States
+5650,2017,Spain
+5651,2016,"China, Hong Kong, United States"
+5652,2016,United States
+5653,2016,"China, Hong Kong"
+5654,2020,Vietnam
+5655,2014,"United States, France"
+5656,2018,"South Korea, United States"
+5657,2010,United States
+5658,2019,Germany
+5659,2017,Italy
+5660,2019,Canada
+5661,2015,United States
+5663,2019,Thailand
+5664,2019,Thailand
+5665,2020,Thailand
+5666,2004,United States
+5667,1996,United States
+5668,1993,United States
+5669,2018,United States
+5670,2017,Nigeria
+5671,2015,"United Kingdom, New Zealand"
+5672,2017,"Canada, United States"
+5673,1998,United States
+5674,2017,United States
+5675,2008,United States
+5676,2017,United States
+5677,2016,Spain
+5678,2018,Japan
+5679,2015,United States
+5680,2020,United States
+5681,2016,United States
+5682,2000,United States
+5683,2016,"United Kingdom, France, Germany, United States"
+5684,2013,"South Korea, Czech Republic"
+5685,2020,Argentina
+5686,2005,India
+5687,2018,United States
+5688,2020,United States
+5689,2013,Indonesia
+5690,2016,Mexico
+5691,2018,Mexico
+5692,2017,United States
+5693,1984,"India, Soviet Union"
+5694,2020,Japan
+5695,1998,India
+5696,2018,Spain
+5697,1991,Mexico
+5698,2018,United States
+5699,2018,United States
+5700,2009,"Czech Republic, United Kingdom, France"
+5701,2015,Canada
+5702,2017,United States
+5703,2020,United States
+5704,2019,United States
+5705,2020,"Mexico, Spain"
+5706,2015,Taiwan
+5707,2017,Spain
+5708,2018,South Korea
+5709,2003,United States
+5710,2016,India
+5711,2017,United States
+5712,2019,China
+5713,2013,United States
+5714,2015,United States
+5715,2014,"Australia, United Kingdom, Canada"
+5716,2018,Egypt
+5717,2020,United States
+5718,2018,India
+5719,2003,Japan
+5720,2016,United States
+5721,2017,Nigeria
+5722,2018,India
+5723,2008,Egypt
+5724,2016,Thailand
+5725,2008,Japan
+5726,2015,Mexico
+5727,2011,United States
+5728,2019,United States
+5729,2019,United States
+5730,2016,United Kingdom
+5731,2020,United States
+5732,2000,United States
+5733,2020,United States
+5735,2014,United States
+5736,2015,Spain
+5737,2016,South Korea
+5738,1976,United States
+5739,2017,France
+5740,2018,Russia
+5741,2013,United States
+5742,2019,United States
+5743,2013,India
+5744,2016,"Canada, United Kingdom, United States"
+5745,2016,"United States, Hungary"
+5746,2020,Brazil
+5747,2017,United States
+5748,2019,United Kingdom
+5749,2020,United States
+5750,2020,United States
+5751,2017,United States
+5753,2007,United States
+5754,2018,United States
+5755,2020,United States
+5756,2019,United States
+5757,2020,United States
+5758,2020,United States
+5759,2019,United States
+5760,2019,United States
+5762,2018,United Kingdom
+5763,2017,United States
+5764,2018,United States
+5765,2009,United States
+5766,2019,United States
+5767,2004,United States
+5768,2015,"United Kingdom, France"
+5769,2015,United States
+5770,2012,"United States, France"
+5771,2018,United States
+5772,2018,"Jamaica, United States"
+5773,2001,United States
+5774,2002,United States
+5775,2003,United States
+5776,2011,United States
+5777,2018,"United States, Canada"
+5778,2015,Spain
+5779,2017,India
+5780,2018,United States
+5781,2019,United States
+5782,2018,United States
+5783,2015,Canada
+5784,2015,"Canada, United States, United Kingdom"
+5785,1968,United States
+5786,1999,United States
+5787,2004,United States
+5788,1993,United States
+5789,2000,United States
+5790,2017,United States
+5791,2014,United States
+5792,2020,United States
+5793,2020,Canada
+5794,2007,"United Kingdom, United States"
+5795,2006,"United States, Canada"
+5796,2013,United Kingdom
+5797,2018,United States
+5798,2004,United States
+5799,2020,South Korea
+5800,2014,Philippines
+5801,2020,Australia
+5802,2015,Switzerland
+5803,2018,United States
+5804,2019,Japan
+5805,2006,United States
+5806,2006,United States
+5808,2018,South Korea
+5809,2008,United States
+5810,2018,Egypt
+5811,2018,United States
+5812,2017,United States
+5813,2014,Germany
+5814,2015,"United Kingdom, United States"
+5815,2018,United States
+5816,2010,India
+5817,2010,Thailand
+5818,2018,United Kingdom
+5819,2019,United States
+5820,2015,United States
+5821,2010,"United States, Canada"
+5822,2020,Spain
+5823,2017,South Korea
+5824,2014,United States
+5825,2014,"Australia, United Kingdom, United States, New Zealand, Italy, France"
+5826,2015,United States
+5827,2015,India
+5828,2017,India
+5829,2016,United States
+5830,2020,United States
+5831,2019,Canada
+5832,1987,United States
+5833,2016,United States
+5834,2020,South Korea
+5835,2006,"United States, United Kingdom"
+5836,2019,United States
+5837,2019,South Korea
+5838,2015,"France, United States, Canada"
+5839,2010,Lebanon
+5840,2018,India
+5841,2019,France
+5842,2019,United States
+5844,2018,United States
+5845,2018,United States
+5846,1992,"Australia, United Kingdom"
+5847,2016,"Netherlands, Belgium"
+5848,1981,United States
+5849,1996,United States
+5850,2016,United States
+5851,2017,South Korea
+5852,2017,"United States, Denmark"
+5853,2016,Brazil
+5854,2017,South Korea
+5856,2018,"Poland, United States"
+5857,1999,"Germany, United States"
+5858,2002,United States
+5859,2021,Turkey
+5860,2018,United States
+5861,2019,Turkey
+5862,2018,United Kingdom
+5863,2019,United States
+5865,2019,United States
+5866,2015,"Italy, France"
+5867,2020,Italy
+5868,2011,Thailand
+5869,2018,India
+5870,2013,Singapore
+5871,2015,"United Kingdom, France"
+5872,2020,United States
+5873,2020,United States
+5874,2020,United States
+5875,2014,Israel
+5876,2014,"United Kingdom, France, Canada, Belgium, United States"
+5877,2018,South Korea
+5878,2019,United States
+5879,2015,"Denmark, United Kingdom, Sweden"
+5880,2020,Italy
+5881,2017,"Mexico, United States"
+5882,2017,Spain
+5883,2020,United Kingdom
+5884,2018,"India, United States"
+5885,2016,Belarus
+5886,2014,"India, France"
+5887,2019,India
+5888,2018,India
+5889,2017,United States
+5890,2019,India
+5891,2018,Brazil
+5894,2019,Canada
+5897,2019,United States
+5898,2019,United States
+5900,2020,Canada
+5902,2020,Canada
+5903,2019,United States
+5904,2014,India
+5905,2020,"United States, South Korea, China"
+5906,2007,United States
+5907,1972,United States
+5908,2019,United States
+5909,2018,Spain
+5910,2006,United States
+5911,1993,United States
+5912,2019,"United States, Canada"
+5913,2016,United Kingdom
+5914,1999,United States
+5915,2019,India
+5916,2002,India
+5917,2016,Indonesia
+5918,2007,United States
+5919,2015,Indonesia
+5920,2017,Indonesia
+5921,2021,United States
+5923,2019,United States
+5924,2020,United States
+5925,2019,United States
+5926,2014,United States
+5927,2017,United States
+5928,2017,United States
+5929,2016,United States
+5930,2018,Indonesia
+5931,2019,South Korea
+5932,2004,India
+5933,1977,India
+5935,2014,Canada
+5936,2014,Canada
+5937,2007,"United States, United Kingdom"
+5938,2020,United States
+5939,2017,"United States, Canada"
+5940,2019,United States
+5941,2018,United States
+5942,2016,"United States, Sweden"
+5943,2018,Japan
+5944,2018,Japan
+5945,2018,Japan
+5946,2016,"China, Hong Kong"
+5947,1980,Hong Kong
+5948,2001,United States
+5949,2018,Japan
+5950,2018,Nigeria
+5951,2010,United States
+5952,2020,Germany
+5953,1999,India
+5954,2007,India
+5955,2017,Belgium
+5956,2020,United States
+5957,2008,India
+5958,2020,India
+5959,2017,United States
+5960,2011,"United States, Germany"
+5961,2018,China
+5962,2017,United States
+5963,2018,Spain
+5964,2018,United States
+5965,2018,"France, United States"
+5966,2010,United States
+5967,2014,Saudi Arabia
+5968,2012,India
+5969,2009,Malaysia
+5970,2018,Australia
+5971,2018,United States
+5972,2019,United States
+5973,1993,"United Kingdom, United States"
+5974,2017,Cyprus
+5975,2019,United States
+5976,2016,United States
+5977,2014,India
+5978,2015,India
+5980,2018,Lebanon
+5981,1993,"Argentina, Spain"
+5982,2011,India
+5983,2017,India
+5984,2006,Egypt
+5985,2018,Indonesia
+5986,2015,France
+5987,2020,Indonesia
+5988,1999,United States
+5989,2005,United States
+5990,2013,Egypt
+5991,2017,Nigeria
+5992,2018,United States
+5993,2012,"Lebanon, United States, United Arab Emirates"
+5994,1976,United States
+5995,2018,Egypt
+5997,2020,United States
+5998,2014,South Korea
+5999,2016,United States
+6000,2016,India
+6001,2017,United States
+6002,2016,United States
+6003,2020,United States
+6004,2003,United States
+6005,2019,Japan
+6006,2019,Thailand
+6007,2018,Pakistan
+6008,2018,India
+6009,2011,United States
+6010,2010,India
+6011,2020,United States
+6012,2016,United States
+6013,2007,"Hong Kong, United States"
+6014,1991,"United States, Hong Kong"
+6016,2010,India
+6017,2019,United Kingdom
+6018,2016,"United States, Kazakhstan"
+6019,2017,"Japan, United States"
+6020,2017,"Argentina, France, United States, Germany, Qatar"
+6021,2015,Hong Kong
+6022,2012,India
+6023,2010,Mexico
+6024,2016,United States
+6025,2003,"United States, Germany, United Kingdom"
+6026,2009,"United States, Germany, United Kingdom, Italy"
+6027,2015,France
+6028,2017,"United States, Japan"
+6029,2016,Japan
+6030,2018,Japan
+6031,2019,Japan
+6032,2017,United States
+6033,2018,"United States, Czech Republic"
+6034,2016,India
+6035,2012,"United Kingdom, India"
+6036,2015,India
+6037,2012,India
+6038,2019,India
+6039,2019,India
+6041,2019,India
+6042,2011,India
+6043,2005,United States
+6044,2015,Philippines
+6045,2013,South Korea
+6047,2020,"United States, Canada"
+6048,2016,Sweden
+6049,2018,Norway
+6050,2018,United States
+6051,2016,United States
+6052,2020,United States
+6053,2018,Indonesia
+6054,2019,Indonesia
+6056,2007,"United States, United Kingdom"
+6057,2016,"Mexico, Spain"
+6058,2019,Taiwan
+6059,2018,United Kingdom
+6060,2017,Nigeria
+6061,2018,Canada
+6062,2015,United States
+6064,2016,Canada
+6065,2015,Australia
+6066,2018,United States
+6067,2005,United States
+6068,1993,"United States, Canada"
+6069,2011,"United States, New Zealand, United Kingdom"
+6070,2007,Argentina
+6071,2016,France
+6072,2018,United States
+6073,2016,South Korea
+6074,2019,Spain
+6075,2014,Philippines
+6076,2020,United States
+6077,2013,United States
+6079,2018,United States
+6080,1995,United States
+6081,2005,United States
+6082,1967,United States
+6083,2018,"Israel, United States"
+6084,2019,"Finland, United States"
+6085,2019,United States
+6086,2010,Egypt
+6087,2014,Singapore
+6088,2015,"Spain, France, Uruguay"
+6089,2019,Italy
+6090,2020,United States
+6091,2016,Nigeria
+6092,2017,Poland
+6093,2013,"Canada, United States"
+6094,2000,"United States, Canada"
+6095,2011,"France, Belgium, United States"
+6096,2018,United States
+6097,2016,"France, Canada, United States"
+6098,2016,"United Kingdom, United States"
+6099,2018,Switzerland
+6100,2016,United States
+6101,2020,United States
+6102,2017,United States
+6103,2020,United States
+6105,2010,United States
+6106,2017,United States
+6107,2016,United States
+6108,2015,United Kingdom
+6109,2016,United States
+6110,2018,United States
+6111,2017,United States
+6112,2017,"Spain, Argentina"
+6113,1993,Hong Kong
+6114,2020,Spain
+6115,2018,United States
+6116,2014,United States
+6117,1942,United States
+6118,2004,Egypt
+6119,2020,Italy
+6120,2008,Hong Kong
+6123,2020,Brazil
+6124,2016,Brazil
+6126,2011,United Kingdom
+6127,2015,United Kingdom
+6128,2018,United Kingdom
+6129,2020,United Kingdom
+6130,2020,United States
+6131,2018,United States
+6132,2020,Italy
+6135,2017,China
+6136,2019,United States
+6137,2017,"United Kingdom, India, United States"
+6138,2016,United States
+6139,2015,"Canada, United States"
+6140,2019,United States
+6141,1954,Egypt
+6142,2016,United States
+6143,2018,"Australia, United States"
+6144,2016,"Chile, France"
+6145,2019,Nigeria
+6146,2013,"United States, United Kingdom, France, Germany, Japan"
+6147,2019,Egypt
+6148,2001,United Kingdom
+6149,2005,India
+6150,2019,India
+6151,2019,"Canada, Norway"
+6152,2016,United States
+6153,2011,United Kingdom
+6154,2019,France
+6155,2010,United States
+6156,2020,Saudi Arabia
+6157,2013,"United States, Hungary, Ireland, Canada"
+6158,2020,United States
+6159,2020,United States
+6160,2015,France
+6161,2019,United States
+6162,2010,United States
+6163,2009,United States
+6164,2016,"United States, Canada, China"
+6165,2008,"United Kingdom, United States"
+6166,2010,"United States, Canada"
+6167,2019,"United Kingdom, Malawi"
+6168,2020,United States
+6169,2020,United States
+6170,2019,United States
+6171,2007,United States
+6172,2019,United States
+6173,2017,"Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India"
+6174,2018,Belgium
+6175,2018,United States
+6176,2006,United States
+6177,2018,New Zealand
+6178,2015,Philippines
+6179,2017,South Korea
+6180,2017,Nigeria
+6181,2020,Taiwan
+6182,2017,South Korea
+6183,2005,"United States, Czech Republic, United Kingdom"
+6184,2007,United States
+6186,1983,Hong Kong
+6187,2018,"Ghana, United States"
+6188,2020,United States
+6189,2013,Turkey
+6190,2017,"United States, China"
+6191,2019,United States
+6192,2016,United States
+6193,2020,United States
+6194,2017,"Israel, Germany"
+6195,2020,South Korea
+6196,2018,India
+6197,2014,Canada
+6198,1977,United States
+6199,2019,United States
+6200,2017,United States
+6201,2017,United States
+6202,2019,New Zealand
+6203,2014,"Canada, United Kingdom, United States"
+6204,2017,Egypt
+6205,2016,Nigeria
+6206,2018,France
+6207,2006,United States
+6209,2016,United States
+6210,2015,United States
+6211,2020,United States
+6212,2017,Australia
+6213,2010,Egypt
+6214,2016,"Spain, Mexico"
+6215,2019,Brazil
+6216,2015,"Mexico, France"
+6217,2013,"United Kingdom, United States"
+6218,2018,United States
+6219,2020,Canada
+6220,2016,United States
+6221,1965,United States
+6222,2020,"United States, United Kingdom"
+6223,2020,"Brazil, United Kingdom"
+6225,2017,United States
+6226,2020,United States
+6227,2017,France
+6228,2018,United States
+6229,2019,Mexico
+6230,2011,United Kingdom
+6231,2019,"Poland, United States"
+6232,2018,United States
+6233,2018,"France, Belgium, Luxembourg, Romania, Canada, United States"
+6234,2010,United States
+6235,2018,United States
+6236,2018,"United States, United Kingdom"
+6237,2019,United States
+6238,2019,United States
+6239,2016,Canada
+6241,2013,"Israel, Germany, Poland, Luxembourg, Belgium, France, United States"
+6242,2013,United States
+6243,2011,Egypt
+6244,2018,Japan
+6245,1996,United States
+6246,2016,South Korea
+6247,2019,United States
+6248,2020,India
+6249,2015,France
+6250,2015,Poland
+6251,2020,Argentina
+6252,2013,United States
+6253,1994,United States
+6254,2020,"United Kingdom, United States"
+6255,1970,Poland
+6256,1992,"United Kingdom, Japan, United States"
+6257,2019,United States
+6258,2015,"France, Germany"
+6259,2018,United States
+6260,2016,United States
+6261,2015,"United Kingdom, United States"
+6262,2006,"United States, Malta, France, United Kingdom"
+6263,2009,India
+6264,2011,Indonesia
+6265,2015,"United Kingdom, United States, Germany, Denmark, Belgium, Japan"
+6266,1982,"United States, United Kingdom"
+6267,2019,"United Kingdom, United States"
+6268,2018,India
+6269,2016,United Kingdom
+6270,2016,United States
+6271,2015,Australia
+6272,2017,"Austria, United States"
+6273,2017,United States
+6274,2015,"Canada, Australia"
+6275,2020,"Mexico, Spain"
+6276,2016,Denmark
+6277,2010,Egypt
+6278,2017,"Greece, United States"
+6279,2005,Romania
+6280,2017,"United Kingdom, France, Belgium, Canada, United States"
+6281,2018,"United Kingdom, United States"
+6282,2020,United States
+6283,2020,Canada
+6284,2019,"Canada, Australia"
+6285,2019,"China, Hong Kong"
+6287,2018,Nigeria
+6288,2006,"United States, Hong Kong"
+6289,2017,"Argentina, Chile"
+6290,2017,United States
+6291,2020,United States
+6292,2017,"Italy, United States"
+6293,2012,United States
+6294,2013,Japan
+6295,2019,United States
+6296,2020,Taiwan
+6297,2018,United States
+6298,2016,"Czech Republic, Slovakia"
+6299,2015,United States
+6300,2019,United States
+6302,2017,United States
+6303,2018,Japan
+6304,2019,Japan
+6305,2017,United States
+6306,2016,"Argentina, Spain"
+6307,2016,United States
+6308,2016,Indonesia
+6309,2017,Indonesia
+6310,2019,"United States, Canada"
+6311,2009,Singapore
+6312,2016,Singapore
+6313,2009,Indonesia
+6314,2016,"United States, Hong Kong"
+6315,2018,South Korea
+6316,2011,Canada
+6317,2020,United Kingdom
+6318,2016,United States
+6319,2005,United States
+6320,2007,United States
+6322,2020,"United Kingdom, Germany, United States, France"
+6323,2019,Brazil
+6324,2016,"United States, China"
+6325,2015,"United Kingdom, Lithuania"
+6326,2016,United States
+6327,1994,"Egypt, France"
+6328,2019,Kuwait
+6329,1997,Japan
+6330,2019,United Kingdom
+6331,2015,United States
+6332,2017,United States
+6333,2019,"Spain, France, Canada"
+6334,2020,United Kingdom
+6335,2019,United States
+6336,2020,United States
+6337,1981,United States
+6338,2016,"United Kingdom, United States"
+6339,2020,United States
+6340,2016,United States
+6341,2019,United States
+6342,2013,"France, United Kingdom, United States"
+6344,2012,United Kingdom
+6345,2015,United Kingdom
+6346,2018,United States
+6347,2010,Taiwan
+6348,2010,United States
+6349,2009,Nigeria
+6350,2009,United States
+6351,2018,United States
+6353,2014,"United States, Greece, United Kingdom"
+6354,2019,Brazil
+6355,1996,United States
+6356,2016,United Kingdom
+6357,1978,Hong Kong
+6358,2018,United States
+6359,2019,United States
+6360,1994,United States
+6361,2000,United States
+6362,2017,United States
+6363,1975,Hong Kong
+6364,2008,"United States, China"
+6365,2017,United States
+6366,2017,"United Kingdom, China, United States, India"
+6367,2016,United States
+6368,2019,Japan
+6369,2020,Japan
+6370,2014,United Kingdom
+6371,2020,United States
+6372,2017,United States
+6373,2016,"United States, Greece"
+6374,2017,United Kingdom
+6375,2016,New Zealand
+6376,2017,France
+6377,2013,United States
+6378,2016,United States
+6379,2015,"United Kingdom, United States"
+6380,2016,Spain
+6381,2007,Norway
+6382,2008,United States
+6383,2018,United States
+6384,2013,Japan
+6385,2018,"France, United States"
+6386,2003,Indonesia
+6387,2018,United States
+6388,2017,United States
+6389,2018,Nigeria
+6390,2020,"Taiwan, Malaysia"
+6391,2019,United States
+6392,2017,Spain
+6393,2020,Turkey
+6394,2018,Philippines
+6395,2016,Spain
+6396,2011,"United States, Sweden, Norway"
+6398,2016,India
+6399,2018,Israel
+6400,2018,Colombia
+6401,2017,United States
+6402,2018,United States
+6403,2020,South Korea
+6404,2016,United States
+6405,2020,United States
+6406,2009,United States
+6407,2020,United States
+6408,2014,"United Kingdom, United States, Morocco"
+6409,2015,"United States, United Kingdom, Morocco"
+6412,2016,Nigeria
+6413,2013,"Hong Kong, China"
+6414,2018,South Korea
+6415,2020,United Kingdom
+6417,2018,United Kingdom
+6419,1979,India
+6420,2019,United States
+6421,2020,Colombia
+6422,2011,"Hong Kong, China"
+6423,2005,"United States, Australia"
+6424,2013,United Kingdom
+6425,2011,United States
+6426,2013,"United States, Spain"
+6427,2016,China
+6428,2018,"United Kingdom, France, United States"
+6429,2018,South Korea
+6430,2013,United States
+6431,2020,United States
+6432,2018,"United States, China, Canada"
+6433,2019,United States
+6434,2015,United States
+6436,2020,Poland
+6437,2017,United States
+6438,2013,United States
+6439,2020,United States
+6440,2018,United States
+6441,2008,United States
+6442,2017,"Spain, Canada, United States"
+6444,2020,Indonesia
+6445,2007,United States
+6446,2018,Canada
+6447,2011,United States
+6448,2017,Canada
+6449,2015,Spain
+6450,2017,United States
+6451,2019,United States
+6452,2012,United States
+6453,2019,Spain
+6454,2018,United States
+6455,2020,United States
+6456,2020,Canada
+6457,2016,United States
+6458,2017,United States
+6459,2005,Thailand
+6461,2018,United States
+6462,2020,France
+6463,2017,India
+6464,2020,Mexico
+6466,2016,United States
+6467,2015,India
+6468,2018,Philippines
+6469,2013,India
+6470,2017,Canada
+6471,2018,"Canada, Belgium"
+6472,2014,"United States, India, United Arab Emirates"
+6473,2015,United Kingdom
+6474,2018,"United Kingdom, United States"
+6475,2016,United States
+6476,2019,United States
+6477,2021,Spain
+6478,2020,United States
+6479,2009,"United Kingdom, Canada, France, United States"
+6480,2012,"Spain, Thailand, United States"
+6481,2011,Singapore
+6482,2020,Australia
+6483,2010,United Kingdom
+6484,2014,Mexico
+6485,2017,United States
+6486,2018,Denmark
+6487,2018,United States
+6488,2017,"Canada, Germany, South Africa"
+6489,1995,United States
+6490,2019,"Spain, France"
+6491,2009,United States
+6492,2018,Mexico
+6493,2020,United States
+6494,2018,United States
+6495,2018,United Kingdom
+6496,2016,United Kingdom
+6497,2018,United Kingdom
+6498,2009,Egypt
+6499,1998,Australia
+6500,2011,France
+6501,2009,United States
+6502,2018,United Kingdom
+6503,2017,"Spain, Germany"
+6504,2016,Spain
+6505,2015,United States
+6507,2019,United States
+6508,2019,United States
+6509,2011,"United Kingdom, France"
+6510,2014,Japan
+6511,2018,Nigeria
+6512,2013,United Kingdom
+6513,2016,Austria
+6514,2015,France
+6515,2010,United States
+6516,2007,United States
+6517,2018,United States
+6518,2016,United States
+6519,2018,Thailand
+6520,2010,"India, Germany, France"
+6521,2013,Indonesia
+6522,2016,South Korea
+6523,2010,"United States, China"
+6524,2017,United States
+6525,2017,United States
+6526,2017,Brazil
+6527,2017,"Ireland, United Kingdom"
+6528,2018,"United States, Israel, United Kingdom, Canada"
+6530,2019,"United Kingdom, Hungary, Australia"
+6531,2020,South Korea
+6532,2019,China
+6533,2010,"United Kingdom, United States, Australia"
+6534,2017,Argentina
+6535,2018,"United Kingdom, United States"
+6536,2020,"United Kingdom, United States"
+6537,2003,"Lebanon, France"
+6538,2019,United States
+6539,2019,United States
+6540,2009,"Canada, United States"
+6541,2017,South Korea
+6542,2006,United States
+6543,2017,United States
+6544,1970,Egypt
+6545,2012,India
+6546,2018,Egypt
+6547,2018,United States
+6548,2016,"Belgium, Ireland, Netherlands, Germany, Afghanistan"
+6549,2020,South Korea
+6550,2010,United States
+6551,2019,India
+6552,1991,United States
+6553,2019,United States
+6554,2020,United States
+6555,2020,United States
+6556,1992,Australia
+6557,2010,"France, United States"
+6558,2016,United States
+6559,2018,Brazil
+6560,2017,"Chile, Peru"
+6561,2020,United States
+6562,2020,United Kingdom
+6563,2019,United States
+6564,2014,United Kingdom
+6565,2019,United States
+6566,2017,Egypt
+6567,2018,United States
+6568,2018,"Paraguay, Argentina"
+6569,2016,"United Kingdom, Italy, Israel, Peru, United States"
+6570,2019,United States
+6571,2020,United States
+6572,2019,United States
+6573,2020,Germany
+6574,2016,United States
+6575,2019,United States
+6576,2018,Spain
+6578,2018,United States
+6579,2019,"Spain, Germany"
+6580,2017,United States
+6581,2002,India
+6582,2008,China
+6583,2019,United States
+6584,2014,United States
+6585,2016,India
+6586,2019,China
+6587,2019,Australia
+6588,2020,United Kingdom
+6589,2019,South Africa
+6591,2017,South Korea
+6592,2020,United States
+6593,2019,South Korea
+6594,2020,Italy
+6595,2020,India
+6597,2016,"Spain, Argentina"
+6598,2016,"Norway, Germany"
+6599,2017,"Canada, United States"
+6600,2018,United States
+6602,2015,"France, Canada, Italy, United States, China"
+6603,2019,Spain
+6604,2017,"Netherlands, Germany, Denmark, United Kingdom"
+6605,1982,"France, Lebanon"
+6606,2006,Germany
+6607,2015,United States
+6608,2015,"Ireland, United Kingdom, Greece, France, Netherlands"
+6609,2017,Ireland
+6611,2018,United States
+6612,2019,United States
+6613,1974,United States
+6614,2008,United States
+6615,2014,"Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands"
+6616,2003,"New Zealand, United States"
+6617,2002,"New Zealand, United States"
+6618,2017,"Argentina, Uruguay, Spain, France"
+6619,2020,United States
+6620,2019,Nigeria
+6621,2015,Philippines
+6622,2008,"United Kingdom, Germany, United States"
+6623,2020,United States
+6624,2017,United States
+6625,2016,United Kingdom
+6626,1982,Poland
+6627,1993,Hong Kong
+6628,2017,"United States, Australia, South Africa, United Kingdom"
+6629,1997,"Canada, United States"
+6630,2018,United States
+6631,2020,Canada
+6632,2020,United States
+6633,2020,Canada
+6634,2020,"United States, Canada"
+6635,2020,United States
+6636,2012,"United Kingdom, United States, Spain, Germany, Greece, Canada"
+6637,2018,India
+6638,2009,United States
+6639,2019,"Italy, Belgium"
+6640,2017,"France, Belgium"
+6641,2017,Japan
+6642,1981,Egypt
+6643,2017,United States
+6644,1998,"United States, Germany, Mexico"
+6645,2015,United States
+6646,2012,United States
+6647,2020,Italy
+6648,1999,United States
+6649,2003,United States
+6650,2003,United States
+6651,2017,Spain
+6652,2018,United States
+6653,2017,South Korea
+6654,2013,United Kingdom
+6655,2019,Brazil
+6656,2015,"Chile, Spain, Argentina, Germany"
+6657,1944,United States
+6658,2009,"United States, United Kingdom"
+6659,2020,Spain
+6660,2015,United States
+6661,2015,Russia
+6662,2017,United States
+6663,2013,Hong Kong
+6664,2020,United States
+6665,2020,United States
+6666,2017,"Germany, Italy"
+6667,2019,Nigeria
+6668,2016,United States
+6669,2019,United States
+6670,2021,United States
+6671,2012,France
+6672,2020,Spain
+6673,2017,Spain
+6674,2016,South Korea
+6675,2018,Poland
+6676,2011,"United Kingdom, Nigeria"
+6678,2017,"Canada, United States"
+6679,2012,Philippines
+6680,2017,United Kingdom
+6681,2016,Denmark
+6682,2016,"United States, Canada"
+6683,2015,New Zealand
+6684,2018,United States
+6685,2018,"Belgium, United Kingdom, United States"
+6686,2017,Sweden
+6687,2017,United States
+6688,2018,United States
+6689,2017,"Spain, Mexico"
+6690,2019,United States
+6691,2017,United States
+6692,2011,United States
+6693,2015,United Kingdom
+6694,2017,Italy
+6695,2019,Japan
+6697,1988,United States
+6698,1984,United States
+6699,1944,United States
+6700,2019,Spain
+6701,2021,United States
+6702,2020,United States
+6703,2020,"Australia, New Zealand"
+6704,2018,Canada
+6705,1994,United States
+6706,2016,"Spain, Switzerland"
+6707,2018,Canada
+6708,2020,United States
+6709,2018,"Indonesia, United States"
+6710,2017,United States
+6711,2017,United States
+6712,2016,Germany
+6713,2014,"Canada, South Korea, United States"
+6714,2018,United States
+6715,2019,United States
+6716,2011,Singapore
+6717,2020,Spain
+6718,2012,United States
+6719,2020,United States
+6720,2007,Mexico
+6721,2018,France
+6722,2014,United States
+6723,2008,Philippines
+6724,2018,"Canada, United States"
+6725,2020,United States
+6726,2000,United States
+6727,2018,United States
+6728,1999,"France, Egypt"
+6729,2010,United States
+6730,2015,United States
+6731,2018,"France, Iran, United States"
+6732,2017,"Turkey, United States"
+6733,2017,United States
+6734,2020,"United States, Bulgaria"
+6735,2019,United States
+6736,2004,Taiwan
+6737,2018,United States
+6738,2019,Philippines
+6739,2018,Croatia
+6740,2020,Spain
+6741,2003,United States
+6742,2001,United Kingdom
+6743,2016,United Kingdom
+6744,1997,United States
+6745,1993,United States
+6746,2019,United States
+6748,2014,Mexico
+6750,2019,Ghana
+6751,2019,United States
+6752,2012,United States
+6753,2004,"United Kingdom, United States"
+6754,2020,United States
+6755,2018,Spain
+6756,2013,Germany
+6757,2006,"United States, Czech Republic"
+6758,2014,United States
+6759,2017,"Somalia, Kenya, Sudan, South Africa, United States"
+6760,2012,"United Kingdom, United States"
+6761,2007,United States
+6762,2012,United States
+6763,2018,Poland
+6764,2015,India
+6765,2020,United Arab Emirates
+6766,2020,United States
+6767,2012,Egypt
+6768,2020,Italy
+6769,2004,United States
+6770,2020,United States
+6771,2018,United States
+6772,2017,"Canada, United States"
+6773,2004,South Korea
+6774,2017,France
+6775,2014,"United States, United Kingdom"
+6776,2004,"United States, Czech Republic"
+6777,2019,China
+6778,2005,Taiwan
+6779,2009,United States
+6780,2018,United States
+6781,2020,United States
+6782,2016,China
+6783,2017,South Korea
+6784,2019,"Ireland, France, Iceland, United States, Mexico, Belgium, United Kingdom, Hong Kong"
+6785,2020,United States
+6786,2016,"Spain, United States"
+6787,2019,Japan
+6788,2020,Turkey
+6789,2019,United States
+6790,2006,United States
+6791,2018,United States
+6792,2009,Canada
+6793,1968,United States
+6794,2020,Colombia
+6795,2018,Colombia
+6796,2020,United States
+6797,2018,United States
+6798,2020,"Denmark, United States"
+6799,2008,Indonesia
+6800,1997,"United States, Germany"
+6801,2020,United States
+6802,2016,United States
+6803,2010,India
+6804,2006,United Kingdom
+6805,2015,"United States, Canada, Japan, Panama"
+6806,2016,United States
+6807,2016,Spain
+6808,2019,Canada
+6809,2017,United States
+6810,2016,New Zealand
+6811,2019,United States
+6812,2019,United States
+6813,2018,United Kingdom
+6815,2017,South Korea
+6816,2018,Netherlands
+6817,2015,France
+6818,2016,"United Kingdom, Spain, Belgium"
+6819,2015,United States
+6820,2016,"Serbia, South Korea, Slovenia"
+6821,2011,Egypt
+6822,2002,United States
+6823,2014,United Kingdom
+6824,2020,United Kingdom
+6825,2018,China
+6826,2018,"United Kingdom, Canada"
+6827,2016,United States
+6828,1994,United States
+6829,2017,Russia
+6830,2019,United States
+6831,2019,Colombia
+6832,2016,United Kingdom
+6833,2011,United States
+6834,2020,Taiwan
+6835,2014,"Australia, United States"
+6836,2014,India
+6837,2017,Nigeria
+6838,2017,United Kingdom
+6839,1998,United States
+6840,2011,"United States, United Kingdom"
+6841,2010,United States
+6842,2015,United States
+6843,2017,United Kingdom
+6844,2019,"Italy, France"
+6845,1989,United States
+6846,2017,United States
+6847,2014,"Denmark, United Kingdom, South Africa, Sweden, Belgium"
+6848,2012,Australia
+6849,2020,South Korea
+6850,1973,Egypt
+6851,2001,"Germany, Canada, United States"
+6852,2015,United States
+6853,2020,Mexico
+6854,2016,United States
+6856,2019,"United States, France, Japan"
+6857,2019,Nigeria
+6858,2019,Japan
+6859,2018,Japan
+6860,2014,United States
+6861,2015,United States
+6862,2018,"United States, New Zealand"
+6863,2014,India
+6864,2013,United States
+6865,2017,United States
+6866,2019,"United Kingdom, United States"
+6867,2016,"Ireland, South Africa"
+6868,1955,Italy
+6869,2014,United States
+6870,2019,"Canada, Germany"
+6871,2019,"Spain, France, Canada, United States"
+6872,2019,Spain
+6873,2020,Spain
+6874,2015,Mexico
+6875,2013,Indonesia
+6876,2018,United States
+6877,2018,Spain
+6878,2019,"India, United Kingdom, Canada, United States"
+6879,2020,United States
+6880,2011,"United States, Belgium, Canada"
+6881,2013,"United States, France, Canada, Belgium"
+6882,2017,Ukraine
+6883,2020,United States
+6884,2010,United States
+6885,2019,United States
+6886,2019,Argentina
+6887,2016,South Korea
+6888,2018,South Korea
+6889,2016,United States
+6890,2013,United States
+6891,2020,United States
+6892,2008,United States
+6893,1978,Poland
+6894,2019,United States
+6895,2019,France
+6896,2010,United States
+6897,2019,United Kingdom
+6898,2013,"United Kingdom, Egypt, United States"
+6899,2005,United States
+6900,2018,France
+6901,2020,United States
+6902,2018,United States
+6903,2015,United States
+6904,2016,"United Kingdom, Germany, United Arab Emirates, New Zealand"
+6905,2017,United States
+6906,2017,United States
+6907,2019,Thailand
+6908,2020,United Kingdom
+6909,2017,United States
+6910,2004,Egypt
+6911,2018,Egypt
+6912,2015,United Kingdom
+6913,2017,United States
+6914,1989,"United States, Canada"
+6915,2016,Philippines
+6916,2020,United States
+6917,2018,United States
+6918,2016,"United Kingdom, France, United States, Belgium, Luxembourg, China, Germany"
+6919,2009,"United States, United Kingdom"
+6920,1999,United States
+6921,2016,Argentina
+6923,1974,United States
+6924,2014,"United Kingdom, Japan, United States"
+6925,2013,Egypt
+6926,2016,Philippines
+6927,2020,Mexico
+6928,2016,United States
+6929,2017,United Kingdom
+6930,2002,"United States, United Arab Emirates"
+6931,2009,United States
+6932,2018,"United Kingdom, Spain, United States, Germany"
+6933,2010,"United States, France, Italy, United Kingdom"
+6934,2019,United States
+6935,2018,Georgia
+6936,2016,United States
+6937,2017,United States
+6938,2018,Spain
+6939,2019,Italy
+6940,2020,"United States, United Kingdom, India"
+6941,2020,United States
+6942,2018,Spain
+6943,2017,United States
+6944,1996,United States
+6945,2016,United Kingdom
+6946,2015,United States
+6948,2016,United Kingdom
+6949,2016,Singapore
+6950,2010,"Ireland, Canada, United States, United Kingdom"
+6951,2002,United States
+6952,2019,Belgium
+6953,1963,United States
+6954,2004,"Hong Kong, China"
+6955,2019,"United Kingdom, Italy"
+6956,2009,United States
+6957,2009,Singapore
+6958,2020,"United States, Canada"
+6959,2011,Thailand
+6960,2020,South Korea
+6961,2020,Thailand
+6963,2019,United States
+6964,2009,United States
+6966,2016,"Belgium, France"
+6967,2013,United States
+6968,2019,Australia
+6969,2016,Philippines
+6971,2019,China
+6972,2017,United States
+6973,2020,Iceland
+6974,2017,United States
+6975,2020,United States
+6976,2015,United States
+6977,2017,United States
+6979,2020,Taiwan
+6980,2017,United States
+6981,2016,India
+6983,2018,United States
+6984,2015,Egypt
+6985,2019,China
+6986,2007,United States
+6987,2018,Spain
+6988,2014,"Australia, United States"
+6989,2007,"New Zealand, United Kingdom, Australia"
+6990,1998,United States
+6991,2006,Philippines
+6992,2016,Nigeria
+6993,2017,Nigeria
+6995,2018,United States
+6996,2005,United States
+6997,2016,United Kingdom
+6998,2018,United States
+6999,2015,Australia
+7000,2020,"Canada, United States, United Kingdom"
+7001,2020,United Kingdom
+7002,2017,India
+7003,2015,"United Kingdom, Canada, United States"
+7004,2018,United States
+7005,2018,South Korea
+7006,2019,"United States, Poland"
+7008,1976,Egypt
+7009,2019,France
+7010,2010,China
+7011,2016,United Kingdom
+7012,2016,Israel
+7013,2020,"Poland, United States"
+7014,2017,France
+7015,1999,"United Kingdom, United States"
+7016,2018,France
+7017,2019,United States
+7018,2019,United Kingdom
+7019,2018,United Kingdom
+7020,2020,"United Kingdom, Germany"
+7021,2016,"United Arab Emirates, Romania"
+7022,2019,Lebanon
+7023,2017,Canada
+7024,2020,United States
+7025,2019,Turkey
+7026,2009,Taiwan
+7027,2016,United States
+7028,2016,Ireland
+7029,1985,Hong Kong
+7030,2019,India
+7031,2016,Canada
+7032,2017,India
+7033,2013,India
+7034,1988,United States
+7035,2019,United States
+7036,2016,United States
+7037,2016,United States
+7038,2007,United States
+7039,2019,Canada
+7040,2016,"France, Belgium"
+7041,2018,United Kingdom
+7042,2018,United States
+7043,2017,Spain
+7044,2020,Brazil
+7045,2019,Belgium
+7046,2014,Thailand
+7047,2019,Indonesia
+7048,2017,Egypt
+7049,2015,South Korea
+7050,2017,China
+7051,2015,Belgium
+7052,2015,"India, United States"
+7056,2020,United Kingdom
+7057,2017,Thailand
+7058,2017,United States
+7059,2011,"United States, Canada"
+7060,2010,United Kingdom
+7061,2010,"United Kingdom, Australia, Canada, United States"
+7062,2019,India
+7063,2016,"Hong Kong, China"
+7064,2019,Spain
+7065,2018,United Kingdom
+7066,2018,Philippines
+7068,2018,United States
+7069,2019,"Canada, United States"
+7070,2017,India
+7071,2017,United States
+7072,1947,United States
+7073,2018,Australia
+7074,2019,United States
+7075,2017,Spain
+7076,2017,China
+7077,2019,United States
+7078,2019,United States
+7079,2017,United States
+7080,2015,United States
+7081,2018,United States
+7082,2016,India
+7083,2020,United States
+7084,2020,United States
+7085,2019,Mexico
+7086,2016,China
+7087,2017,India
+7088,2019,Taiwan
+7089,1990,United States
+7090,1991,United States
+7091,2011,United Kingdom
+7092,2008,United Kingdom
+7093,2015,India
+7094,2013,India
+7095,2018,"Mexico, Netherlands"
+7096,2020,South Korea
+7097,2017,United States
+7098,2017,United States
+7101,2010,United Kingdom
+7102,2016,"Spain, Italy, Argentina"
+7103,2014,United States
+7104,2018,United States
+7105,2020,United States
+7106,2019,United States
+7107,2020,United States
+7108,2014,"Germany, United States, Italy"
+7110,2017,South Africa
+7111,2018,United States
+7112,2020,United States
+7113,2006,United States
+7114,2016,"United States, Venezuela"
+7115,2019,United States
+7116,2018,France
+7117,2017,United States
+7118,2020,Russia
+7119,1995,United States
+7120,2015,United Kingdom
+7121,2018,Canada
+7122,2017,Spain
+7123,2017,United States
+7124,2018,United States
+7125,2012,United States
+7126,2018,Argentina
+7127,2016,Argentina
+7128,2009,Singapore
+7129,1999,India
+7130,2017,India
+7131,2017,"United Kingdom, Canada, Japan"
+7132,2017,"Canada, Japan, Netherlands"
+7133,2010,Turkey
+7135,2011,United States
+7136,2020,United States
+7137,2020,United States
+7138,2014,United States
+7139,2018,United States
+7140,2016,United States
+7142,1997,"United Kingdom, United States"
+7143,2017,South Korea
+7144,2016,South Korea
+7145,2020,France
+7146,2016,United States
+7147,2019,Indonesia
+7148,2020,United States
+7149,1988,United States
+7150,2017,Netherlands
+7151,2019,Thailand
+7152,2018,"United Kingdom, United States, Czech Republic"
+7154,2018,United States
+7155,2016,India
+7156,2008,Japan
+7157,2020,India
+7158,2016,Spain
+7159,2001,United States
+7160,2015,"Canada, United States, France"
+7161,2016,United States
+7162,1990,"United States, Mexico"
+7163,2018,India
+7165,2019,Spain
+7166,2015,United States
+7167,2017,United States
+7168,2007,India
+7169,2018,Canada
+7170,2014,Canada
+7171,2014,Canada
+7172,2009,Canada
+7173,2015,Canada
+7174,2016,Canada
+7176,2008,Canada
+7177,2020,Canada
+7178,2006,Canada
+7179,2004,Canada
+7180,2007,Thailand
+7181,2016,South Korea
+7182,1996,United Kingdom
+7183,2008,United States
+7184,2019,United Kingdom
+7185,2017,United States
+7186,2014,"United Kingdom, China, United States"
+7187,2017,"France, Belgium"
+7188,2017,Canada
+7189,2013,United States
+7190,2020,United States
+7192,2016,"Canada, United States"
+7193,2016,United States
+7194,2020,United States
+7196,2014,"United Kingdom, Brazil, Germany"
+7197,2016,United States
+7199,2018,Turkey
+7200,2018,"Canada, United States"
+7201,2019,United States
+7202,2019,United States
+7203,2017,United Kingdom
+7205,2015,Canada
+7206,2018,"South Korea, United States"
+7207,1990,United States
+7209,2001,United States
+7210,2004,United States
+7211,2015,"South Africa, United States"
+7212,2018,"United States, South Africa"
+7213,2020,United States
+7214,2016,United Kingdom
+7215,2017,United States
+7216,2018,United States
+7218,2020,United States
+7219,2020,United States
+7222,1985,India
+7223,1995,India
+7224,2020,United States
+7226,2014,India
+7227,2016,United States
+7228,2019,United States
+7229,2019,"Thailand, China, United States"
+7230,1991,United States
+7231,2019,United States
+7232,2018,"United States, Mexico"
+7233,2017,United States
+7234,2019,United States
+7235,2017,"United Kingdom, Namibia, South Africa, Zimbabwe, United States"
+7236,2004,France
+7237,2017,Russia
+7238,2018,"United Kingdom, South Africa, Australia, United States"
+7239,2017,United States
+7240,2018,India
+7241,2019,"United States, Canada"
+7242,1969,United States
+7243,2016,United States
+7244,2017,United States
+7246,2020,Canada
+7247,2019,Canada
+7248,2019,"United States, Canada"
+7250,2020,Canada
+7251,2020,Canada
+7252,2019,Canada
+7255,2020,Canada
+7256,2015,United States
+7257,2018,United Kingdom
+7258,2017,United States
+7259,2016,India
+7260,2019,United States
+7261,2010,"Canada, United States, India, United Kingdom"
+7262,2012,India
+7263,2010,India
+7265,2019,Japan
+7267,2019,South Korea
+7268,1944,"United States, United Kingdom"
+7270,2013,United States
+7271,2016,United States
+7272,2017,Turkey
+7273,2019,United Kingdom
+7274,2017,United States
+7275,2014,United States
+7276,2019,United States
+7277,2010,"Japan, United States"
+7278,2019,France
+7279,2020,Spain
+7280,1990,United States
+7281,2007,"Hong Kong, China"
+7282,2018,United States
+7283,2018,United Kingdom
+7284,2015,India
+7285,2018,Spain
+7286,2013,Taiwan
+7287,2018,United Kingdom
+7288,2016,Canada
+7289,2019,United States
+7290,2020,South Korea
+7291,2015,Australia
+7292,2019,India
+7293,2008,"United States, France"
+7294,2016,India
+7295,2020,Philippines
+7296,2010,India
+7297,2016,India
+7298,2013,India
+7299,2008,India
+7300,2020,United States
+7301,2015,Thailand
+7302,1959,India
+7303,2018,"United States, Brazil, South Korea, Mexico, Japan, Germany"
+7305,2019,"United States, Japan"
+7306,2019,Japan
+7307,2020,Italy
+7308,2019,Poland
+7309,2020,India
+7310,2015,India
+7311,2015,France
+7312,2016,"United Kingdom, Canada, United States"
+7313,2018,Canada
+7314,2006,United States
+7315,2017,United States
+7316,2020,Spain
+7317,2019,United States
+7318,2019,United States
+7319,2020,United States
+7320,2018,Spain
+7321,2019,India
+7322,2017,Spain
+7324,2016,United States
+7325,2019,United Arab Emirates
+7326,2020,United States
+7327,2019,South Africa
+7328,2019,United States
+7329,2011,United States
+7330,2017,United States
+7331,2016,United States
+7332,2016,South Korea
+7333,2007,"France, Lebanon, United Kingdom"
+7334,2018,United States
+7335,2020,Italy
+7336,2016,"United Kingdom, Jordan, Qatar, Iran"
+7337,2013,"Switzerland, United Kingdom, United States"
+7338,2020,"Belgium, Netherlands"
+7339,2019,United States
+7340,2016,Canada
+7341,2017,Colombia
+7342,1943,United States
+7343,2013,"Argentina, Spain"
+7344,2017,Philippines
+7345,2012,"United Kingdom, Germany"
+7346,2014,"United States, Russia"
+7347,2014,India
+7348,2019,United States
+7349,2017,"Canada, India"
+7350,2017,Belgium
+7351,2011,"United Kingdom, Germany, France, United States"
+7352,2020,Spain
+7354,2019,United States
+7355,2020,Germany
+7356,2019,China
+7357,2017,"United Kingdom, United States"
+7358,2012,Singapore
+7359,2011,Egypt
+7360,2018,United States
+7362,1990,United States
+7363,2020,Mexico
+7364,2018,"Romania, United Kingdom"
+7365,2020,France
+7366,2018,Spain
+7367,2009,United States
+7368,2018,Nigeria
+7369,2011,Malaysia
+7370,2020,United States
+7371,2019,India
+7372,2019,India
+7373,2017,India
+7374,2020,Australia
+7375,2018,China
+7376,2018,Egypt
+7377,2016,United States
+7378,2019,India
+7379,2005,"United States, United Kingdom, Germany"
+7380,2019,United States
+7381,1995,United States
+7382,2019,South Korea
+7383,2018,Brazil
+7384,2020,Egypt
+7385,2020,Spain
+7386,2018,United States
+7387,2008,Japan
+7388,2020,France
+7389,2020,United States
+7390,2019,United States
+7391,2018,India
+7392,2008,United States
+7393,2020,India
+7394,2016,South Africa
+7395,2016,India
+7396,2018,India
+7397,2016,United States
+7398,2017,United States
+7399,2016,United States
+7400,2016,Spain
+7401,2019,United States
+7402,2018,Spain
+7404,2017,Mexico
+7405,2017,Spain
+7406,2018,"France, Canada"
+7407,2008,Indonesia
+7408,2017,Indonesia
+7409,2015,"Lebanon, Qatar"
+7410,2012,India
+7411,2012,United Kingdom
+7412,2017,"United Kingdom, India, Sweden"
+7413,2018,Spain
+7414,1991,United States
+7415,2015,United States
+7416,2013,United States
+7417,2006,"Argentina, Spain"
+7418,2018,"United Kingdom, Belgium"
+7419,2016,United States
+7420,2020,United Kingdom
+7421,2016,Philippines
+7422,2016,United States
+7423,2018,Japan
+7424,2019,Japan
+7426,2017,United States
+7427,2020,India
+7428,2018,United States
+7429,2020,India
+7431,2020,United States
+7432,2010,"India, Pakistan"
+7433,2014,"United Kingdom,"
+7434,2015,United States
+7435,2017,India
+7436,2014,India
+7437,2006,India
+7438,2001,Turkey
+7439,2004,Turkey
+7440,2018,India
+7441,2018,South Korea
+7442,2020,United States
+7443,2018,United States
+7444,2018,France
+7445,2017,United States
+7446,2016,South Korea
+7447,2018,United Kingdom
+7448,2018,United States
+7449,2011,United Kingdom
+7450,2015,United States
+7451,2018,India
+7452,2017,United Kingdom
+7453,2013,Pakistan
+7454,2016,India
+7456,2012,"Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States"
+7457,2019,China
+7458,2015,India
+7459,2010,United States
+7460,2005,United States
+7462,2009,India
+7463,2016,United States
+7464,2017,France
+7466,2017,United States
+7467,2017,United Kingdom
+7468,2019,United States
+7469,2017,United States
+7470,2015,United States
+7471,2019,United States
+7472,2019,France
+7473,2018,United Kingdom
+7474,2018,Australia
+7475,2007,"United States, Canada"
+7476,2013,"United States, Spain"
+7477,2013,India
+7478,2011,"United States, India"
+7479,2017,United States
+7480,2016,United Kingdom
+7481,2014,Egypt
+7482,2015,Mexico
+7483,2018,Denmark
+7484,2020,United States
+7485,2014,Poland
+7486,2020,South Korea
+7487,2020,"France, Brazil, Spain, Belgium"
+7489,2019,India
+7490,2017,United States
+7491,2018,"United States, Brazil, India, Uganda, China"
+7492,2018,"United Kingdom, Ireland, United States"
+7493,2011,Taiwan
+7494,2016,India
+7495,1979,"Lebanon, Canada, France"
+7496,2010,"India, Australia"
+7497,2019,Hong Kong
+7498,2020,France
+7499,2020,United States
+7500,2019,Germany
+7501,2014,Germany
+7502,2015,"United Kingdom, France, United States"
+7503,2018,United States
+7504,2018,United States
+7505,2020,United States
+7506,2018,United States
+7507,2016,Spain
+7508,2018,United States
+7509,2020,"United States, Canada, United Kingdom"
+7510,2018,United States
+7511,2017,United States
+7512,2012,Egypt
+7513,2017,United States
+7514,2015,"United States, Argentina"
+7515,2018,"Austria, Iraq, United States"
+7516,1983,Poland
+7517,2017,France
+7518,2018,Kuwait
+7519,2018,United States
+7520,2012,United States
+7521,2016,Hong Kong
+7522,2016,United Kingdom
+7523,2007,India
+7524,2015,India
+7525,2013,Italy
+7526,2016,United States
+7527,2014,"United States, France"
+7528,2008,India
+7529,2020,United States
+7530,2018,Spain
+7531,2017,United States
+7532,2009,India
+7533,2020,China
+7534,2020,Australia
+7535,1999,"France, Norway, Lebanon, Belgium"
+7536,2016,France
+7537,2015,United States
+7538,1967,Poland
+7539,2018,United States
+7542,2015,United States
+7543,2017,United States
+7544,2019,United States
+7545,2003,"United States, United Kingdom"
+7546,2017,China
+7547,2020,India
+7548,2018,Lebanon
+7549,2020,United States
+7550,2017,"United Kingdom, France, United States, Belgium"
+7551,2021,South Korea
+7552,2015,United States
+7553,2016,Turkey
+7555,2015,South Korea
+7556,2012,Taiwan
+7557,2018,Canada
+7558,2000,United States
+7559,2017,United Kingdom
+7560,2017,Taiwan
+7561,2018,United States
+7562,2019,Spain
+7563,2013,India
+7564,2017,United States
+7565,2015,India
+7566,2020,United States
+7567,2017,United States
+7568,2020,Austria
+7569,2021,United States
+7570,1993,United States
+7571,2005,United States
+7572,2002,Indonesia
+7573,2006,"Saudi Arabia, United Arab Emirates"
+7574,2009,India
+7575,2017,United States
+7576,2020,United States
+7577,2018,Spain
+7578,2017,United States
+7579,2013,"United Kingdom, India, United States"
+7580,2018,Israel
+7581,2015,Taiwan
+7582,2014,Nigeria
+7583,2019,South Korea
+7584,2019,United States
+7585,2016,"Peru, United States, United Kingdom"
+7586,2018,United States
+7587,2000,"Germany, United States, United Kingdom, Canada"
+7588,2017,United States
+7589,2015,United States
+7590,2019,Brazil
+7591,2020,Indonesia
+7592,2004,"Uruguay, Argentina, Germany, Spain"
+7593,1980,"Lebanon, Canada, France"
+7594,2018,United Kingdom
+7595,1954,United States
+7596,2018,"France, Luxembourg, United States"
+7597,2016,United States
+7598,2019,United Kingdom
+7599,2016,United Kingdom
+7600,2020,"United Kingdom, Spain"
+7601,2016,South Korea
+7602,2016,United States
+7604,2010,United States
+7605,2019,France
+7606,2020,United States
+7607,2017,United States
+7608,2019,Spain
+7609,1967,United States
+7610,2011,Taiwan
+7611,2017,United States
+7612,2020,United States
+7613,2016,United Kingdom
+7614,2016,"Canada, India, Thailand, United States, United Arab Emirates"
+7615,2015,"Romania, Bulgaria, Hungary"
+7616,1943,United States
+7617,2015,United Kingdom
+7618,2013,United Kingdom
+7619,2008,"United States, United Kingdom, France"
+7620,2019,Colombia
+7621,2016,"Germany, United States"
+7622,2018,United States
+7623,1999,United States
+7624,2018,United States
+7625,2018,United States
+7626,2017,United Kingdom
+7627,2019,Hungary
+7628,1971,"United States, East Germany, West Germany"
+7629,2017,United States
+7630,2020,United Kingdom
+7631,2018,"Australia, United States"
+7632,2019,United States
+7633,2017,"France, Netherlands, South Africa, Finland"
+7634,2016,United States
+7635,1981,Australia
+7636,2015,"United Kingdom, Ukraine, United States"
+7637,2014,Turkey
+7638,2010,United States
+7639,2015,Italy
+7640,2019,Malaysia
+7641,2014,United States
+7642,2019,United States
+7645,2015,United Kingdom
+7646,2017,Canada
+7647,2011,United Kingdom
+7648,2016,Nigeria
+7649,2017,"United Kingdom, Nigeria"
+7650,2020,United States
+7651,2018,Turkey
+7652,2016,United States
+7653,2010,United States
+7654,2019,Poland
+7655,2019,Netherlands
+7657,2017,United States
+7658,2019,United States
+7659,2017,United States
+7660,2020,United States
+7661,2020,United States
+7662,2020,United States
+7663,2020,Canada
+7664,2014,Singapore
+7665,2020,India
+7666,2017,"Italy, United States"
+7667,2006,United States
+7668,2009,United Kingdom
+7669,2017,United Kingdom
+7670,2020,United States
+7672,2017,United States
+7673,2013,United States
+7674,2018,Australia
+7675,2015,Pakistan
+7676,2016,India
+7677,2019,United States
+7678,2009,United States
+7679,1943,United States
+7680,2014,United States
+7681,1994,United States
+7682,2018,"Canada, United States"
+7683,2011,Egypt
+7684,2015,India
+7685,2016,United States
+7686,2016,United Kingdom
+7687,2017,"Canada, United States"
+7688,2002,United States
+7689,2005,United States
+7690,2001,Mexico
+7691,2008,India
+7693,2001,India
+7694,1994,India
+7695,2011,India
+7696,2013,India
+7697,2006,India
+7698,2019,Mexico
+7699,2019,China
+7700,2018,"Egypt, Austria, United States"
+7701,2020,India
+7702,2014,India
+7703,2018,India
+7704,2014,"France, Belgium"
+7705,2008,"United States, United Kingdom"
+7706,2010,Thailand
+7707,2012,Thailand
+7708,2015,Thailand
+7709,2014,Singapore
+7710,2020,United States
+7711,2018,South Korea
+7712,2015,United States
+7713,2016,"Japan, United States"
+7714,2016,United States
+7716,2015,"Russia, Spain"
+7718,2018,South Korea
+7720,2020,South Korea
+7721,2019,United States
+7722,2020,United States
+7723,2017,United Kingdom
+7724,2017,United States
+7725,2020,Mexico
+7726,2015,"Croatia, Slovenia, Serbia, Montenegro"
+7727,2009,Philippines
+7728,2008,United States
+7729,2017,United States
+7730,2019,United States
+7731,2016,Turkey
+7732,2015,Philippines
+7733,2008,Taiwan
+7734,2020,Mexico
+7735,2017,United States
+7736,2011,United States
+7737,1973,Hong Kong
+7738,2020,United Kingdom
+7740,2014,Japan
+7741,2020,Taiwan
+7742,2018,"Spain, France"
+7743,2012,Singapore
+7744,2020,India
+7745,2005,United States
+7747,2016,"Egypt, France"
+7748,2009,Egypt
+7749,2005,Japan
+7750,2015,"Japan, Canada"
+7751,2018,Spain
+7752,2019,Australia
+7753,2016,Turkey
+7754,2004,India
+7755,2018,United States
+7756,2018,Brazil
+7757,2006,United States
+7758,2008,United States
+7759,2016,"United States, France, South Korea, Indonesia"
+7760,2005,Egypt
+7761,2014,"Canada, United States"
+7762,2014,India
+7763,2009,India
+7764,2018,India
+7766,2016,France
+7767,2012,Pakistan
+7768,2016,Pakistan
+7769,2011,India
+7770,2015,"United Arab Emirates, Jordan"
+7771,2018,United States
+7772,2016,Spain
+7773,2016,Mexico
+7774,2007,United States
+7775,2018,Japan
+7776,2011,India
+7778,2009,United States
+7779,2019,Mexico
+7780,2018,India
+7781,2006,United States
+7782,2005,"Sweden, Czech Republic, United Kingdom, Denmark, Netherlands"
+7783,2015,India
+7785,2019,Australia
+7786,2019,"United Kingdom, Canada, United States"
