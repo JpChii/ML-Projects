@@ -1,4 +1,4 @@
-#!/opt/concourse/worker/volumes/live/17eaeb53-aaa4-4209-55dd-e1c12dcec745/volume/openssl_1613667722301/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/bin/perl
+#!/usr/bin/env perl
 # Copyright 2002-2018 The OpenSSL Project Authors. All Rights Reserved.
 # Copyright (c) 2002 The OpenTSA Project. All rights reserved.
 #
