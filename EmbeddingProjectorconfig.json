@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Word embedding imdb dataset",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/JpChii/ML-Projects/main/data/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/JpChii/ML-Projects/main/data/metadata.tsv"
+    }
+  ]
+}
